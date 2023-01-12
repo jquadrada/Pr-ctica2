@@ -1,0 +1,1441 @@
+type,name,year,cellar,region,country,varieties,eco,rating,stars,opinions,likes,parker,penin,suckling,price,old_price,offer
+Vinos rosados y rosé,Muga Rosado,2021,Bodegas Muga,Rioja,España,Garnacha / Viura / Tempranillo,,4.60465,5,43,34,90,-1,-1,"8,95 €",,False
+Vinos rosados y rosé,Chivite Las Fincas Rosado,2021,Chivite,3 Riberas,España,Garnacha / Tempranillo,,4.20408,5,49,28,-1,-1,-1,"11,50 €",,False
+Vinos rosados y rosé,Viña Real Rosado,2021,Viña Real,Rioja,España,Viura / Tempranillo,,4.14286,5,7,9,91,-1,-1,"6,90 €",,False
+Vinos rosados y rosé,Naranjas Azules,2021,Soto y Manrique,Cebreros,España,Garnacha,,3.64706,5,17,18,-1,-1,-1,"9,50 €",,False
+Vinos rosados y rosé,Can Sumoi La Rosa,2021,Can Sumoi,Penedès,España,Sumoll / Parellada / Xarel·lo,ECO,4.0,5,17,6,-1,-1,-1,"11,85 €",,False
+Vinos rosados y rosé,Izadi Larrosa Rosé,2021,Bodegas Izadi,Rioja,España,Garnacha,,4.36,5,25,11,90,-1,91,"7,90 €",,False
+Vinos rosados y rosé,Château Saint Maur L'Excellence,2021,Château Saint Maur,Côtes-de-Provence,Francia,Garnacha / Cinsaut / Monastrell / Rolle,,4.66667,5,3,3,-1,-1,-1,"24,95 €",,False
+Vinos rosados y rosé,Las Cañadas,2021,Bodegas y Viñedos Ponce,Manchuela,España,Bobal,,3.75,5,4,5,91,-1,-1,"7,60 €",,False
+Vinos rosados y rosé,Zutanita,2021,Wine Side Story,Côtes-de-Provence,Francia,Cinsaut / Garnacha,,4.33333,5,9,7,-1,-1,-1,"11,95 €",,False
+Vinos rosados y rosé,Flor de Muga Rosado,2021,Bodegas Muga,Rioja,España,Garnacha,,4.375,5,8,9,93,-1,-1,"19,90 €",,False
+Vinos rosados y rosé,Ramón Bilbao Rosado,2021,Bodegas Ramón Bilbao,Rioja,España,Garnacha,,4.26087,5,23,3,-1,-1,-1,"6,50 €",,False
+Vinos rosados y rosé,Gran Caus Rosado,2021,Can Ràfols dels Caus,Penedès,España,Merlot,,4.42857,5,7,3,90,-1,-1,"16,95 €",,False
+Vinos rosados y rosé,Torelló Rosa d'Abril,2021,Torelló,Penedès,España,Macabeo / Syrah / Malvasía,ECO,4.5,5,2,1,-1,-1,-1,"10,30 €",,False
+Vinos rosados y rosé,Cortijo Los Aguilares Rosado,2021,Cortijo Los Aguilares,Sierras de Málaga,España,Tempranillo / Merlot / Syrah / Petit verdot,,4.4,5,5,3,-1,-1,-1,"11,95 €",,False
+Vinos rosados y rosé,Llopart Carmí,2021,Cavas Llopart,Penedès,España,Sumoll / Garnacha,ECO,5.0,5,2,0,-1,-1,-1,"9,95 €",,False
+Vinos rosados y rosé,Bach Viña Extrísima Rosado Seco,2021,Masia Bach,Catalunya,España,Cabernet sauvignon / Tempranillo / Merlot,,4.67647,5,34,9,-1,-1,-1,"4,40 €",,False
+Vinos rosados y rosé,Raimat Clamor Rosado,2021,Raimat,Costers del Segre,España,Cabernet sauvignon / Merlot,,4.4,5,5,2,-1,-1,-1,"5,95 €",,False
+Vinos rosados y rosé,Bach Extrísimo Rosado Semidulce,2021,Masia Bach,Catalunya,España,Cabernet sauvignon / Tempranillo / Merlot,,4.86667,5,15,5,-1,-1,-1,"4,60 €",,False
+Vinos rosados y rosé,René Barbier Rosado,2021,René Barbier,Catalunya,España,Tempranillo / Merlot,,4.54545,5,11,6,-1,-1,-1,"4,10 €",,False
+Vinos rosados y rosé,Campo Viejo Rosado,2021,Bodegas Campo Viejo,Rioja,España,Tempranillo,,4.69231,5,13,5,-1,-1,-1,"4,50 €",,False
+Vinos rosados y rosé,Cune Rosado,2021,Compañía Vinícola del Norte de España - CVNE,Rioja,España,Tempranillo,,4.33333,5,9,7,-1,-1,-1,"4,80 €",,False
+Vinos rosados y rosé,Cresta Rosa,-1,Perelada,Sin indicación geográfica,España,Tempranillo / Cariñena / Garnacha,,4.2381,5,21,8,-1,-1,-1,"4,25 €",,False
+Vinos rosados y rosé,Lambrusco Rosato Crestissimo,-1,Perelada,Emilia,Italia,Lambrusco,,3.5,5,4,5,-1,-1,-1,"4,05 €",,False
+Vinos rosados y rosé,Laus Rosado,2021,Bodegas Laus,Somontano,España,Syrah / Garnacha,,0.0,5,0,0,-1,-1,-1,"5,40 €",,False
+Vinos rosados y rosé,Miraval Rosé,2021,Château Miraval,Côtes-de-Provence,Francia,Cinsaut / Garnacha / Syrah / Rolle,,3.875,5,8,7,-1,-1,-1,"19,40 €",,False
+Vinos rosados y rosé,Pago del Vicario Petit Verdot Rosado,2021,Bodega Pago del Vicario,Castilla,España,Petit verdot,,4.58824,5,17,6,-1,-1,-1,"7,30 €",,False
+Vinos rosados y rosé,Zaccagnini Cerasuolo d'Abruzzo Tralcetto,2021,Zaccagnini,Cerasuolo d'Abruzzo,Italia,Montepulciano,,3.91667,5,12,6,-1,-1,-1,"9,15 €",,False
+Vinos rosados y rosé,Can Axartell Rosado,2021,Can Axartell,Mallorca,España,Pinot noir / Callet / Mantonegro,ECO,4.0,5,2,2,-1,-1,-1,"13,95 €",,False
+Vinos rosados y rosé,Vivanco Rosado,2021,Bodegas Vivanco,Rioja,España,Tempranillo / Garnacha,,4.0,5,4,2,90,-1,-1,"6,75 €",,False
+Vinos rosados y rosé,Bestué Rosado,2020,Otto Bestué,Somontano,España,Garnacha,,4.42857,5,7,2,-1,-1,-1,"7,50 €",,False
+Vinos rosados y rosé,Chivite Colección 125 Rosado,2021,Chivite,Navarra,España,Tempranillo / Garnacha,,4.25,5,4,1,-1,-1,-1,"23,90 €",,False
+Vinos rosados y rosé,Lar de Maía 8º Rosado,2021,Lar de Maía,Castilla y León,España,Tempranillo,,5.0,5,1,2,-1,-1,-1,"11,95 €",,False
+Vinos rosados y rosé,Belondrade Quinta Clarisa,2021,Belondrade,Castilla y León,España,Tempranillo,,4.0,5,6,2,-1,-1,-1,"12,40 €",,False
+Vinos rosados y rosé,Viña Norte Rosado,2020,Bodegas Insulares de Tenerife,Tacoronte - Acentejo,España,Listán negro,,0.0,5,0,0,-1,-1,-1,"12,10 €",,False
+Vinos rosados y rosé,Pasión de Bobal Rosado,2021,Bodega Sierra Norte,Utiel-Requena,España,Bobal,ECO,4.5,5,4,4,-1,-1,-1,"6,50 €",,False
+Vinos rosados y rosé,Marbella Blush Rosé,2020,Bodegas Málaga Virgen,Sierras de Málaga,España,Syrah,,0.0,5,0,1,-1,-1,-1,"24,70 €",,False
+Vinos rosados y rosé,Casa Ravella Ton del Ros,2020,Casa Ravella,Penedès,España,Merlot,ECO,5.0,5,1,2,-1,-1,-1,"7,61 €","8,95 €",True
+Vinos rosados y rosé,Bri Rosat del Celler de l'Era,2021,Celler de l'Era,Montsant,España,Garnacha / Syrah,ECO,4.0,5,1,1,-1,-1,-1,"7,50 €",,False
+Vinos rosados y rosé,Raimat Abadia Rosat,2020,Raimat,Costers del Segre,España,Cabernet sauvignon / Tempranillo,ECO,5.0,5,3,1,-1,-1,-1,"7,45 €",,False
+Vinos rosados y rosé,Alquézar Rosado,2021,Bodega Pirineos,Somontano,España,Tempranillo / Garnacha,,4.16667,5,6,1,-1,-1,-1,"5,60 €",,False
+Vinos rosados y rosé,Torres De Casta,2021,Propiedad Bodegas Torres,Catalunya,España,Cariñena / Garnacha,,4.56,5,25,1,-1,-1,-1,"5,40 €",,False
+Vinos rosados y rosé,Oliver Conti Indispensable Rosé,2021,Oliver Conti,Empordà,España,Garnacha,,4.0,5,1,3,-1,-1,-1,"5,90 €",,False
+Vinos rosados y rosé,Viña Aljibes Rosado,2020,Bodegas los Aljibes,Castilla,España,Syrah,,4.28571,5,7,0,-1,-1,-1,"5,60 €",,False
+Vinos rosados y rosé,Príncipe de Viana Rosado Cabernet Sauvignon,2021,Bodegas Prí­ncipe de Viana,Navarra,España,Cabernet sauvignon / Merlot,,4.0,5,3,1,-1,-1,-1,"4,85 €",,False
+Vinos rosados y rosé,Viñas del Vero Merlot Tempranillo,2021,Viñas del Vero,Somontano,España,Merlot / Tempranillo,,4.5,5,8,0,-1,-1,-1,"4,50 €",,False
+Vinos rosados y rosé,Clos de Torribas Rosat,2020,Bodegas Pinord,Penedès,España,Cabernet sauvignon / Merlot / Tempranillo,ECO,5.0,5,1,1,-1,-1,-1,"5,95 €",,False
+Vinos rosados y rosé,Colegiata Rosado,2021,Bodegas Fariña,Toro,España,Tinta de Toro,,4.42857,5,7,4,-1,-1,-1,"5,60 €",,False
+Vinos rosados y rosé,Beso de Vino Garnacha Rosé,2018,Grandes Vinos,Cariñena,España,Garnacha,,0.0,5,0,1,-1,-1,-1,"3,82 €","4,50 €",True
+Vinos rosados y rosé,Baglio di Pianetto Syrah Rosato Baiasyra,2020,Baglio di Pianetto,Terre Siciliane,Italia,Syrah,ECO,0.0,5,0,1,-1,-1,-1,"11,00 €",,False
+Vinos rosados y rosé,Barón de Ley Rosado,2020,Barón de Ley,Rioja,España,Tempranillo / Garnacha,,4.0,5,2,1,-1,-1,-1,"6,40 €",,False
+Vinos rosados y rosé,La Vieille Ferme Rosé,2020,La Vieille Ferme,Ventoux,Francia,Cinsaut / Grenache / Syrah,,3.33333,5,3,0,-1,-1,-1,"7,80 €",,False
+Vinos rosados y rosé,Gregorio Martínez Finca Sangrado,2016,Bodegas Gregorio Martínez,Rioja,España,Tempranillo / Mazuelo,,5.0,5,2,5,-1,-1,-1,"12,25 €",,False
+Vinos rosados y rosé,Jumenta Rosado,2018,Bodega Rodríguez de Vera,Almansa,España,Pinot noir,ECO,0.0,5,0,1,-1,-1,-1,"6,07 €","7,15 €",True
+Vinos rosados y rosé,Val delle Corti Rosé Scuro,2020,Val delle Corti,Sin indicación geográfica,Italia,Sangiovese,,5.0,5,1,2,-1,-1,-1,"14,25 €",,False
+Vinos rosados y rosé,Pètals de Garnacha,2021,Celler Sabaté,Priorat,España,Garnacha,,4.0,5,1,2,-1,-1,-1,"11,25 €",,False
+Vinos rosados y rosé,Rinaldini Lambrusco Frizzante R'Osé,-1,Rinaldini,Emilia,Italia,Lambrusco Marani / Lambrusco Salamino,,0.0,5,0,3,-1,-1,-1,"10,30 €",,False
+Vinos rosados y rosé,Bendito Destino Clarete,2021,Bendito Destino,Ribera del Duero,España,Tempranillo / Garnacha / Albillo,,0.0,5,0,1,-1,-1,-1,"34,00 €",,False
+Vinos rosados y rosé,Celler Arrufí Corritjola,2021,Celler Arrufí,Terra Alta,España,Garnacha / Syrah,ECO,5.0,5,1,1,-1,-1,-1,"8,05 €",,False
+Vinos rosados y rosé,Jean Leon 3055 Rosé,2021,Jean Leon,Penedès,España,Pinot noir / Garnacha,ECO,4.0,5,2,4,-1,-1,-1,"12,50 €",,False
+Vinos rosados y rosé,Care Solidarity Rosé,2021,Bodegas Añadas,Cariñena,España,Cabernet sauvignon / Tempranillo,,4.71429,5,7,1,-1,-1,-1,"6,40 €",,False
+Vinos rosados y rosé,Binifadet Rosado,2021,Bodegas Binifadet,Illa de Menorca,España,Merlot / Monastrell,,0.0,5,0,0,-1,-1,-1,"13,20 €",,False
+Vinos rosados y rosé,Chapoutier Belleruche Rosé,2021,M. Chapoutier,Côtes du Rhône,Francia,Garnacha / Cinsaut / Syrah,,0.0,5,0,2,-1,-1,-1,"11,85 €",,False
+Vinos rosados y rosé,Mip Classic,2021,Domaine des Diables,Côtes-de-Provence,Francia,Cinsaut / Syrah / Garnacha,,4.5,5,2,0,-1,-1,-1,"12,95 €",,False
+Vinos rosados y rosé,Montrodó Rosat,2020,Eccociwine,Sin indicación geográfica,España,Merlot / Petit verdot,,0.0,5,0,0,-1,-1,-1,"7,65 €","9,00 €",True
+Vinos rosados y rosé,Pavina Rosé,2021,Bodegas Alta Pavina,Castilla y León,España,Pinot noir,,0.0,5,0,5,-1,-1,-1,"10,85 €",,False
+Vinos rosados y rosé,Baigorri Rosado,2021,Bodegas Baigorri,Rioja,España,Tempranillo / Garnacha,,4.0,5,2,4,-1,-1,-1,"7,85 €",,False
+Vinos rosados y rosé,Tenuta Ulisse Rosé,2021,Tenuta Ulisse,Sin indicación geográfica,Italia,Merlot,,4.0,5,1,1,-1,-1,-1,"16,90 €",,False
+Vinos rosados y rosé,Familia Valdelana Rosado,2021,Bodegas Valdelana,Rioja,España,Garnacha / Tempranillo,,0.0,5,0,0,-1,-1,-1,"6,00 €",,False
+Vinos rosados y rosé,Mingua Rosado,2021,Bodegas Fábregas,Somontano,España,Syrah / Garnacha,,4.0,5,1,0,-1,-1,-1,"6,00 €",,False
+Vinos rosados y rosé,Protocolo Rosado,2019,Dominio de Eguren,Castilla,España,Bobal / Tempranillo,ECO,2.75,5,4,1,-1,-1,-1,"4,20 €",,False
+Vinos rosados y rosé,El Circo Payaso,2020,Grandes Vinos,Cariñena,España,Garnacha,,3.0,5,2,1,-1,-1,-1,"3,90 €",,False
+Vinos rosados y rosé,Duc de Foix Rosat,2021,Covides Vinyes i Cellers,Penedès,España,Cabernet sauvignon,,4.125,5,8,1,-1,-1,-1,"4,95 €",,False
+Vinos rosados y rosé,Mas Donís Rosat,2021,Celler Capçanes,Montsant,España,Garnacha / Syrah / Merlot,,3.0,5,2,1,-1,-1,-1,"6,30 €",,False
+Vinos rosados y rosé,Flor de Nit Rosat,2020,Celler Terra i Vins,Terra Alta,España,Garnacha,,0.0,5,0,0,-1,-1,-1,"8,46 €","9,95 €",True
+Vinos rosados y rosé,Ses Nines Rosat de Sang,2021,Tianna Negre - Ses Nines,Mallorca,España,Mantonegro / Callet / Cabernet sauvignon,,4.0,5,1,2,-1,-1,-1,"10,90 €",,False
+Vinos rosados y rosé,Más Amor,2021,"Vino, Amor y Fantasía",Catalunya,España,Garnacha / Cariñena / Sumoll,,5.0,5,1,2,-1,-1,-1,"8,00 €",,False
+Vinos rosados y rosé,Clarete de Luna Rosado,2021,Bodegas César Príncipe ,Cigales,España,Tempranillo / Albillo / Garnacha / Verdejo,,4.125,5,8,2,-1,-1,-1,"6,80 €",,False
+Vinos rosados y rosé,Atance Rosé,2021,Risky Grapes,Valencia,España,Garnacha / Bobal,,0.0,5,0,0,-1,-1,-1,"7,50 €",,False
+Vinos rosados y rosé,Artazuri Rosado,2021,Bodegas y Viñedos Artazu,Navarra,España,Garnacha,ECO,4.0,5,3,3,-1,-1,-1,"7,50 €",,False
+Vinos rosados y rosé,Terramoll Rosa de Mar,2021,Bodega Terramoll,Formentera,España,Cabernet sauvignon / Merlot / Monastrell,,3.0,5,1,0,-1,-1,-1,"24,50 €",,False
+Vinos rosados y rosé,Jhana,2018,Castell d'Encús,Costers del Segre,España,Merlot / Petit verdot,,0.0,5,0,4,93,-1,-1,"25,80 €",,False
+Vinos rosados y rosé,Faustino Art Collection Rosé,2021,Bodegas Faustino,Rioja,España,Garnacha,,0.0,5,0,1,-1,-1,90,"7,70 €",,False
+Vinos rosados y rosé,Trencaclosques,2018,Pascona,Montsant,España,Syrah,,0.0,5,0,1,-1,-1,-1,"9,22 €","10,85 €",True
+Vinos rosados y rosé,Madrid Romero 3 Calas Rosado,2018,Bodega Madrid Romero,Jumilla,España,Garnacha / Monastrell,,0.0,5,0,1,-1,-1,-1,"6,72 €","7,90 €",True
+Vinos rosados y rosé,Las Mulas Cabernet Sauvignon Rosé Organic,2021,Miguel Torres Chile,Valle Central,Chile,Cabernet sauvignon,ECO,0.0,5,0,0,-1,-1,-1,"10,45 €",,False
+Vinos rosados y rosé,Albet i Noya Rosat Curiosa,2021,Albet i Noya,Penedès,España,Merlot / Pinot noir,ECO,3.5,5,2,0,-1,-1,-1,"8,30 €",,False
+Vinos rosados y rosé,Domaine Sol Payré Rosae,2019,Domaine Sol Payré,Sin indicación geográfica,Francia,Monastrell / Grenache,,0.0,5,0,2,-1,-1,-1,"10,35 €",,False
+Vinos rosados y rosé,Can Rich Bes,2020,Can Rich,Ibiza,España,Monastrell,ECO,3.5,5,2,0,-1,-1,-1,"10,16 €","11,95 €",True
+Vinos rosados y rosé,Oriol Rosat,2020,Vinyes dels Aspres,Empordà,España,Garnacha gris / Syrah,,5.0,5,1,1,-1,-1,-1,"8,95 €",,False
+Vinos rosados y rosé,Vinyes Singulars Claret,2020,Vinyes Singulars,Sin indicación geográfica,España,Xarel·lo / Sumoll,ECO,0.0,5,0,0,-1,-1,-1,"16,83 €","19,80 €",True
+Vinos rosados y rosé,Obalo Rosado,2020,Bodega Obalo,Rioja,España,Tempranillo,,3.5,5,2,1,-1,-1,-1,"5,78 €","6,80 €",True
+Vinos rosados y rosé,Vinyes Singulars Sumoi Barmei,2021,Vinyes Singulars,Sin indicación geográfica,España,Sumoll,ECO,0.0,5,0,3,-1,-1,-1,"21,50 €",,False
+Vinos rosados y rosé,Perrin Réserve Côtes du Rhône Rosé,2020,Famille Perrin,Côtes du Rhône,Francia,Cinsaut / Grenache / Syrah / Monastrell,,0.0,5,0,1,-1,-1,-1,"9,00 €",,False
+Vinos rosados y rosé,Viña Zorzal Rosado,2021,Viña Zorzal,Navarra,España,Garnacha,,4.4,5,5,11,-1,-1,-1,"6,50 €",,False
+Vinos rosados y rosé,Pagos de Aráiz Rosado,2021,Pagos de Aráiz,Navarra,España,Garnacha,,4.33333,5,9,5,-1,-1,-1,"5,90 €",,False
+Vinos rosados y rosé,Perelada Rosado,2020,Perelada,Empordà,España,Tempranillo / Garnacha / Merlot,,3.6,5,5,1,-1,-1,-1,"5,75 €",,False
+Vinos rosados y rosé,Palamà Fregi Barocchi Rosato,2020,Palamà,Salento,Italia,Negroamaro,,0.0,5,0,1,-1,-1,-1,"7,05 €",,False
+Vinos rosados y rosé,Montecastrillo Rosado,2020,Finca Torremilanos,Bio Bio Valle,Chile,Abrusco / Zweigelt,,0.0,5,0,0,-1,-1,-1,"7,95 €",,False
+Vinos rosados y rosé,Cuscó Berga Cova Gran Merlot,2019,Vins i Caves Cuscó Berga,Sin indicación geográfica,España,Merlot,ECO,0.0,5,0,0,-1,-1,-1,"7,44 €","8,75 €",True
+Vinos rosados y rosé,Escabeces,2020,Escabeces Vins,Tarragona,España,Xarel·lo vermell,,4.4,5,5,8,91,-1,-1,"13,95 €",,False
+Vinos rosados y rosé,Petit Caus Rosado,2021,Can Ràfols dels Caus,Penedès,España,Merlot / Syrah / Tempranillo / Sumoll,,4.0,5,6,2,-1,-1,-1,"8,40 €",,False
+Vinos rosados y rosé,Mallolet Rosa,2019,Roig Parals,Empordà,España,Garnacha,,4.0,5,1,0,-1,-1,-1,"7,36 €","8,65 €",True
+Vinos rosados y rosé,Castillo de Monjardín Rosado de Lágrima,2021,Bodegas Castillo de Monjardín,Navarra,España,Cabernet sauvignon / Tempranillo,,4.0,5,2,2,-1,-1,-1,"6,95 €",,False
+Vinos rosados y rosé,Finca Bacara Rosé,2020,Finca Bacara,Sin indicación geográfica,España,Garnacha,,0.0,5,0,2,-1,-1,-1,"7,70 €",,False
+Vinos rosados y rosé,Flamingo Rosé,2021,Bodega Conde de San Cristóbal,Ribera del Duero,España,Tempranillo,,0.0,5,0,1,-1,-1,-1,"21,90 €",,False
+Vinos rosados y rosé,El Columpio Rosat,2021,Tianna Negre - Ses Nines,Mallorca,España,Mantonegro / Syrah,,4.5,5,2,1,-1,-1,-1,"10,85 €",,False
+Vinos rosados y rosé,Montecillo Rosado,2020,Bodegas Montecillo,Rioja,España,Tempranillo / Tempranillo blanco,,0.0,5,0,0,-1,-1,-1,"6,95 €",,False
+Vinos rosados y rosé,Michel Lynch Bordeaux Rosé,2021,Famille J.M. Cazes,Bordeaux Rosé,Francia,Cabernet franc / Cabernet sauvignon,,0.0,5,0,0,-1,-1,-1,"10,30 €",,False
+Vinos rosados y rosé,Nutt Rosé Eco,2020,Mas Bertran Viticultors,Penedès,España,Sumoll,ECO,0.0,5,0,0,-1,-1,-1,"7,31 €","8,60 €",True
+Vinos rosados y rosé,Rares Terroirs Pays d'Oc N°5 Cinsault,2019,Wines And Brands,Pays d'Oc,Francia,Cinsaut,,0.0,5,0,0,-1,-1,-1,"10,30 €",,False
+Vinos rosados y rosé,Domaine Tariquet Rosé de Pressée,2020,Domaine Tariquet,Côtes de Gascogne,Francia,Merlot / Cabernet franc / Syrah / Tannat,,4.0,5,1,2,-1,-1,-1,"8,25 €",,False
+Vinos rosados y rosé,Vizcarra Rosado,2021,Bodegas Vizcarra,Ribera del Duero,España,Garnacha,,0.0,5,0,2,-1,-1,-1,"14,90 €",,False
+Vinos rosados y rosé,Fontedei Aixa,2019,Bodegas Fontedei,Granada,España,Merlot,,0.0,5,0,0,-1,-1,-1,"9,75 €",,False
+Vinos rosados y rosé,Roigenc,2017,Cellers Capafons-Ossó,Montsant,España,Syrah,,3.0,5,1,0,-1,-1,-1,"11,75 €",,False
+Vinos rosados y rosé,Mont Rubí Gaintus One Night's Rosé,2018,Bodega Heretat Mont-Rubí,Penedès,España,Sumoll,,0.0,5,0,0,-1,-1,-1,"10,62 €","12,50 €",True
+Vinos rosados y rosé,L'Apprentie Sorcière du Clos des Fées Rosé,2019,Le Clos des Fées,Côtes Catalanes,Francia,Carignano / Grenache / Monastrell / Syrah,,0.0,5,0,1,-1,-1,-1,"10,50 €",,False
+Vinos rosados y rosé,El Coto Rosado,2021,El Coto de Rioja,Rioja,España,Tempranillo / Garnacha,,4.75,5,12,6,-1,-1,-1,"5,25 €",,False
+Vinos rosados y rosé,Emina Rosado,2021,Bodegas Emina,Cigales,España,Tempranillo / Verdejo,,4.0,5,1,1,-1,-1,-1,"5,95 €",,False
+Vinos rosados y rosé,Rioja Bordón Rosado,2021,Bodegas Franco Españolas,Rioja,España,Garnacha / Viura,,0.0,5,0,0,-1,-1,-1,"5,25 €",,False
+Vinos rosados y rosé,Reciente Rosado,2021,Bodegas Olarra,Rioja,España,Tempranillo,,5.0,5,1,1,-1,-1,-1,"4,90 €",,False
+Vinos rosados y rosé,Dorigati Trentino Lagrein Kretzer,2019,Dorigati,Trentino,Italia,Lagrein,,0.0,5,0,0,-1,-1,-1,"12,55 €",,False
+Vinos rosados y rosé,Pierre-Bise Cabernet D'Anjou,2020,Château Pierre-Bise,Cabernet d'Anjou,Francia,Cabernet sauvignon,,0.0,5,0,3,-1,-1,-1,"10,45 €",,False
+Vinos rosados y rosé,Jaume Le Crétacé Tavel,2021,Vignobles Alain Jaume,Tavel,Francia,Grenache / Syrah / Monastrell,,0.0,5,0,1,-1,-1,-1,"12,80 €",,False
+Vinos rosados y rosé,Campillo Rosé,2020,Bodegas Campillo,Rioja,España,Tempranillo,,4.66667,5,3,2,-1,-1,-1,"7,95 €",,False
+Vinos rosados y rosé,French Bulldog Rosé,2020,Wines And Brands,Pays d'Oc,Francia,Grenache / Cinsaut,,0.0,5,0,1,-1,-1,-1,"15,35 €",,False
+Vinos rosados y rosé,Benanti Etna Rosato,2021,Cantina Benanti,Etna,Italia,Nerello mascalese,,0.0,5,0,3,-1,-1,-1,"16,90 €",,False
+Vinos rosados y rosé,Páramos de Nicasia Rosado,2019,Máquina y Tabla,Toro,España,Garnacha / Tinta de Toro / Malvasía,ECO,5.0,5,3,7,-1,-1,-1,"12,50 €",,False
+Vinos rosados y rosé,Libalis Rosé,2021,Castillo de Maetierra,Valles de Sadacia,España,Moscatel de grano menudo / Syrah,,4.5,5,2,1,-1,-1,-1,"7,95 €",,False
+Vinos rosados y rosé,Clos des Verdots Bergerac Rosé,2020,Clos des Verdots,Bergerac,Francia,Cabernet sauvignon / Merlot / Malbec,,0.0,5,0,1,-1,-1,-1,"9,20 €",,False
+Vinos rosados y rosé,Apagallums,2020,Vins i Caves Bolet,Penedès,España,Pinot noir,ECO,4.0,5,1,1,-1,-1,-1,"7,20 €",,False
+Vinos rosados y rosé,Baron de Lestac Rosé,2020,Baron de Lestac,Bordeaux Rosé,Francia,Cabernet sauvignon / Merlot / Cabernet franc,,0.0,5,0,0,-1,-1,-1,"6,95 €",,False
+Vinos rosados y rosé,Clarete de Bespén,2019,Luis Oliván Vinos y Viñedos,Sin indicación geográfica,España,Alcañon / Moristel,,0.0,5,0,0,-1,-1,-1,"9,57 €","11,25 €",True
+Vinos rosados y rosé,Kármán Clarete,2021,Gómez Cruzado,Rioja,España,Garnacha / Viura,,4.0,5,1,1,-1,-1,-1,"6,30 €",,False
+Vinos rosados y rosé,Panorámico Clarete,2020,Vinos del Panorámico,Rioja,España,Viura / Garnacha,,0.0,5,0,2,-1,-1,-1,"15,90 €",,False
+Vinos rosados y rosé,Alamos Malbec Rosé,2020,Bodega Alamos,Mendoza,Argentina,Malbec,,3.33333,5,3,0,-1,-1,-1,"8,95 €",,False
+Vinos rosados y rosé,Nadal Pinot Noir Rosé,2019,Caves Nadal,Penedès,España,Pinot noir,ECO,0.0,5,0,0,-1,-1,-1,"9,60 €",,False
+Vinos rosados y rosé,Ercavio Rosado,2020,Bodegas Más Que Vinos,Castilla,España,Tempranillo,,0.0,5,0,0,-1,-1,-1,"6,00 €","7,05 €",True
+Vinos rosados y rosé,Aroa Larrosa,2020,Aroa Bodegas,Navarra,España,Garnacha / Tempranillo,ECO,0.0,5,0,1,-1,-1,-1,"7,95 €",,False
+Vinos rosados y rosé,Mart,2022,Gramona,Penedès,España,Xarel·lo vermell,ECO,4.33333,5,6,5,-1,-1,-1,"11,40 €",,False
+Vinos rosados y rosé,Alútiz Rosado,2018,Bodegas Alútiz,Rioja,España,Viura / Tempranillo,,1.0,5,1,1,-1,-1,-1,"5,55 €",,False
+Vinos rosados y rosé,Poesia Rosado,2018,Vins Padró,Catalunya,España,Tempranillo / Merlot,,3.5,5,6,2,-1,-1,-1,"3,15 €",,False
+Vinos rosados y rosé,Conde Valdemar Rosado,2020,Bodegas Valdemar,Rioja,España,Garnacha / Tempranillo,,4.0,5,2,0,-1,-1,-1,"5,90 €",,False
+Vinos rosados y rosé,Viore Rosado,2020,Bodegas Riojanas,Toro,España,Tinta de Toro / Garnacha,,4.0,5,1,0,-1,-1,-1,"4,50 €",,False
+Vinos rosados y rosé,Gran Feudo El Idilio Rosado,2021,Bodegas Gran Feudo,Navarra,España,Tempranillo / Garnacha / Merlot,,4.0,5,1,3,-1,-1,-1,"5,95 €",,False
+Vinos rosados y rosé,Lalomba,2021,Bodegas Ramón Bilbao,Rioja,España,Garnacha / Viura,,3.33333,5,3,2,-1,-1,-1,"22,45 €",,False
+Vinos rosados y rosé,Luzón Colección Rosado,2021,Bodegas Luzón,Jumilla,España,Monastrell,,5.0,5,1,1,-1,-1,-1,"6,80 €",,False
+Vinos rosados y rosé,Larchago Rosado,2020,Bodegas Familia Chávarri,Rioja,España,Tempranillo,,0.0,5,0,1,-1,-1,-1,"8,60 €",,False
+Vinos rosados y rosé,Torelló Petjades,2021,Torelló,Penedès,España,Merlot,ECO,5.0,5,2,0,-1,-1,-1,"8,55 €",,False
+Vinos rosados y rosé,Suañé Reserva Rosado,2018,Bodega Alonso & Pedrajo,Rioja,España,Viura / Garnacha / Sauvignon blanc,,0.0,5,0,0,94,-1,-1,"26,50 €",,False
+Vinos rosados y rosé,Domaine de la Vallongue Les Calans Rosé,2020,Domaine de la Vallongue,Alpilles,Francia,Grenache / Cinsaut / Counoise / Cabernet sauvignon,ECO,0.0,5,0,1,-1,-1,-1,"10,30 €",,False
+Vinos rosados y rosé,Barcolobo Lacrimae Rerum,2019,Finca la Rinconada,Castilla y León,España,Tempranillo,,0.0,5,0,1,-1,-1,-1,"12,95 €",,False
+Vinos rosados y rosé,Viñas del Vero Pinot Noir Rosado,2021,Viñas del Vero,Somontano,España,Pinot noir,,4.0,5,5,0,-1,-1,-1,"7,85 €",,False
+Vinos rosados y rosé,Crazy Wines Rosame,2021,Bodega El Lomo,Islas Canarias,España,Listán negro / Listán blanco / Tempranillo / Negramoll,,0.0,5,0,1,-1,-1,-1,"12,80 €",,False
+Vinos rosados y rosé,Zaccagnini Rosé dal Tralcetto,2021,Zaccagnini,Terre di Chieti,Italia,,,4.33333,5,3,1,-1,-1,-1,"9,15 €",,False
+Vinos rosados y rosé,Randemar Rosat,2021,Celler Tianna Negre,Mallorca,España,Cabernet sauvignon / Mantonegro,,0.0,5,0,0,-1,-1,-1,"8,95 €",,False
+Vinos rosados y rosé,Sospechoso Rosado,2020,Uvas Felices,Castilla,España,Bobal / Tempranillo,,2.0,5,1,0,-1,-1,-1,"6,75 €","7,95 €",True
+Vinos rosados y rosé,Doll Diví Garnatxa Rosat ECO,-1,Vitalpe,Sin indicación geográfica,España,Garnacha,ECO,0.0,5,0,0,-1,-1,-1,"9,15 €",,False
+Vinos rosados y rosé,Cristiari Rosado,2020,Vall de Baldomar,Costers del Segre,España,Cabernet sauvignon / Merlot,,0.0,5,0,1,-1,-1,-1,"11,48 €","13,50 €",True
+Vinos rosados y rosé,7L Rosado de una Noche,2020,Bodegas y Viñedos La Legua,Cigales,España,Tempranillo / Garnacha / Cabernet sauvignon,,3.0,5,1,1,-1,-1,-1,"7,50 €",,False
+Vinos rosados y rosé,Mongeard-Mugneret Bourgogne Rosé,2020,Domaine Mongeard-Mugneret,Bourgogne,Francia,Pinot noir,,0.0,5,0,1,-1,-1,-1,"26,00 €",,False
+Vinos rosados y rosé,Celler Arrufí Rosat,-1,Celler Arrufí,Terra Alta,España,Garnacha / Syrah,,0.0,5,0,1,-1,-1,-1,"9,30 €","10,95 €",True
+Vinos rosados y rosé,Roc d'Aubaga,2017,Terroir al Límit,Priorat,España,Garnacha,,5.0,5,2,2,-1,-1,-1,"37,75 €",,False
+Vinos rosados y rosé,Masciarelli Villa Gemma Cerasuolo d'Abruzzo,2021,Masciarelli,Cerasuolo d'Abruzzo,Italia,Montepulciano,,0.0,5,0,4,-1,-1,-1,"16,15 €",,False
+Vinos rosados y rosé,Abadal Rosat,2020,Bodegas Abadal,Pla de Bages,España,Cabernet sauvignon / Sumoll,,4.5,5,2,1,-1,-1,-1,"7,18 €","8,45 €",True
+Vinos rosados y rosé,Ceraudo Gaglioppo Grayasusi Etichetta Argento,2020,Ceraudo,Val di Neto,Italia,Gaglioppo,ECO,5.0,5,1,1,-1,-1,-1,"23,45 €",,False
+Vinos rosados y rosé,12 Lunas Rosado,2020,El Grillo y la Luna,Somontano,España,Syrah,,0.0,5,0,0,-1,-1,-1,"9,95 €",,False
+Vinos rosados y rosé,Gran Feudo Rosado,2021,Bodegas Gran Feudo,Navarra,España,Garnacha,,4.1,5,20,2,-1,-1,-1,"4,40 €",,False
+Vinos rosados y rosé,Naterra Rosé,2020,Maison Ginestet,Sin indicación geográfica,España,Cabernet franc / Merlot,ECO,5.0,5,1,3,-1,-1,-1,"4,95 €",,False
+Vinos rosados y rosé,Hacienda López de Haro Rosado,2021,Hacienda López de Haro,Rioja,España,Tempranillo / Garnacha,,4.16667,5,6,1,-1,-1,-1,"6,90 €",,False
+Vinos rosados y rosé,La Nena de Can Maset,2020,Masetplana,Empordà,España,Syrah,,0.0,5,0,0,-1,-1,-1,"6,38 €","7,50 €",True
+Vinos rosados y rosé,Carpentiere Bombino Nero Primaluce,2020,Carpentiere,Castel del Monte Bombino Nero,Italia,Bombino Nero,,0.0,5,0,3,-1,-1,-1,"14,10 €",,False
+Vinos rosados y rosé,Arzuaga Rosae,2021,Bodegas Arzuaga Navarro,Ribera del Duero,España,Tempranillo,,4.0,5,5,5,-1,-1,-1,"10,90 €",,False
+Vinos rosados y rosé,Muri-Gries Lagrein Kretzer,2021,Muri-Gries,Alto Adige,Italia,Lagrein,,0.0,5,0,0,-1,-1,-1,"14,25 €",,False
+Vinos rosados y rosé,Azpilicueta Colección Privada Rosado,2021,Bodegas Campo Viejo,Rioja,España,Tempranillo,,0.0,5,0,0,-1,-1,-1,"17,50 €",,False
+Vinos rosados y rosé,You Are Maur Rosé,2021,Château Saint Maur,Sin indicación geográfica,Francia,Cinsaut / Grenache / Rolle / Carignano / Monastrell,,0.0,5,0,3,-1,-1,-1,"9,50 €",,False
+Vinos rosados y rosé,Tajinaste Rosado,2021,Tajinaste Viñedos y Bodega,Valle de La Orotava,España,Listán negro,,5.0,5,1,0,-1,-1,-1,"13,95 €",,False
+Vinos rosados y rosé,Carlania El Plantarga,2019,Carlania Celler,Sin indicación geográfica,España,Trepat,ECO,4.0,5,1,1,-1,-1,-1,"8,46 €","9,95 €",True
+Vinos rosados y rosé,Pinkgall,2021,Gallina de Piel Wines,Navarra,España,Garnacha / Garnacha roja / Garnacha blanca,,0.0,5,0,0,-1,-1,-1,"9,30 €",,False
+Vinos rosados y rosé,Enate Rosado,2021,Enate,Somontano,España,Cabernet sauvignon,,4.39474,5,38,17,-1,-1,-1,"8,30 €",,False
+Vinos rosados y rosé,Acústic Rosat,2021,Acústic Celler,Montsant,España,Garnacha / Garnacha gris / Cariñena,,4.5,5,2,3,90,-1,-1,"10,70 €",,False
+Vinos rosados y rosé,Domaine Lafage Miraflors,2021,Domaine Lafage,Côtes Catalanes,Francia,Monastrell / Garnacha / Garnacha gris,,4.125,5,8,2,-1,-1,-1,"12,90 €",,False
+Vinos rosados y rosé,Sierra Cantabria Rosado,2021,Sierra Cantabria,Rioja,España,Tempranillo / Garnacha / Viura,,4.375,5,8,2,90,-1,-1,"7,20 €",,False
+Vinos rosados y rosé,Ullones,2021,Celler Oliveda,Empordà,España,Garnacha,,4.0,5,4,4,-1,-1,-1,"8,75 €",,False
+Vinos rosados y rosé,Dominio del Bendito Perlarena,2019,Dominio del Bendito,Toro,España,Tinta de Toro / Syrah / Verdejo,,4.0,5,2,7,91,-1,-1,"8,95 €",,False
+Vinos rosados y rosé,La Maldita Rosado,2020,Bodegas La Maldita,Rioja,España,Garnacha,,0.0,5,0,0,-1,-1,-1,"6,75 €",,False
+Vinos rosados y rosé,Studio By Miraval Rosé,2021,Château Miraval,Côtes-de-Provence,Francia,Cinsaut / Garnacha / Rolle / Tibouren,,4.0,5,3,7,-1,-1,-1,"12,90 €",,False
+Vinos rosados y rosé,Peique Rosado sobre Lías,2020,Bodegas Peique,Bierzo,España,Mencía,,4.0,5,2,2,-1,-1,-1,"5,90 €",,False
+Vinos rosados y rosé,Valdelosfrailes Clarete,2021,Bodega Valdelosfrailes,Cigales,España,Tempranillo,,0.0,5,0,0,-1,-1,-1,"5,60 €",,False
+Vinos rosados y rosé,Corazón Loco Rosado,2020,Bodega Iniesta,Manchuela,España,Bobal / Syrah,,0.0,5,0,0,-1,-1,-1,"5,55 €",,False
+Vinos rosados y rosé,Conde Valdemar Rosé,2020,Bodegas Valdemar,Rioja,España,Garnacha / Tempranillo,,0.0,5,0,0,-1,-1,-1,"5,80 €",,False
+Vinos rosados y rosé,Segura Viudas Rosat,2021,Heredad Segura Viudas,Catalunya,España,Tempranillo / Merlot,,5.0,5,2,0,-1,-1,-1,"5,75 €",,False
+Vinos rosados y rosé,Viña Calderona Rosado,2021,Bodegas Frutos Villar,Cigales,España,Tempranillo / Garnacha / Verdejo / Albillo,,3.5,5,2,2,-1,-1,-1,"4,60 €",,False
+Vinos rosados y rosé,Aurora d'Espiells Rosé,2019,Juvé y Camps,Penedès,España,Pinot noir / Xarel·lo / Syrah,ECO,5.0,5,1,3,-1,-1,-1,"10,20 €",,False
+Vinos rosados y rosé,Koehler Ruprecht Spätburgunder Rosé Trocken,2021,Weingut Koehler Ruprecht,Pfälz,Alemania,Pinot noir,,0.0,5,0,4,-1,-1,-1,"13,50 €",,False
+Vinos rosados y rosé,Angiuli Puglia Primitivo Rosato Maccone,2021,Angiuli Donato,Puglia,Italia,Primitivo,,4.8,5,5,2,-1,-1,-1,"13,10 €",,False
+Vinos rosados y rosé,Espelt Lledoner Rosat,2021,Espelt Viticultors de l'Empordà,Empordà,España,Garnacha,ECO,4.5,5,2,0,-1,-1,-1,"6,75 €",,False
+Vinos rosados y rosé,Espelt Coralí Rosat,2021,Espelt Viticultors de l'Empordà,Empordà,España,Merlot / Garnacha / Cabernet sauvignon,ECO,4.5,5,4,2,-1,-1,-1,"8,20 €",,False
+Vinos rosados y rosé,Via Terra Rosat,2021,Edetària,Terra Alta,España,Garnacha peluda,,0.0,5,0,1,-1,-1,-1,"9,95 €",,False
+Vinos rosados y rosé,Girolamo Russo Etna Rosato,2021,Girolamo Russo,Etna,Italia,Nerello mascalese / Nerello cappuccio,,4.75,5,4,0,-1,-1,-1,"22,25 €",,False
+Vinos rosados y rosé,Podere Fontesecca Umbria Ciliegiolo Rosato,2019,Podere Fontesecca,Umbria,Italia,Ciliegiolo,,0.0,5,0,0,-1,-1,-1,"15,15 €",,False
+Vinos rosados y rosé,Giovanna Tantini Bardolino Chiaretto Il Rosé,2021,Giovanna Tantini,Bardolino DOC,Italia,Corvina / Rondinella / Molinara,,0.0,5,0,0,-1,-1,-1,"10,55 €",,False
+Vinos rosados y rosé,Fraccaroli Garda Colli Mantovani Chiaretto,2021,Fraccaroli,Garda,Italia,Merlot / Rondinella / Cabernet sauvignon,,0.0,5,0,1,-1,-1,-1,"9,55 €",,False
+Vinos rosados y rosé,Cantine del Notaio Aglianico Rosato Il Rogito,2019,Cantine del Notaio,Basilicata,Italia,Aglianico,,3.0,5,3,2,-1,-1,-1,"14,50 €",,False
+Vinos rosados y rosé,Casas de Moya Tibó Rosado,2021,Bodega De Moya,Utiel-Requena,España,Bobal / Monastrell,,0.0,5,0,0,-1,-1,-1,"6,90 €",,False
+Vinos rosados y rosé,Can Descregut Atrevit,2021,Can Descregut,Penedès,España,Merlot,ECO,4.0,5,1,0,-1,-1,-1,"7,10 €",,False
+Vinos rosados y rosé,Quike Rosado,2019,Can Grau Vell,Catalunya,España,Garnacha,,0.0,5,0,0,-1,-1,-1,"12,85 €",,False
+Vinos rosados y rosé,Le Rosé de Antídoto,2020,Bodega Antídoto,Ribera del Duero,España,Albillo / Tempranillo,,0.0,5,0,1,-1,-1,93,"61,75 €",,False
+Vinos rosados y rosé,Juicy,2021,Vinyes Tortuga,Sin indicación geográfica,España,Garnacha / Merlot,,5.0,5,1,0,-1,-1,-1,"19,75 €",,False
+Vinos rosados y rosé,Quarticello Lambrusco Frizzante Ferrando,2021,Quarticello,Emilia,Italia,Lambrusco Salamino,ECO,4.0,5,1,5,-1,-1,-1,"14,85 €",,False
+Vinos rosados y rosé,Sonrojo,2021,La Calandria,Navarra,España,Garnacha,,4.5,5,2,2,-1,-1,-1,"7,70 €",,False
+Vinos rosados y rosé,Santa Maria Colleoni Toscana Rosato,2019,Santa Maria,Toscana,Italia,Sangiovese,,0.0,5,0,1,-1,-1,-1,"15,60 €",,False
+Vinos rosados y rosé,Duemani Si,2021,Duemani,Toscana,Italia,Syrah,ECO,0.0,5,0,2,-1,-1,-1,"38,80 €",,False
+Vinos rosados y rosé,Jordi Miró Serendipity Rosé,2021,Celler Jordi Miró,Terra Alta,España,Garnacha,,0.0,5,0,1,-1,-1,-1,"7,25 €",,False
+Vinos rosados y rosé,Ansitz Rynnhof Rynn Rosato,2019,Ansitz Rynnhof,Mitterberg,Italia,Schiava / Lagrein / Merlot,,0.0,5,0,0,-1,-1,-1,"17,90 €",,False
+Vinos rosados y rosé,Pironia de Celler Sanromà,2018,Celler Sanromà,Sin indicación geográfica,España,Trepat,ECO,0.0,5,0,1,-1,-1,-1,"11,50 €",,False
+Vinos rosados y rosé,Vigneti Massa Libertà,2019,Vigneti Massa,Sin indicación geográfica,Italia,Barbera,,4.0,5,1,4,-1,-1,-1,"13,65 €",,False
+Vinos rosados y rosé,Vi de Raig Rosat,-1,La Vinyeta,Empordà,España,Garnacha / Cariñena,,0.0,5,0,0,-1,-1,-1,"11,00 €","12,95 €",True
+Vinos rosados y rosé,Comte Lafond Rosé,2021,Baron De Ladoucette,Sancerre,Francia,Pinot noir,,5.0,5,1,2,-1,-1,-1,"32,95 €",,False
+Vinos rosados y rosé,La Pequeñita Rosado Macerado,2018,Bodega Alonso & Pedrajo,Rioja,España,Maturana blanca / Maturana tinta,,0.0,5,0,3,-1,-1,-1,"16,75 €","19,70 €",True
+Vinos rosados y rosé,Tenute Gregu Cannonau Rosato Sirè,2020,Tenute Gregu,Cannonau di Sardegna,Italia,Cannonau,,0.0,5,0,1,-1,-1,-1,"13,10 €",,False
+Vinos rosados y rosé,Leone de Castris Salento Rosato Five Roses,2021,Leone De Castris,Salento,Italia,Negroamaro / Malvasia nera,,5.0,5,1,2,-1,-1,-1,"12,55 €",,False
+Vinos rosados y rosé,Barraco Nero d'Avola Rosato Rosammare,2021,Nino Barraco,Terre Siciliane,Italia,Nero d'Avola,,5.0,5,1,3,-1,-1,-1,"19,05 €",,False
+Vinos rosados y rosé,Giorgi Pinot Nero Rosé Pumgranin Gerry Scotti,2019,Giorgi,Oltrepò Pavese,Italia,Pinot noir,,0.0,5,0,1,-1,-1,-1,"12,75 €",,False
+Vinos rosados y rosé,Son de Rosa,2019,Carvajal Wines,Somontano,España,Tempranillo / Moristel,,0.0,5,0,0,-1,-1,-1,"8,95 €",,False
+Vinos rosados y rosé,Bonzano Meridiana,2017,Bonzano,Sin indicación geográfica,Italia,,,0.0,5,0,1,-1,-1,-1,"17,15 €",,False
+Vinos rosados y rosé,Migliaccio Fieno di Ponza Rosato,2020,Antiche Cantine Migliaccio,Lazio,Italia,Piedirosso / Aglianico,,0.0,5,0,0,-1,-1,-1,"28,35 €",,False
+Vinos rosados y rosé,Terra Costantino Etna Rosato De Aetna,2017,Terra Costantino,Etna,Italia,Nerello mascalese,ECO,0.0,5,0,0,-1,-1,-1,"17,15 €","19,05 €",True
+Vinos rosados y rosé,Rosarito,2019,Bodegas Palacio de Lerma,Arlanza,España,Tempranillo / Garnacha,,5.0,5,1,1,-1,-1,-1,"10,50 €",,False
+Vinos rosados y rosé,Tenute Rubino Negroamaro Rosato Saturnino,2019,Tenute Rubino,Brindisi,Italia,Negroamaro,,0.0,5,0,2,-1,-1,-1,"13,50 €",,False
+Vinos rosados y rosé,Contini Rosé,2021,Contini,Valle del Tirso,Italia,Nieddera,,4.0,5,1,5,-1,-1,-1,"10,50 €",,False
+Vinos rosados y rosé,Sitta Rosado,2021,Attis Bodegas y Viñedos,Sin indicación geográfica,España,Caiño tinto / Pedral / Espadeiro,,0.0,5,0,3,-1,-1,-1,"13,95 €",,False
+Vinos rosados y rosé,Livio Felluga Venezia Giulia Rosé,2021,Livio Felluga,Venezia Giulia,Italia,Merlot / Pinot noir,,0.0,5,0,2,-1,-1,-1,"18,65 €",,False
+Vinos rosados y rosé,Sindicat la Figuera Rosat,2020,Agrícola Aubacs i Solans,Montsant,España,Garnacha,,4.33333,5,3,0,-1,-1,-1,"9,75 €",,False
+Vinos rosados y rosé,Oriol Artigas SOS #8 Frisach & Tuets,2020,Oriol Artigas Viticultor,Sin indicación geográfica,España,Parellada / Garnacha,,0.0,5,0,2,-1,-1,-1,"14,40 €",,False
+Vinos rosados y rosé,Zorzettig Rosato,2020,Zorzettig,Venezia Giulia,Italia,Merlot,,0.0,5,0,1,-1,-1,-1,"11,95 €",,False
+Vinos rosados y rosé,Azpilicueta Rosado,2020,Bodegas Campo Viejo,Rioja,España,Viura / Tempranillo,,3.0,5,1,1,-1,-1,-1,"8,45 €",,False
+Vinos rosados y rosé,Abadia de Poblet Rosat,2021,Vins Abadia de Poblet,Conca de Barberà,España,Garnacha / Trepat,,0.0,5,0,0,-1,-1,-1,"17,90 €",,False
+Vinos rosados y rosé,Luca Cimarelli Marche Rosato,2020,Luca Cimarelli,Marche,Italia,Montepulciano,,0.0,5,0,1,-1,-1,-1,"9,55 €",,False
+Vinos rosados y rosé,Artimino Barco Reale Rosato Vin Ruspo,2017,Artimino,Barco Reale di Carmignano,Italia,Sangiovese / Cabernet sauvignon / Merlot,,0.0,5,0,0,-1,-1,-1,"17,90 €",,False
+Vinos rosados y rosé,Castaño Rosado,2021,Bodegas Castaño,Yecla,España,Monastrell / Cabernet sauvignon / Syrah,,0.0,5,0,0,-1,-1,-1,"5,95 €",,False
+Vinos rosados y rosé,Château de Pourcieux Rosé,2020,Château de Pourcieux,Côtes-de-Provence,Francia,Syrah / Grenache / Cinsaut / Cabernet sauvignon / Vermentino,,0.0,5,0,2,-1,-1,-1,"12,10 €",,False
+Vinos rosados y rosé,Château Romanin Grand Vin Rosé,2020,Château Romanin,Les Baux de Provence,Francia,Grenache / Monastrell / Syrah / Counoise / Cabernet sauvignon,ECO,0.0,5,0,1,-1,-1,-1,"18,45 €",,False
+Vinos rosados y rosé,Pardas Sumoll Rosat,2021,Celler Pardas,Penedès,España,Sumoll,,0.0,5,0,2,-1,-1,-1,"10,20 €",,False
+Vinos rosados y rosé,Regina,2020,Josep Grau Viticultor,Montsant,España,Garnacha / Garnacha blanca,ECO,4.33333,5,3,1,-1,-1,-1,"20,40 €",,False
+Vinos rosados y rosé,Bernaví Capítol,2018,Bernaví,Terra Alta,España,Morenillo,,0.0,5,0,1,-1,-1,-1,"25,60 €",,False
+Vinos rosados y rosé,AA Parvus Rosé,2021,Alta Alella,Alella,España,Syrah,ECO,0.0,5,0,2,-1,-1,-1,"9,90 €",,False
+Vinos rosados y rosé,Vall Llach La Matilde,2019,Celler Vall Llach,Priorat,España,Garnacha,,3.5,5,2,2,-1,-1,-1,"18,27 €","21,50 €",True
+Vinos rosados y rosé,Avui Sí Rosat,2019,Celler Mas Patiràs,Empordà,España,Syrah,,0.0,5,0,0,-1,-1,-1,"8,95 €",,False
+Vinos rosados y rosé,Sóc un Rosat de Ferré i Catasús,2018,Ferré i Catasús,Penedès,España,Merlot,,3.0,5,1,0,-1,-1,-1,"8,45 €",,False
+Vinos rosados y rosé,Tenuta Guado al Tasso Bolgheri Scalabrone,2021,Marchesi Antinori,Bolgheri,Italia,Cabernet sauvignon / Merlot / Syrah,,4.0,5,2,4,-1,-1,-1,"15,60 €",,False
+Vinos rosados y rosé,Coca i Fitó Rosa,2019,Coca i Fitó,Montsant,España,Syrah,,4.0,5,1,1,-1,-1,-1,"15,00 €",,False
+Vinos rosados y rosé,Vinya del Metge,2020,Cellers d'en Guilla,Empordà,España,Garnacha rosada,,0.0,5,0,0,-1,-1,-1,"11,95 €",,False
+Vinos rosados y rosé,Perelada Collection Rosé,2019,Perelada,Empordà,España,Cabernet sauvignon / Garnacha,,4.5,5,2,1,-1,-1,-1,"8,75 €",,False
+Vinos rosados y rosé,Altura Rossetto di Sangiovese del Giglio,2018,Altura,Toscana,Italia,Sangiovese,ECO,0.0,5,0,0,-1,-1,-1,"31,65 €",,False
+Vinos rosados y rosé,La Rifra Marzemino Rosato Fugace,-1,La Rifra,Sin indicación geográfica,Italia,Marzemino,,0.0,5,0,0,-1,-1,-1,"10,50 €",,False
+Vinos rosados y rosé,Camillo Donati Rosé Frizzante Ribelle,2019,Camillo Donati,Emilia,Italia,Barbera,,4.0,5,1,2,-1,-1,-1,"17,90 €",,False
+Vinos rosados y rosé,Château Puech-Haut Argali Rosé,2019,Château Puech-Haut,Coteaux-du-Languedoc Pic-Saint-Loup,Francia,Garnacha / Cinsaut,,4.5,5,2,1,-1,-1,-1,"15,90 €",,False
+Vinos rosados y rosé,Donnafugata Sicilia Rosato D&G Rosa,2020,Donnafugata,Sicilia,Italia,Nerello mascalese / Nocera,,0.0,5,0,1,-1,-1,-1,"30,00 €",,False
+Vinos rosados y rosé,Lageder Lagrein Rosé,2020,Alois Lageder,Mitterberg,Italia,Lagrein,ECO,0.0,5,0,1,-1,-1,-1,"13,55 €",,False
+Vinos rosados y rosé,Domaine des Nugues Beaujolais Villages Rosé,2020,Domaine des Nugues,Beaujolais-Villages,Francia,Gamay,,0.0,5,0,0,-1,-1,-1,"9,15 €",,False
+Vinos rosados y rosé,Honoro Vera Rosado,2021,Bodegas Ateca,Jumilla,España,Monastrell / Syrah,,4.0,5,2,4,-1,-1,-1,"5,75 €",,False
+Vinos rosados y rosé,Pinord Reynal Rosat,-1,Bodegas Pinord,Penedès,España,Tempranillo,,0.0,5,0,0,-1,-1,-1,"4,08 €","4,80 €",True
+Vinos rosados y rosé,I Heart Rosé,-1,I Heart Wines,Sin indicación geográfica,España,Garnacha,,5.0,5,1,0,-1,-1,-1,"5,02 €","5,90 €",True
+Vinos rosados y rosé,Flor del Páramo Rosado,2019,Leyenda del Páramo,Castilla y León,España,Prieto picudo,,4.0,5,1,0,-1,-1,-1,"5,60 €",,False
+Vinos rosados y rosé,Ada Nada Rosato Emma,-1,Ada Nada,Sin indicación geográfica,Italia,Nebbiolo,,0.0,5,0,1,-1,-1,-1,"11,60 €",,False
+Vinos rosados y rosé,Château Romassan Bandol Rosé,2020,Domaines Ott,Bandol,Francia,Monastrell / Cinsaut / Garnacha,,0.0,5,0,0,93,-1,-1,"31,25 €",,False
+Vinos rosados y rosé,Senatore Puntalice,2014,Senatore,Cirò,Italia,Gaglioppo,,0.0,5,0,1,-1,-1,-1,"12,10 €",,False
+Vinos rosados y rosé,Mandrarossa Perricone Rosé Costadune,2017,Mandrarossa,Terre Siciliane,Italia,Perricone,,0.0,5,0,0,-1,-1,-1,"12,00 €",,False
+Vinos rosados y rosé,Habla de Rita,2019,Bodegas Habla,Côtes-de-Provence,Francia,Syrah / Garnacha,,4.5,5,2,1,-1,-1,-1,"23,50 €",,False
+Vinos rosados y rosé,Altanza Rosado,2020,Bodegas Altanza,Rioja,España,Tempranillo,,5.0,5,1,1,-1,-1,-1,"6,50 €",,False
+Vinos rosados y rosé,Andriano Lagrein Rosé,2017,Cantina Andriano,Alto Adige,Italia,Lagrein,,0.0,5,0,0,-1,-1,-1,"12,00 €",,False
+Vinos rosados y rosé,Calcarius Puglia Rosso Troiabomb,2019,Calcarius,Puglia,Italia,Nero di Troia / Bombino bianco,ECO,4.0,5,1,3,-1,-1,-1,"19,75 €",,False
+Vinos rosados y rosé,La Mar de Rosa,2017,Wineissocial,Empordà,España,Lledoner roig,,0.0,5,0,0,-1,-1,-1,"10,50 €",,False
+Vinos rosados y rosé,Torre dei Beati Cerasuolo d'Abruzzo Rosa-ae,2020,Torre dei Beati,Cerasuolo d'Abruzzo,Italia,Montepulciano,ECO,0.0,5,0,3,-1,-1,-1,"12,35 €",,False
+Vinos rosados y rosé,Tianna Vélorosé,2020,Celler Tianna Negre,Binissalem-Mallorca,España,Mantonegro,ECO,5.0,5,1,0,-1,-1,-1,"12,90 €",,False
+Vinos rosados y rosé,Riecine Rosé,2017,Riecine,Toscana,Italia,Sangiovese,,0.0,5,0,0,-1,-1,-1,"19,00 €",,False
+Vinos rosados y rosé,Villamedoro Cerasuolo d'Abruzzo,2017,Villamedoro,Cerasuolo d'Abruzzo,Italia,Montepulciano,,0.0,5,0,0,-1,-1,-1,"8,05 €",,False
+Vinos rosados y rosé,Tasca d'Almerita Regaleali Nerello Le Rose,2020,Tasca d'Almerita,Terre Siciliane,Italia,Nerello mascalese,,0.0,5,0,0,-1,-1,-1,"11,30 €",,False
+Vinos rosados y rosé,Château du Rouët Estérelle Rosé,2018,Château du Rouët,Côtes-de-Provence,Francia,Grenache / Tibouren / Cinsaut / Carignano,,0.0,5,0,2,-1,-1,-1,"10,45 €",,False
+Vinos rosados y rosé,Vallepicciola Toscana Pinot Nero Rosato Lugherino,2019,Vallepicciola,Toscana,Italia,Pinot noir,,0.0,5,0,0,-1,-1,90,"20,10 €",,False
+Vinos rosados y rosé,Margò Sangiovese Rosato,2017,Margò,Umbria,Italia,Sangiovese,,0.0,5,0,0,-1,-1,-1,"21,05 €",,False
+Vinos rosados y rosé,Barón de Ley Rosado Lágrima,2020,Barón de Ley,Rioja,España,Garnacha,,4.0,5,1,2,-1,-1,-1,"7,50 €",,False
+Vinos rosados y rosé,Cantrina Rosanoire,2017,Azienda Agricola Cantrina,Sin indicación geográfica,Italia,Pinot noir,,0.0,5,0,0,-1,-1,-1,"12,55 €",,False
+Vinos rosados y rosé,Deperi Luca U Mattà Crêuza,-1,U Mattà di Deperi Luca,Sin indicación geográfica,Italia,Ormeasco,,0.0,5,0,1,-1,-1,-1,"15,35 €",,False
+Vinos rosados y rosé,Château Puech-Haut Argali Rosé,2019,Château Puech-Haut,Coteaux-du-Languedoc Pic-Saint-Loup,Francia,Garnacha / Cinsaut,,4.5,5,2,1,-1,-1,-1,"15,90 €",,False
+Vinos rosados y rosé,Mirù Colline Novaresi Rosato Rossini,2017,Mirù,Colline Novaresi,Italia,Nebbiolo / Vespolina / Uva rara,,0.0,5,0,0,-1,-1,-1,"8,75 €","10,30 €",True
+Vinos rosados y rosé,Vigne dei Boschi Pinot Nero Frizzante JPB PN1,-1,Vigne dei Boschi,Sin indicación geográfica,Italia,Pinot noir,,0.0,5,0,0,-1,-1,-1,"17,35 €",,False
+Vinos rosados y rosé,Marimar Estate Rosaleda Rosé,2018,Marimar Estate,Sonoma Coast,Estados Unidos,Pinot noir,,0.0,5,0,0,-1,-1,-1,"20,32 €","23,90 €",True
+Vinos rosados y rosé,Cara Nord Rosat Trepat,2020,Cara Nord,Conca de Barberà,España,Trepat,,4.0,5,1,2,-1,-1,-1,"10,50 €",,False
+Vinos rosados y rosé,Berarte Rosado Fermentado en Barrica,2016,Berarte Viñedos y Bodegas,Rioja,España,Tempranillo,ECO,3.0,5,1,1,-1,-1,-1,"10,90 €",,False
+Vinos rosados y rosé,Alfredo Maestro Amanda,2018,Bodega Alfredo Maestro Tejero,Castilla y León,España,Garnacha tintorera,,0.0,5,0,2,-1,-1,-1,"10,90 €",,False
+Vinos rosados y rosé,Maculan Costadolio,2017,Maculan,Veneto IGT,Italia,Merlot,,0.0,5,0,0,-1,-1,-1,"10,10 €",,False
+Vinos rosados y rosé,Palmento Costanzo Etna Rosato Mofete,2019,Palmento Costanzo,Etna,Italia,Nerello mascalese,,0.0,5,0,1,-1,-1,91,"17,90 €",,False
+Vinos rosados y rosé,Saint M Rosé,2020,Château Saint Maur,Côtes-de-Provence,Francia,Grenache / Cinsaut / Tibouren / Syrah / Monastrell / Rolle,,0.0,5,0,5,-1,-1,-1,"15,60 €",,False
+Vinos rosados y rosé,Le Fraghe Chiaretto Rodòn,2016,Le Fraghe,Bardolino DOC,Italia,Corvina / Rondinella,ECO,0.0,5,0,0,-1,-1,-1,"12,10 €",,False
+Vinos rosados y rosé,L'Escarelle Rumeurs Rosé,2020,Château de l'Escarelle,Méditerranée,Francia,Cinsaut / Grenache / Syrah,,4.0,5,4,3,-1,-1,-1,"8,30 €",,False
+Vinos rosados y rosé,Valsangiacomo Bobal de Sanjuan Rosado,2017,Cherubino Valsangiacomo,Utiel-Requena,España,Bobal,,0.0,5,0,0,-1,-1,-1,"6,70 €",,False
+Vinos rosados y rosé,Château Les Deux Anges,2021,Château de l'Escarelle,Coteaux-Varois-en-Provence,Francia,Grenache / Syrah / Cinsaut,ECO,4.0,5,1,2,-1,-1,-1,"15,80 €",,False
+Vinos rosados y rosé,Bonavita Terre Siciliane Rosato,2020,Bonavita,Terre Siciliane,Italia,Nerello mascalese / Nerello cappuccio / Nocera,,4.5,5,2,4,-1,-1,-1,"21,70 €",,False
+Vinos rosados y rosé,Calcarius Puglia Rosato Roz,2019,Calcarius,Puglia,Italia,Nero di Troia / Aleático,ECO,4.5,5,2,3,-1,-1,-1,"19,75 €",,False
+Vinos rosados y rosé,Pricum Rosado,2019,Bodegas Margón,León,España,Prieto picudo,,5.0,5,1,0,-1,-1,-1,"7,02 €","8,25 €",True
+Vinos rosados y rosé,Donnafugata Lumera,2021,Donnafugata,Terre Siciliane,Italia,Syrah / Nero d'Avola / Pinot noir / Tannat,,4.4,5,5,1,-1,-1,-1,"12,35 €",,False
+Vinos rosados y rosé,Beronia Rosado,2021,Bodegas Beronia,Rioja,España,Tempranillo,,4.0,5,3,0,-1,-1,-1,"6,95 €",,False
+Vinos rosados y rosé,Love by Léoube,2021,Château de Léoube,Côtes-de-Provence,Francia,Cinsaut / Grenache / Monastrell,ECO,5.0,5,2,5,-1,-1,-1,"13,50 €",,False
+Vinos rosados y rosé,Pricum Rosado Barrica,2019,Bodegas Margón,León,España,Prieto picudo,,5.0,5,2,2,-1,-1,-1,"9,57 €","11,25 €",True
+Vinos rosados y rosé,Cataldi Madonna Cerasuolo Piè delle Vigne,2019,Cataldi Madonna,Cerasuolo d'Abruzzo,Italia,Montepulciano,,4.5,5,4,2,-1,-1,-1,"27,85 €",,False
+Vinos rosados y rosé,Roura Merlot,2017,Roura,Alella,España,Merlot,,0.0,5,0,0,-1,-1,-1,"6,95 €",,False
+Vinos rosados y rosé,San Felice Toscana Rosato Tenuta Perolla,2018,San Felice,Toscana,Italia,Sangiovese / Cabernet sauvignon / Ciliegiolo,,5.0,5,1,0,-1,-1,-1,"8,12 €","9,55 €",True
+Vinos rosados y rosé,Sàtirs Rosat,2017,Celler Arché Pagès,Empordà,España,Garnacha / Cabernet sauvignon / Syrah,,2.0,5,1,0,-1,-1,-1,"6,40 €",,False
+Vinos rosados y rosé,Mas de Canet Rosat,2018,Tianna Negre - Ses Nines,Mallorca,España,Callet / Mantonegro,,0.0,5,0,0,-1,-1,-1,"5,31 €","5,90 €",True
+Vinos rosados y rosé,Gaudiana Rosat,2019,Bodegas Pinord,Penedès,España,Merlot / Tempranillo / Cabernet sauvignon,,5.0,5,2,0,-1,-1,-1,"3,74 €","4,40 €",True
+Vinos rosados y rosé,Édalo Rosado,2020,Bodegas Contreras Ruiz,Sin indicación geográfica,España,Syrah,,0.0,5,0,0,-1,-1,-1,"5,51 €",,False
+Vinos rosados y rosé,Fontanavecchia Aglianico del Taburno Rosato,2017,Azienda Agricola Fontanavecchia,Aglianico del Taburno,Italia,Aglianico,,0.0,5,0,0,-1,-1,-1,"11,80 €","13,10 €",True
+Vinos rosados y rosé,Le Pupille RosaMati,2018,Fattoria Le Pupille,Toscana,Italia,Syrah,,0.0,5,0,0,90,-1,-1,"14,60 €",,False
+Vinos rosados y rosé,Campo alle Comete Bolgheri Rosato,2019,Campo alle Comete,Bolgheri,Italia,Merlot / Cabernet sauvignon / Syrah,,0.0,5,0,0,-1,-1,-1,"12,35 €",,False
+Vinos rosados y rosé,Colterenzio Lagrein Rosé,2020,Colterenzio,Alto Adige,Italia,Lagrein,,0.0,5,0,0,-1,-1,-1,"12,75 €",,False
+Vinos rosados y rosé,Anahí Rosado,2020,Javier San Pedro Ortega,Rioja,España,Tempranillo / Sauvignon blanc / Malvasía,,4.0,5,1,0,-1,-1,-1,"7,50 €",,False
+Vinos rosados y rosé,Cara Nord Rosat Trepat,2020,Cara Nord,Conca de Barberà,España,Trepat,,4.0,5,1,2,-1,-1,-1,"10,50 €",,False
+Vinos rosados y rosé,PALM par l'Escarelle Rosé,2021,Château de l'Escarelle,Var,Francia,Caladoc / Grenache / Merlot,ECO,4.0,5,3,5,-1,-1,-1,"9,80 €",,False
+Vinos rosados y rosé,Santa Lucia Gazza Rosata,2018,Santa Lucia,Puglia,Italia,Bombino Nero / Nero di Troia,ECO,0.0,5,0,0,-1,-1,-1,"14,04 €","15,60 €",True
+Vinos rosados y rosé,Selva Capuzza Garda Chiaretto San Donino,2017,Selva Capuzza,Garda,Italia,Groppello / Barbera / Sangiovese / Marzemino,,0.0,5,0,0,-1,-1,-1,"13,50 €",,False
+Vinos rosados y rosé,Brancaia Toscana Merlot Rosé,2020,Brancaia,Toscana,Italia,Merlot,,5.0,5,1,3,-1,-1,-1,"13,55 €",,False
+Vinos rosados y rosé,Palmento Costanzo Etna Rosato Mofete,2019,Palmento Costanzo,Etna,Italia,Nerello mascalese,,0.0,5,0,1,-1,-1,91,"17,90 €",,False
+Vinos rosados y rosé,Tramin T Rosé,2019,Cantina Tramin,Vigneti delle Dolomiti,Italia,Lagrein / Merlot / Pinot noir,,0.0,5,0,0,-1,-1,-1,"9,05 €",,False
+Vinos rosados y rosé,Graci Etna Rosato,2018,Graci,Etna,Italia,Nerello mascalese,,3.5,5,2,0,-1,-1,-1,"19,00 €",,False
+Vinos rosados y rosé,Feudo Montoni Nerello Mascalese Rose di Adele,2021,Feudo Montoni,Sicilia,Italia,Nerello mascalese,ECO,4.0,5,2,3,-1,-1,-1,"13,95 €",,False
+Vinos rosados y rosé,Talamonti Cerasuolo d'Abruzzo Rosé,2019,Talamonti,Cerasuolo d'Abruzzo,Italia,Montepulciano,,0.0,5,0,2,-1,-1,-1,"8,35 €",,False
+Vinos rosados y rosé,Calabretta Rosato,2019,Calabretta,Sin indicación geográfica,Italia,Nerello mascalese,,4.0,5,1,3,-1,-1,-1,"16,90 €",,False
+Vinos rosados y rosé,Nuestra Señora del Portal Rosado,2018,Celler Piñol,Terra Alta,España,Garnacha / Syrah,,0.0,5,0,1,-1,-1,-1,"8,91 €","9,90 €",True
+Vinos rosados y rosé,Santadi Carignano del Sulcis Rosato Tre Torri,2017,Santadi,Carignano del Sulcis,Italia,Carignano,,0.0,5,0,0,-1,-1,-1,"6,84 €","8,05 €",True
+Vinos rosados y rosé,Due Palme Salento Rosato Corerosa,2020,Due Palme,Salento,Italia,Primitivo / Susumaniello,,5.0,5,1,0,-1,-1,-1,"10,50 €",,False
+Vinos rosados y rosé,Vins de Taller Gris,2016,Vins de Taller,Sin indicación geográfica,España,Marcelan,,0.0,5,0,0,-1,-1,-1,"12,40 €",,False
+Vinos rosados y rosé,Poggio al Tesoro Bolgheri Rosato Cassiopea,2016,Poggio al Tesoro,Bolgheri,Italia,Merlot / Cabernet franc,,5.0,5,1,0,-1,-1,-1,"11,30 €",,False
+Vinos rosados y rosé,Zárate Fontecón Rosé,2017,Zárate,Sin indicación geográfica,España,,,0.0,5,0,2,-1,-1,-1,"18,45 €","20,50 €",True
+Vinos rosados y rosé,San Ruggiero Puglia Nero di Troia Sine Verba,2019,San Ruggiero,Puglia,Italia,Nero di Troia,,0.0,5,0,0,-1,-1,-1,"15,35 €",,False
+Vinos rosados y rosé,L'Escarelle Le Pacha Rosé,2021,Château de l'Escarelle,Coteaux-Varois-en-Provence,Francia,Cinsaut / Syrah / Garnacha,ECO,0.0,5,0,3,-1,-1,-1,"13,95 €",,False
+Vinos rosados y rosé,Alfredo Maestro Amanda,2018,Bodega Alfredo Maestro Tejero,Castilla y León,España,Garnacha tintorera,,0.0,5,0,2,-1,-1,-1,"10,90 €",,False
+Vinos rosados y rosé,Maculan Costadolio,2017,Maculan,Veneto IGT,Italia,Merlot,,0.0,5,0,0,-1,-1,-1,"10,10 €",,False
+Vinos rosados y rosé,Otazu Rosado Merlot,2020,Bodega Otazu,Navarra,España,Merlot,,4.33333,5,6,3,-1,-1,-1,"9,50 €",,False
+Vinos rosados y rosé,Epicure Más Amor,2019,Epicure Wines By Franck Massard,Catalunya,España,Garnacha / Tempranillo,,0.0,5,0,1,-1,-1,-1,"8,40 €",,False
+Vinos rosados y rosé,Saint M Rosé,2020,Château Saint Maur,Côtes-de-Provence,Francia,Grenache / Cinsaut / Tibouren / Syrah / Monastrell / Rolle,,0.0,5,0,5,-1,-1,-1,"15,60 €",,False
+Vinos rosados y rosé,Caves d'Esclans Whispering Angel,2020,Château d'Esclans,Côtes-de-Provence,Francia,Grenache / Cinsaut / Syrah / Carignano / Vermentino,,4.2,5,5,3,-1,-1,92,"20,50 €",,False
+Vinos rosados y rosé,Marabino Nero d'Avola Rosato Rosa Nera,2019,Marabino,Terre Siciliane,Italia,Nero d'Avola,ECO,4.66667,5,3,2,-1,-1,-1,"13,10 €",,False
+Vinos rosados y rosé,Chiaromonte Pinot Nero Rosato Kimìa,2018,Chiaromonte,Puglia,Italia,Pinot noir,,0.0,5,0,0,-1,-1,-1,"12,87 €","14,30 €",True
+Vinos rosados y rosé,OrgulloWine Rosado,2018,Orgullo Wine,Castilla,España,Syrah,,0.0,5,0,0,-1,-1,-1,"7,85 €",,False
+Vinos rosados y rosé,Caves d'Esclans Rock Angel,2020,Château d'Esclans,Côtes-de-Provence,Francia,Grenache / Rolle / Syrah,,0.0,5,0,0,-1,-1,-1,"28,70 €",,False
+Vinos rosados y rosé,Palamà Albarossa Rosato,2016,Palamà,Salento,Italia,Negroamaro,,3.0,5,1,0,-1,-1,-1,"7,55 €",,False
+Vinos rosados y rosé,Pinord Diorama Pinot Noir,2017,Bodegas Pinord,Penedès,España,Pinot noir,ECO,0.0,5,0,0,-1,-1,-1,"7,27 €","8,55 €",True
+Vinos rosados y rosé,Endrizzi Teroldego Rosato,2018,Endrizzi,Vigneti delle Dolomiti,Italia,Teroldego,,0.0,5,0,0,-1,-1,-1,"12,35 €",,False
+Vinos rosados y rosé,Giorgi Pinot Nero Rosato Frizzante,2019,Giorgi,Oltrepò Pavese,Italia,Pinot noir,,5.0,5,1,3,-1,-1,-1,"13,55 €",,False
+Vinos rosados y rosé,Ca' Lojera Garda Rosato Monte della Guardia,2021,Ca' Lojera,Garda,Italia,Cabernet sauvignon / Merlot,,5.0,5,2,3,-1,-1,-1,"12,55 €",,False
+Vinos rosados y rosé,Château de L'Escarelle Coteaux Varois,2021,Château de l'Escarelle,Coteaux-Varois-en-Provence,Francia,Grenache / Syrah / Cinsaut,ECO,4.0,5,4,3,-1,-1,-1,"11,70 €",,False
+Vinos rosados y rosé,Les Sorts Rosat,2019,Celler Masroig,Montsant,España,Garnacha / Cariñena,,0.0,5,0,0,-1,-1,-1,"7,95 €",,False
+Vinos rosados y rosé,Reale Tramonti Rosato Getis,2018,Azienda Agricola Reale,Costa d'Amalfi,Italia,Piedirosso / Tintore,ECO,0.0,5,0,0,-1,-1,-1,"32,10 €",,False
+Vinos rosados y rosé,Marina Palusci Cerasuolo SenzaNiente,2017,Marina Palusci,Cerasuolo d'Abruzzo,Italia,Montepulciano,,0.0,5,0,0,-1,-1,-1,"13,65 €",,False
+Vinos rosados y rosé,Ca N'Estruc Rosado,2021,Ca N'Estruc,Catalunya,España,Garnacha,,0.0,5,0,2,-1,-1,-1,"7,90 €",,False
+Vinos rosados y rosé,Pizarras de Otero Rosado,2020,Adegas Galegas,Bierzo,España,Mencía,,0.0,5,0,0,-1,-1,-1,"6,75 €",,False
+Vinos rosados y rosé,Nals Margreid Lagrein Rosé,2019,Nals Margreid,Alto Adige,Italia,Lagrein,,0.0,5,0,0,-1,-1,-1,"15,00 €",,False
+Vinos rosados y rosé,Terre Nobili Donn'Eleonò,2018,Terre Nobili,Calabria,Italia,Nerello cappuccio / Nerello mascalese / Magliocco,ECO,0.0,5,0,0,-1,-1,-1,"12,35 €",,False
+Vinos rosados y rosé,Monte Toro 9 Rosado,2018,Bodegas Ramón Ramos,Toro,España,Tinta de Toro,,0.0,5,0,0,-1,-1,-1,"4,50 €",,False
+Vinos rosados y rosé,Domaine de L'Ile - Porquerolles Rosé,2020,Domaine de L'Ile,Côtes-de-Provence,Francia,Grenache / Syrah / Cinsaut / Monastrell / Tibouren,ECO,4.66667,5,6,9,-1,-1,-1,"20,40 €",,False
+Vinos rosados y rosé,Regina Viarum Rosae,2018,Bodegas Regina Viarum,Ribeira Sacra,España,Mencía,,0.0,5,0,0,-1,-1,-1,"11,82 €","13,90 €",True
+Vinos rosados y rosé,Ácrata Bobal Rosado  - Verano,2019,Kirios de Adrada,Sin indicación geográfica,España,Bobal,,4.0,5,2,3,-1,-1,-1,"9,27 €","10,90 €",True
+Vinos rosados y rosé,Ribas Rosat,2021,Bodega Ribas,Mallorca,España,Mantonegro / Gargollassa / Callet,ECO,4.33333,5,9,4,-1,-1,-1,"14,50 €",,False
+Vinos rosados y rosé,Nena Rosat Els Vilars,2018,Vinya Els Vilars,Costers del Segre,España,Syrah,,4.0,5,1,1,-1,-1,-1,"9,76 €","10,85 €",True
+Vinos rosados y rosé,Hofstatter Lagrein Rosé,2019,Hofstätter,Alto Adige,Italia,Lagrein,,0.0,5,0,0,-1,-1,-1,"13,55 €",,False
+Vinos rosados y rosé,Agustí Torelló Mata Xic Vermell,2019,Cavas Agustí Torelló,Penedès,España,Xarel·lo vermell,ECO,4.0,5,4,1,-1,-1,-1,"6,50 €",,False
+Vinos rosados y rosé,Spiriti Ebbri Neostòs Rosato,2016,Spiriti Ebbri,Calabria,Italia,Greco / Merlot / Guarnaccia,ECO,0.0,5,0,0,-1,-1,-1,"24,45 €",,False
+Vinos rosados y rosé,Jaboulet Parallèle 45 Rosé,2019,Domaines Paul Jaboulet Aîné,Côtes du Rhône,Francia,Garnacha / Cinsaut / Syrah,,4.0,5,1,1,-1,-1,-1,"8,46 €","9,95 €",True
+Vinos rosados y rosé,Antonio Pisante Nero di Troia Rosato Pyrrós,2019,Antonio Pisante,Puglia,Italia,Nero di Troia,,4.33333,5,3,0,-1,-1,-1,"6,55 €",,False
+Vinos rosados y rosé,Tenuta Ammiraglia Rosé Alìe,2019,Marchesi de' Frescobaldi,Toscana,Italia,Syrah / Vermentino,,4.5,5,2,3,-1,-1,-1,"16,90 €",,False
+Vinos rosados y rosé,Casa de Si Florecita Clarete Tinajas,2015,Casa de Si,Calatayud,España,Garnacha / Garnacha blanca / Tinta de Toro,,0.0,5,0,1,-1,-1,-1,"23,70 €",,False
+Vinos rosados y rosé,Pícaro del Águila Clarete,2020,Dominio del Águila,Ribera del Duero,España,Tempranillo / Garnacha / Bobal,ECO,4.66667,5,9,25,-1,-1,-1,"25,40 €",,False
+Vinos rosados y rosé,Fragantia Nº 6 Rosado,2018,Finca Constancia,Castilla,España,Syrah,,5.0,5,1,0,-1,-1,-1,"6,10 €",,False
+Vinos rosados y rosé,L de Aylés Rosado,2014,Pago de Aylés,Aylés,España,Garnacha / Cabernet sauvignon,,0.0,5,0,0,-1,-1,-1,"8,20 €",,False
+Vinos rosados y rosé,Il Borro Rosé del Borro,2018,Il Borro,Toscana,Italia,Sangiovese,,5.0,5,1,1,-1,-1,-1,"11,30 €",,False
+Vinos rosados y rosé,Tayaimgut Fresc Rosat,2016,Tayaimgut,Penedès,España,Merlot,,0.0,5,0,0,-1,-1,-1,"8,65 €",,False
+Vinos rosados y rosé,Andrea Occhipinti Alea Rosa,2020,Andrea Occhipinti,Sin indicación geográfica,Italia,Aleático,ECO,4.0,5,1,3,-1,-1,-1,"15,75 €",,False
+Vinos rosados y rosé,Perrin Nature Côtes du Rhône Rosé,2020,Famille Perrin,Côtes du Rhône,Francia,Cinsaut / Grenache / Monastrell / Syrah,ECO,0.0,5,0,0,-1,-1,-1,"9,40 €",,False
+Vinos rosados y rosé,Durin Ormeasco di Pornassio Sciac-trà,2017,Durin,Ormeasco di Pornassio,Italia,Ormeasco,,0.0,5,0,0,-1,-1,-1,"14,60 €",,False
+Vinos rosados y rosé,Vulcano Rosado,2021,Bodega Vulcano,Lanzarote,España,Listán negro,,5.0,5,11,7,-1,-1,-1,"19,30 €",,False
+Vinos rosados y rosé,Torrevento Bombino Nero Veritas,2018,Torrevento,Castel del Monte Bombino Nero,Italia,Bombino Nero,,5.0,5,2,1,-1,-1,-1,"8,05 €",,False
+Vinos rosados y rosé,Tenuta Campo al Mare Bolgheri Rosato,2018,Tenuta Campo al Mare,Bolgheri,Italia,Merlot,,0.0,5,0,0,-1,-1,-1,"13,10 €",,False
+Vinos rosados y rosé,Libido Rosado,2017,Vinos Mondo Lirondo,Navarra,España,Garnacha,,0.0,5,0,0,-1,-1,-1,"5,80 €",,False
+Vinos rosados y rosé,Falesco Tellus Rosé di Syrah,2021,Falesco - Famiglia Cotarella,Lazio,Italia,Syrah,,0.0,5,0,0,-1,-1,-1,"10,85 €",,False
+Vinos rosados y rosé,Château Boujac Vita Méa Rosé,2020,Château Boujac,Fronton,Francia,Négrette / Syrah / Cabernet franc,ECO,0.0,5,0,0,-1,-1,-1,"10,45 €",,False
+Vinos rosados y rosé,Perla del Garda Rose delle Siepi,-1,Perla del Garda,Sin indicación geográfica,Italia,Rebo,,0.0,5,0,0,-1,-1,-1,"14,60 €",,False
+Vinos rosados y rosé,Librandi Cirò Rosato,2020,Librandi,Cirò,Italia,Gaglioppo,,5.0,5,1,1,-1,-1,-1,"9,30 €",,False
+Vinos rosados y rosé,Costaripa RosaMara,2021,Costaripa,Valtènesi,Italia,Groppello / Marzemino / Sangiovese / Barbera,,4.71429,5,7,2,-1,-1,-1,"13,55 €",,False
+Vinos rosados y rosé,Pink Flamingo Gris de Gris Rosé,2020,Domaine Royal de Jarras,Sable de Camargue,Francia,Grenache,ECO,0.0,5,0,4,-1,-1,-1,"10,45 €",,False
+Vinos rosados y rosé,L'Escarelle L'Instant Rosé,2020,Château de l'Escarelle,Coteaux-Varois-en-Provence,Francia,Garnacha / Syrah / Cinsaut,,0.0,5,0,3,-1,-1,-1,"10,95 €",,False
+Vinos rosados y rosé,Avancia Cuvée de O Rosé,2017,Bodegas Avanthia,Sin indicación geográfica,España,Mencía,,4.0,5,1,0,-1,-1,-1,"11,95 €",,False
+Vinos rosados y rosé,Ismael Gozalo Microbio Correcaminos Rosado,2021,Microbio Wines,Sin indicación geográfica,España,Tempranillo / Verdejo,,4.0,5,2,4,-1,-1,-1,"16,35 €",,False
+Vinos rosados y rosé,Château Puech-Haut Tête de Bélier Rosé,2018,Château Puech-Haut,Languedoc,Francia,Monastrell / Grenache,,0.0,5,0,0,-1,-1,-1,"21,45 €",,False
+Vinos rosados y rosé,Cantine Russo Etna Rosato Piano dei Daini,2016,Cantine Russo,Etna,Italia,Nerello mascalese / Nerello cappuccio,,0.0,5,0,0,-1,-1,-1,"18,91 €","22,25 €",True
+Vinos rosados y rosé,Domaine des Terrisses Gaillac Rosé,2020,Domaine des Terrisses,Gaillac,Francia,Braucol / Duras / Syrah,,0.0,5,0,0,-1,-1,-1,"8,55 €",,False
+Vinos rosados y rosé,Masciarelli Colline Teatine Rosato,2019,Masciarelli,Colline Teatine,Italia,Montepulciano,,0.0,5,0,1,-1,-1,-1,"9,55 €",,False
+Vinos rosados y rosé,Château d'Esclans Les Clans,2020,Château d'Esclans,Côtes-de-Provence,Francia,Grenache / Rolle / Syrah,,0.0,5,0,1,-1,-1,-1,"44,85 €",,False
+Vinos rosados y rosé,Terre di Talamo Rosé Piano Piano,2019,Terre di Talamo,Toscana,Italia,Sangiovese / Cabernet sauvignon,ECO,0.0,5,0,0,-1,-1,-1,"15,90 €",,False
+Vinos rosados y rosé,Siós Violes Velles,2015,Costers del Sió,Costers del Segre,España,Garnacha / Syrah,,0.0,5,0,0,-1,-1,-1,"10,30 €",,False
+Vinos rosados y rosé,Giacometti Patrimonio Rosé Cru des Agriate,2019,Giacometti,Patrimonio,Francia,Nielluccio / Sciacarello,,0.0,5,0,0,-1,-1,-1,"16,25 €",,False
+Vinos rosados y rosé,Masseria Felicia Aglianico Rosalice,2014,Masseria Felicia,Roccamonfina,Italia,Aglianico,,0.0,5,0,0,-1,-1,-1,"13,10 €",,False
+Vinos rosados y rosé,Xino-Xano Rosat,2019,Oriol Rossell,Penedès,España,Merlot / Syrah,,0.0,5,0,0,-1,-1,-1,"5,52 €","6,50 €",True
+Vinos rosados y rosé,Giusti Le Rose di Settembre,2019,Giusti Piergiovanni,Marche,Italia,Lacrima,,0.0,5,0,0,-1,-1,-1,"10,30 €",,False
+Vinos rosados y rosé,Sant'Andrea Circeo Rosato Riflessi,2018,Cantina Sant'Andrea,Circeo,Italia,Merlot,,0.0,5,0,0,-1,-1,-1,"8,55 €",,False
+Vinos rosados y rosé,Rocca delle Macìe Rosato Campo Maccione,2019,Rocca delle Macìe,Maremma Toscana,Italia,Sangiovese,,0.0,5,0,0,-1,-1,-1,"12,55 €",,False
+Vinos rosados y rosé,Abbazia di Propezzano Rosato CAb,2017,Abbazia di Propezzano,Colli Aprutini,Italia,Montepulciano,,0.0,5,0,0,-1,-1,-1,"12,15 €","13,50 €",True
+Vinos rosados y rosé,Honorio Rubio Tremendus Clarete,2017,Bodegas Honorio Rubio,Rioja,España,Viura / Garnacha,,4.0,5,1,1,-1,-1,-1,"5,60 €",,False
+Vinos rosados y rosé,Château de Nages Vieilles Vignes Rosé,2018,Château de Nages,Costières-de-Nîmes,Francia,Garnacha / Monastrell,ECO,0.0,5,0,0,-1,-1,-1,"14,50 €",,False
+Vinos rosados y rosé,Epicure El Mago Rosado,2017,Epicure Wines By Franck Massard,Terra Alta,España,Garnacha,,0.0,5,0,0,-1,-1,-1,"15,00 €",,False
+Vinos rosados y rosé,Medici Ermete Reggiano Lambrusco Rosato Quercioli,-1,Medici Ermete,Reggiano,Italia,Lambrusco Marani,,0.0,5,0,0,-1,-1,-1,"7,05 €",,False
+Vinos rosados y rosé,Gaudio Monferrato Ciaret,2016,Gaudio,Monferrato,Italia,Barbera / Freisa,,0.0,5,0,0,-1,-1,-1,"12,55 €",,False
+Vinos rosados y rosé,Romanin Alpilles Rosé,2020,Château Romanin,Alpilles,Francia,Grenache / Counoise / Cabernet sauvignon / Syrah,ECO,5.0,5,1,3,-1,-1,-1,"13,50 €",,False
+Vinos rosados y rosé,Château de Saint-Preignan Mas de Cigales Rosé,2016,Château de Saint-Preignan,Pays d'Hérault,Francia,Cinsaut / Garnacha,,0.0,5,0,0,-1,-1,-1,"6,35 €",,False
+Vinos rosados y rosé,Vallombrosa Les Terrasses Rosé,2013,Villa Vallombrosa,Côtes-de-Provence,Francia,Garnacha / Cinsaut / Syrah / Monastrell,,0.0,5,0,0,-1,-1,-1,"19,95 €",,False
+Vinos rosados y rosé,Oriol Artigas SOS #4 Celler Pujol Cargol,2020,Oriol Artigas Viticultor,Sin indicación geográfica,España,Lledoner roig / Cariñena blanca,,0.0,5,0,3,-1,-1,-1,"14,40 €",,False
+Vinos rosados y rosé,Bicicletas y Peces Rosado Pálido,2017,Family Owned Wineries,Somontano,España,Tempranillo,,3.66667,5,3,0,-1,-1,-1,"8,80 €",,False
+Vinos rosados y rosé,Summertime by La Gordonne Rosé,2020,Domaine de la Gordonne,Côtes-de-Provence,Francia,Cinsaut / Grenache / Syrah,ECO,5.0,5,2,1,-1,-1,-1,"12,75 €",,False
+Vinos rosados y rosé,Domaine Tariquet Marselan Rosé,2021,Domaine Tariquet,Côtes de Gascogne,Francia,Marselan,,0.0,5,0,1,-1,-1,-1,"8,60 €",,False
+Vinos rosados y rosé,Giba Carignano del Sulcis Rosato,2016,Giba,Carignano del Sulcis,Italia,Carignano,,0.0,5,0,0,-1,-1,-1,"12,00 €",,False
+Vinos rosados y rosé,Roche Mazet Clairement Rosé,2020,Roche Mazet,Pays d'Oc,Francia,Garnacha gris,,0.0,5,0,3,-1,-1,-1,"6,85 €",,False
+Vinos rosados y rosé,Aromas del Silencio Rosado,2018,Fuentes del Silencio,Castilla y León,España,Prieto picudo,,0.0,5,0,0,-1,-1,-1,"11,86 €","13,95 €",True
+Vinos rosados y rosé,Reale Tramonti Rosato Getis,2018,Azienda Agricola Reale,Costa d'Amalfi,Italia,Piedirosso / Tintore,ECO,0.0,5,0,0,-1,-1,-1,"32,10 €",,False
+Vinos rosados y rosé,Regina Viarum Rosae,2018,Bodegas Regina Viarum,Ribeira Sacra,España,Mencía,,0.0,5,0,0,-1,-1,-1,"11,82 €","13,90 €",True
+Vinos rosados y rosé,Ca N'Estruc Rosado,2021,Ca N'Estruc,Catalunya,España,Garnacha,,0.0,5,0,2,-1,-1,-1,"7,90 €",,False
+Vinos rosados y rosé,Marina Palusci Cerasuolo SenzaNiente,2017,Marina Palusci,Cerasuolo d'Abruzzo,Italia,Montepulciano,,0.0,5,0,0,-1,-1,-1,"13,65 €",,False
+Vinos rosados y rosé,Chiaromonte Pinot Nero Rosato Kimìa,2018,Chiaromonte,Puglia,Italia,Pinot noir,,0.0,5,0,0,-1,-1,-1,"12,87 €","14,30 €",True
+Vinos rosados y rosé,La Basia Chiaretto La Moglie Ubriaca,2017,La Basia,Valtènesi,Italia,Groppello / Barbera / Marzemino / Sangiovese,,5.0,5,1,0,-1,-1,-1,"12,00 €",,False
+Vinos rosados y rosé,Gulfi Nero d'Avola Rosà,2020,Gulfi,Sicilia,Italia,Nero d'Avola,ECO,4.0,5,2,3,-1,-1,-1,"12,55 €",,False
+Vinos rosados y rosé,La Zorra Rosado,2017,Vinos La Zorra,Sierra de Salamanca,España,Tempranillo / Rufete,,0.0,5,0,0,-1,-1,-1,"9,15 €",,False
+Vinos rosados y rosé,Yllera Rosé,2016,Yllera,Castilla y León,España,Tempranillo / Verdejo,,4.0,5,2,0,-1,-1,-1,"5,40 €",,False
+Vinos rosados y rosé,Ca' De' Medici Lambrusco Frizzante Rosato,-1,Ca' De' Medici,Emilia,Italia,Lambrusco Salamino / Lambrusco Marani / Lambrusco Montericco / Lambrusco Maestri,,0.0,5,0,0,-1,-1,-1,"4,80 €",,False
+Vinos rosados y rosé,Perla del Garda Rose delle Siepi,-1,Perla del Garda,Sin indicación geográfica,Italia,Rebo,,0.0,5,0,0,-1,-1,-1,"14,60 €",,False
+Vinos rosados y rosé,Librandi Cirò Rosato,2020,Librandi,Cirò,Italia,Gaglioppo,,5.0,5,1,1,-1,-1,-1,"9,30 €",,False
+Vinos rosados y rosé,Giusti Le Rose di Settembre,2019,Giusti Piergiovanni,Marche,Italia,Lacrima,,0.0,5,0,0,-1,-1,-1,"10,30 €",,False
+Vinos rosados y rosé,Giacometti Patrimonio Rosé Cru des Agriate,2019,Giacometti,Patrimonio,Francia,Nielluccio / Sciacarello,,0.0,5,0,0,-1,-1,-1,"16,25 €",,False
+Vinos rosados y rosé,Falesco Tellus Rosé di Syrah,2021,Falesco - Famiglia Cotarella,Lazio,Italia,Syrah,,0.0,5,0,0,-1,-1,-1,"10,85 €",,False
+Vinos rosados y rosé,Vinica Tintilia Rosato Vigne del Sorbo,2016,Agricolavinica,Molise,Italia,Tintilia,,0.0,5,0,0,-1,-1,-1,"13,55 €",,False
+Vinos rosados y rosé,Rocca delle Macìe Rosato Campo Maccione,2019,Rocca delle Macìe,Maremma Toscana,Italia,Sangiovese,,0.0,5,0,0,-1,-1,-1,"12,55 €",,False
+Vinos rosados y rosé,Domaine des Terrisses Gaillac Rosé,2020,Domaine des Terrisses,Gaillac,Francia,Braucol / Duras / Syrah,,0.0,5,0,0,-1,-1,-1,"8,55 €",,False
+Vinos rosados y rosé,Château d'Esclans Les Clans,2020,Château d'Esclans,Côtes-de-Provence,Francia,Grenache / Rolle / Syrah,,0.0,5,0,1,-1,-1,-1,"44,85 €",,False
+Vinos rosados y rosé,Cascina degli Ulivi Bellotti Rosa,2018,Cascina degli Ulivi,Sin indicación geográfica,Italia,Merlot,ECO,0.0,5,0,0,-1,-1,-1,"14,60 €",,False
+Vinos rosados y rosé,Cantine Russo Etna Rosato Piano dei Daini,2016,Cantine Russo,Etna,Italia,Nerello mascalese / Nerello cappuccio,,0.0,5,0,0,-1,-1,-1,"18,91 €","22,25 €",True
+Vinos rosados y rosé,Masciarelli Colline Teatine Rosato,2019,Masciarelli,Colline Teatine,Italia,Montepulciano,,0.0,5,0,1,-1,-1,-1,"9,55 €",,False
+Vinos rosados y rosé,Château Puech-Haut Tête de Bélier Rosé,2018,Château Puech-Haut,Languedoc,Francia,Monastrell / Grenache,,0.0,5,0,0,-1,-1,-1,"21,45 €",,False
+Vinos rosados y rosé,Terre di Talamo Rosé Piano Piano,2019,Terre di Talamo,Toscana,Italia,Sangiovese / Cabernet sauvignon,ECO,0.0,5,0,0,-1,-1,-1,"15,90 €",,False
+Vinos rosados y rosé,Casa de Si Florecita Clarete Tinajas,2015,Casa de Si,Calatayud,España,Garnacha / Garnacha blanca / Tinta de Toro,,0.0,5,0,1,-1,-1,-1,"23,70 €",,False
+Vinos rosados y rosé,Il Borro Rosé del Borro,2018,Il Borro,Toscana,Italia,Sangiovese,,5.0,5,1,1,-1,-1,-1,"11,30 €",,False
+Vinos rosados y rosé,Ognissole Pontelama,2017,Ognissole,Castel del Monte,Italia,Nero di Troia,ECO,0.0,5,0,0,-1,-1,-1,"11,29 €","12,55 €",True
+Vinos rosados y rosé,Château du Chatelard Le Rosé,2020,Château du Chatelard,Beaujolais,Francia,Gamay,,0.0,5,0,0,-1,-1,-1,"8,45 €",,False
+Vinos rosados y rosé,Andrea Occhipinti Alea Rosa,2020,Andrea Occhipinti,Sin indicación geográfica,Italia,Aleático,ECO,4.0,5,1,3,-1,-1,-1,"15,75 €",,False
+Vinos rosados y rosé,Murgo Etna Rosato,2020,Murgo,Etna,Italia,Nerello mascalese / Nerello cappuccio,,0.0,5,0,1,-1,-1,-1,"14,50 €",,False
+Vinos rosados y rosé,Vallepicciola Toscana Rosato Pievasciata,2020,Vallepicciola,Toscana,Italia,Pinot noir,,0.0,5,0,0,-1,-1,-1,"13,10 €",,False
+Vinos rosados y rosé,Pizarras de Otero Rosado,2020,Adegas Galegas,Bierzo,España,Mencía,,0.0,5,0,0,-1,-1,-1,"6,75 €",,False
+Vinos rosados y rosé,Château de Chaintres Les Hirondelles Rosé,2020,Château de Chaintres,Saumur,Francia,Cabernet franc,ECO,0.0,5,0,0,-1,-1,-1,"12,20 €",,False
+Vinos rosados y rosé,Fragantia Nº 6 Rosado,2018,Finca Constancia,Castilla,España,Syrah,,5.0,5,1,0,-1,-1,-1,"6,10 €",,False
+Vinos rosados y rosé,San Salvatore Paestum Rosato Vetere,2020,San Salvatore 1988,Paestum,Italia,Aglianico,,5.0,5,3,4,-1,-1,-1,"19,00 €",,False
+Vinos rosados y rosé,Ottella Roses Roses,2017,Ottella,Alto Mincio,Italia,Corvina / Lagrein / Rondinella,,0.0,5,0,0,-1,-1,-1,"11,30 €",,False
+Vinos rosados y rosé,Bernat Oller Rosat,2018,Oller del Mas,Pla de Bages,España,Merlot,ECO,0.0,5,0,1,-1,-1,-1,"10,90 €",,False
+Vinos rosados y rosé,Georges Duboeuf Beaujolais Rosé,2020,Georges Duboeuf,Beaujolais,Francia,Gamay,,0.0,5,0,0,-1,-1,-1,"8,60 €",,False
+Vinos rosados y rosé,Endrizzi Dalis Rosé,2018,Endrizzi,Trentino,Italia,Teroldego / Sauvignon,,0.0,5,0,0,-1,-1,-1,"13,10 €",,False
+Vinos rosados y rosé,Domaine de la Zouina Volubilia Gris,2019,Domaine de la Zouina,Meknes,Marruecos,Caladoc / Marcelan / Monastrell / Cabernet sauvignon,,4.0,5,2,1,-1,-1,-1,"9,95 €",,False
+Vinos rosados y rosé,L'Heravi Rosé,2015,Vinyes d'en Gabriel,Montsant,España,Garnacha / Syrah,,0.0,5,0,0,-1,-1,-1,"8,75 €",,False
+Vinos rosados y rosé,I Fauri Cerasuolo d'Abruzzo Baldovino,2020,Tenuta I Fauri,Cerasuolo d'Abruzzo,Italia,Montepulciano,,0.0,5,0,1,-1,-1,-1,"8,75 €",,False
+Vinos rosados y rosé,Tenuta San Francesco Costa d'Amalfi Rosato,2021,Tenuta San Francesco,Costa d'Amalfi,Italia,Piedirosso / Aglianico,,0.0,5,0,3,-1,-1,-1,"17,90 €",,False
+Vinos rosados y rosé,Porta del Vento Perricone Maqué Rosé,2018,Porta del Vento,Terre Siciliane,Italia,Perricone,ECO,4.0,5,1,1,-1,-1,-1,"16,50 €",,False
+Vinos rosados y rosé,Poblets Rosat,2017,Poblets de Montsant,Montsant,España,Garnacha / Cariñena / Syrah,ECO,2.0,5,1,0,-1,-1,-1,"13,50 €",,False
+Vinos rosados y rosé,Pizzicato,2018,Mas Comtal,Penedès,España,Moscatel de Hamburgo,ECO,4.0,5,1,0,-1,-1,-1,"7,27 €","8,55 €",True
+Vinos rosados y rosé,Gramona Moustillant Rosat Brut,-1,Gramona,Penedès,España,Syrah / Merlot,,4.57143,5,7,2,-1,-1,-1,"7,15 €",,False
+Vinos rosados y rosé,Villa Sparina Montej Rosato,2019,Villa Sparina,Monferrato,Italia,Barbera / Dolcetto,,5.0,5,1,0,-1,-1,90,"10,10 €",,False
+Vinos rosados y rosé,Clos Mireille Rosé,2020,Domaines Ott,Côtes-de-Provence,Francia,Grenache / Cinsaut / Rolle / Syrah,,0.0,5,0,1,-1,-1,-1,"29,40 €",,False
+Vinos rosados y rosé,Impromptu Rosé,2020,Bodegas Hispano-Suizas,Valencia,España,Pinot noir,,0.0,5,0,2,-1,-1,-1,"21,90 €",,False
+Vinos rosados y rosé,MF Perafita Rosat,2015,Celler Martín Faixó,Empordà,España,Merlot / Garnacha,,0.0,5,0,0,-1,-1,-1,"10,50 €",,False
+Vinos rosados y rosé,Domaine de Santa Duc Les Plans Rosé,2016,Domaine de Santa Duc,Vaucluse,Francia,Cinsaut / Garnacha / Syrah,,0.0,5,0,0,-1,-1,-1,"8,45 €",,False
+Vinos rosados y rosé,Orlandi Contucci Cerasuolo Petronilla,2020,Orlandi Contucci Ponno,Cerasuolo d'Abruzzo,Italia,Montepulciano,,0.0,5,0,0,-1,-1,-1,"7,55 €",,False
+Vinos rosados y rosé,Marisa Cuomo Costa d'Amalfi Rosato,2019,Marisa Cuomo,Costa d'Amalfi,Italia,Aglianico / Piedirosso,,4.5,5,2,3,-1,-1,-1,"17,35 €",,False
+Vinos rosados y rosé,Sella & Mosca Alghero Rosato,2019,Sella & Mosca,Alghero,Italia,Sangiovese,,0.0,5,0,1,-1,-1,-1,"10,50 €",,False
+Vinos rosados y rosé,Proprietà Sperino Rosa del Rosa,2020,Proprietà Sperino,Piemonte,Italia,Nebbiolo / Vespolina,,5.0,5,3,1,-1,-1,-1,"19,00 €",,False
+Vinos rosados y rosé,Caravaglio Occhio di Terra Rosso non Rosso,2016,Caravaglio,Salina,Italia,Corinto / Nerello mascalese,ECO,0.0,5,0,0,-1,-1,-1,"22,25 €",,False
+Vinos rosados y rosé,Torre Matilde Toscana Rosato Villa dei Bardi,2019,Torre Matilde,Toscana,Italia,Sangiovese,,0.0,5,0,0,-1,-1,-1,"11,30 €",,False
+Vino blanco,José Pariente Verdejo,2021,Bodegas José Pariente ,Rueda,España,Verdejo,,4.43609,5,133,87,-1,-1,-1,"9,90 €",,False
+Vino blanco,Luna Beberide Godello,2021,Bodegas y Viñedos Luna Beberide,Bierzo,España,Godello,,4.0625,5,16,30,91,-1,-1,"7,80 €",,False
+Vino blanco,Enate Chardonnay - 234,2021,Enate,Somontano,España,Chardonnay,,4.38462,5,104,49,-1,-1,-1,"8,95 €",,False
+Vino blanco,Ultreia Godello,2020,Raúl Pérez Viticultor,Bierzo,España,Godello,,4.375,5,24,52,93,-1,-1,"15,50 €",,False
+Vino blanco,Viña Tondonia Reserva Blanco,2011,Bodegas R. López de Heredia ,Rioja,España,Viura / Malvasía,,4.65714,5,35,40,93,-1,97,"45,00 €",,False
+Vino blanco,Cullerot,2021,Celler del Roure,Valencia,España,Verdil / Pedro ximénez / Chardonnay / Macabeo / Merseguera / Malvasía,,4.3125,5,16,28,92,-1,-1,"9,95 €",,False
+Vino blanco,Principia Mathematica,2021,Alemany i Corrió,Penedès,España,Xarel·lo,,3.63636,5,11,17,94,-1,-1,"16,60 €",,False
+Vino blanco,Enate Chardonnay Fermentado en Barrica,2021,Enate,Somontano,España,Chardonnay,,4.78125,5,32,31,-1,-1,-1,"16,90 €",,False
+Vino blanco,Protos Verdejo,2021,Bodegas Protos,Rueda,España,Verdejo,,4.38462,5,52,31,-1,-1,-1,"6,90 €",,False
+Vino blanco,La del Vivo,2020,La Vizcaína de Vinos,Bierzo,España,Godello / Doña blanca,,4.8,5,10,26,95,-1,-1,"21,50 €",,False
+Vino blanco,O Luar Do Sil,2021,Pago de los Capellanes,Valdeorras,España,Godello,,4.2,5,25,18,-1,-1,-1,"11,60 €",,False
+Vino blanco,Pagos de Galir Godello,2021,Virxe de Galir,Valdeorras,España,Godello,,4.3,5,10,31,-1,-1,-1,"12,90 €",,False
+Vino blanco,Mas d'en Compte Blanc,2017,Celler Cal Pla,Priorat,España,Garnacha blanca / Picapoll / Xarel·lo / Macabeo,,4.66667,5,12,16,-1,-1,-1,"15,40 €",,False
+Vino blanco,Louro,2021,Rafael Palacios,Valdeorras,España,Godello / Treixadura,,4.4,5,30,36,-1,-1,-1,"17,50 €",,False
+Vino blanco,El Enemigo Chardonnay,2020,Bodega Aleanna,Mendoza,Argentina,Chardonnay,,4.45714,5,35,32,-1,-1,96,"22,00 €",,False
+Vino blanco,La Orquesta,2019,Soto y Manrique,Castilla y León,España,Garnacha blanca / Albillo / Verdejo,,0.0,5,0,30,92,-1,-1,"14,90 €",,False
+Vino blanco,Basa Blanco,2021,Compañía de Vinos de Telmo Rodríguez,Rueda,España,Verdejo / Viura,,4.51515,5,33,21,90,-1,-1,"7,85 €",,False
+Vino blanco,Lolo,2021,Bodegas y Viñedos Paco & Lola,Rías Baixas,España,Albariño,,4.0,5,19,9,-1,-1,-1,"7,30 €",,False
+Vino blanco,Menade Verdejo,2022,Bodegas Menade,Rueda,España,Verdejo,ECO,4.14815,5,27,18,-1,-1,-1,"8,95 €",,False
+Vino blanco,Gessamí,2022,Gramona,Penedès,España,Moscatel de grano menudo / Sauvignon blanc / Gewürztraminer,ECO,4.54286,5,35,23,-1,-1,-1,"11,50 €",,False
+Vino blanco,Can Sumoi Xarel·lo,2022,Can Sumoi,Penedès,España,Xarel·lo,ECO,4.6,5,10,21,-1,-1,-1,"12,40 €",,False
+Vino blanco,K-Naia,2021,Bodegas Naia,Rueda,España,Verdejo / Sauvignon blanc,,4.45283,5,53,40,-1,-1,-1,"5,65 €",,False
+Vino blanco,Bach Extrísimo Blanco Semidulce,2021,Masia Bach,Catalunya,España,Xarel·lo / Macabeo,,4.82955,5,88,21,-1,-1,-1,"4,60 €",,False
+Vino blanco,René Barbier Semi Dulce,2021,René Barbier,Catalunya,España,Macabeo / Parellada / Xarel·lo / Moscatel de Alejandría,,4.75904,5,83,20,-1,-1,-1,"4,10 €",,False
+Vino blanco,Leirana Albariño,2021,Bodega Forjas del Salnés,Rías Baixas,España,Albariño,,4.21053,5,19,51,-1,-1,-1,"15,90 €",,False
+Vino blanco,Ilercavònia,2021,Altavins,Terra Alta,España,Garnacha blanca,,4.5,5,8,11,-1,-1,92,"9,95 €",,False
+Vino blanco,Otazu Chardonnay,2021,Bodega Otazu,Navarra,España,Chardonnay,,4.4,5,5,8,-1,-1,-1,"9,95 €",,False
+Vino blanco,Albariño de Fefiñanes,2021,Bodegas del Palacio de Fefiñanes,Rías Baixas,España,Albariño,,4.38095,5,21,11,91,-1,-1,"14,90 €",,False
+Vino blanco,Emilio Moro El Zarzal,2020,Emilio Moro,Bierzo,España,Godello,,4.0,5,3,12,-1,-1,93,"14,50 €",,False
+Vino blanco,Pazo Señorans Selección de Añada,2013,Pazo de Señorans,Rías Baixas,España,Albariño,,4.58333,5,12,29,-1,-1,-1,"36,95 €",,False
+Vino blanco,Raimat Castell Chardonnay,2021,Raimat,Costers del Segre,España,Chardonnay,ECO,4.47059,5,17,7,-1,-1,-1,"7,45 €",,False
+Vino blanco,Oliver Conti Indispensable Blanc,2021,Oliver Conti,Empordà,España,Macabeo / Sauvignon blanc / Garnacha blanca / Moscatel de Alejandría,,4.8,5,5,8,-1,-1,-1,"6,30 €",,False
+Vino blanco,Ramón Bilbao Verdejo,2021,Bodegas Ramón Bilbao,Rueda,España,Verdejo,,4.22222,5,18,5,-1,-1,-1,"6,50 €",,False
+Vino blanco,Naia,2021,Bodegas Naia,Rueda,España,Verdejo,,4.27273,5,11,15,-1,-1,-1,"8,80 €",,False
+Vino blanco,Gotas del Mar Godello,2021,Hammeken Cellars,Ribeiro,España,Godello,,5.0,5,1,3,-1,-1,-1,"11,30 €",,False
+Vino blanco,Ikigall,2021,Gallina de Piel Wines,Penedès,España,Xarel·lo / Malvasia de Sitges / Moscatel de Alejandría,,5.0,5,3,3,-1,-1,-1,"9,30 €",,False
+Vino blanco,Can Sumoi Perfum,2021,Can Sumoi,Penedès,España,Parellada / Macabeo / Moscatel de Alejandría,ECO,4.75,5,4,7,-1,-1,-1,"10,85 €",,False
+Vino blanco,Txakoli Aizpurua,2021,Txakoli Aizpurua,Getariako Txakolina,España,Hondarribi zuri,,4.0,5,4,7,-1,-1,-1,"9,75 €",,False
+Vino blanco,La Foradada de Frisach,2021,Celler Frisach,Terra Alta,España,Garnacha blanca,ECO,5.0,5,3,12,-1,-1,-1,"14,50 €",,False
+Vino blanco,Marina Alta,2021,Bodega Bocopa,Alicante,España,Moscatel de Alejandría,,4.8125,5,32,25,-1,-1,-1,"6,20 €",,False
+Vino blanco,Viña Esmeralda,2021,Propiedad Bodegas Torres,Penedès,España,Moscatel de Alejandría / Gewürztraminer,ECO,4.65,5,40,24,-1,-1,-1,"9,20 €",,False
+Vino blanco,Casar de Burbia Godello,2021,Bodega Casar de Burbia,Bierzo,España,Godello,ECO,4.15385,5,13,7,-1,-1,90,"11,40 €",,False
+Vino blanco,Afortunado,2021,Viñedos Singulares ,Rueda,España,Verdejo,,4.59091,5,22,9,-1,-1,-1,"7,25 €",,False
+Vino blanco,Taille aux Loups Clos de la Bretonniere,2019,Domaine de la Taille Aux Loups,Montlouis-sur-Loire,Francia,Chenin Blanc,,0.0,5,0,2,-1,-1,-1,"33,90 €",,False
+Vino blanco,El Novio Perfecto,2021,Vinos Mondo Lirondo,Valencia,España,Moscatel de Alejandría / Viura,,4.66667,5,9,8,-1,-1,-1,"7,50 €",,False
+Vino blanco,Finca La Colina Sauvignon Blanc,2021,Vinos Sanz,Rueda,España,Sauvignon blanc,,4.7,5,30,10,-1,-1,-1,"13,75 €",,False
+Vino blanco,Descomunal Verdejo,2021,Bodega Cuatro Rayas,Rueda,España,Verdejo,,4.11429,5,35,17,-1,-1,-1,"4,20 €",,False
+Vino blanco,Monopole,2021,Compañía Vinícola del Norte de España - CVNE,Rioja,España,Viura,,4.29412,5,17,10,91,-1,92,"5,80 €",,False
+Vino blanco,Viña Zorzal Chardonnay,2021,Viña Zorzal,Navarra,España,Chardonnay,,4.16667,5,12,8,-1,-1,-1,"6,50 €",,False
+Vino blanco,Tres Olmos Verdejo Lías,2021,Bodegas Garciarevalo,Rueda,España,Verdejo,,4.0,5,1,1,-1,-1,-1,"8,70 €",,False
+Vino blanco,Viñas del Vero Gewürztraminer,2021,Viñas del Vero,Somontano,España,Gewürztraminer,,4.25,5,16,8,-1,-1,-1,"11,30 €",,False
+Vino blanco,Paco & Lola Nº 12,2021,Bodegas y Viñedos Paco & Lola,Rías Baixas,España,Albariño,,4.4,5,10,6,-1,-1,-1,"9,95 €",,False
+Vino blanco,Marqués de Riscal Verdejo Organic,2021,"Marqués de Riscal, Herederos",Rueda,España,Verdejo,ECO,5.0,5,5,9,-1,-1,-1,"8,95 €",,False
+Vino blanco,Catena Alta Chardonnay,2019,Bodega Catena Zapata,Mendoza,Argentina,Chardonnay,,4.25,5,12,12,93,-1,94,"21,90 €",,False
+Vino blanco,Pulpo Albariño,2021,Pagos del Rey,Rías Baixas,España,Albariño,,3.75,5,8,7,-1,-1,-1,"11,95 €",,False
+Vino blanco,Muga Blanco Fermentado en Barrica,2021,Bodegas Muga,Rioja,España,Viura / Malvasía,,4.35294,5,17,21,91,-1,-1,"10,20 €",,False
+Vino blanco,Saget Terres Blanches Sancerre,2017,Domaine Saget-Saget La Perrière,Sancerre,Francia,Sauvignon blanc,,0.0,5,0,0,-1,-1,-1,"23,80 €",,False
+Vino blanco,Palomo Cojo,2021,Palomo Cojo,Rueda,España,Verdejo,,4.33333,5,24,14,-1,-1,-1,"7,50 €",,False
+Vino blanco,Palacio de Bornos Verdejo,2021,Palacio de Bornos,Rueda,España,Verdejo,,4.55,5,20,10,-1,-1,-1,"6,10 €",,False
+Vino blanco,Fillaboa,2021,Bodegas Fillaboa,Rías Baixas,España,Albariño,,4.33333,5,6,8,-1,-1,-1,"15,50 €",,False
+Vino blanco,Pago Mota,2021,Bodegas Arzuaga Navarro,Castilla,España,Chardonnay,,4.0,5,2,5,-1,-1,-1,"6,95 €",,False
+Vino blanco,Algueira Brandan Godello,2021,Adega Algueira,Ribeira Sacra,España,Godello,,4.5,5,2,2,-1,-1,-1,"14,90 €",,False
+Vino blanco,Manar dos Seixas,2020,Gallina de Piel Wines,Ribeiro,España,Treixadura / Godello / Albariño / Loureiro,,4.33333,5,6,7,-1,-1,-1,"16,30 €",,False
+Vino blanco,Sameirás Blanco,2020,Adega Antonio Cajide Gulín,Ribeiro,España,Treixadura / Albariño / Godello / Lado / Loureiro / Torrontés,,4.26316,5,19,13,91,-1,-1,"12,90 €",,False
+Vino blanco,Valenciso Blanco,2021,Compañía Bodeguera de Valenciso,Rioja,España,Viura / Garnacha blanca,,0.0,5,0,8,-1,-1,-1,"19,55 €",,False
+Vino blanco,Atance Cuvée Nº 1,2021,Risky Grapes,Valencia,España,Merseguera / Malvasía,ECO,4.6,5,5,26,-1,-1,-1,"6,90 €",,False
+Vino blanco,Gómez Cruzado Blanco 2º Año,2021,Gómez Cruzado,Rioja,España,Viura / Tempranillo blanco,,5.0,5,1,6,92,-1,-1,"10,50 €",,False
+Vino blanco,Sincronia Blanc,2021,Mesquida Mora,Mallorca,España,Premsal / Parellada / Chardonnay,ECO,0.0,5,0,11,91,-1,-1,"11,40 €",,False
+Vino blanco,González Byass Croft Twist,-1,González Byass,Jerez-Manzanilla,España,Palomino fino / Pedro ximénez,,5.0,5,2,0,-1,-1,-1,"7,95 €",,False
+Vino blanco,Honeymoon,2021,Parés Baltà,Penedès,España,Parellada,ECO,4.44444,5,9,6,-1,-1,-1,"8,75 €",,False
+Vino blanco,Agnvs Malvasía,2020,Bodegas Valdelana,Rioja,España,Malvasía,,3.0,5,1,0,-1,-1,-1,"8,95 €",,False
+Vino blanco,Bach Chardonnay,2021,Masia Bach,Penedès,España,Chardonnay,,4.66667,5,9,6,-1,-1,-1,"5,45 €",,False
+Vino blanco,Albariño Contrapunto,2021,Agro de Bazán,Rías Baixas,España,Albariño,,4.5,5,2,4,-1,-1,-1,"8,95 €",,False
+Vino blanco,Barbuntín,2021,Quinta de Couselo,Rías Baixas,España,Albariño,,4.83333,5,6,7,-1,-1,-1,"9,95 €",,False
+Vino blanco,Viñas de Anna,2021,Codorníu,Catalunya,España,Chardonnay,,5.0,5,2,2,-1,-1,-1,"7,95 €",,False
+Vino blanco,Antoine de la Farge L'Enfant Rebelle Blanc,2020,Domaine Antoine de la Farge,Sin indicación geográfica,Francia,Sauvignon blanc,,4.11111,5,9,6,-1,-1,-1,"10,90 €",,False
+Vino blanco,Collestefano Verdicchio di Matelica,2021,Collestefano,Verdicchio di Matelica,Italia,Verdicchio,ECO,4.28571,5,7,30,-1,-1,-1,"9,61 €","11,30 €",True
+Vino blanco,Cunqueiro III Milenium,2021,Bodegas Cunqueiro,Ribeiro,España,Treixadura / Godello / Albariño / Loureiro,,5.0,5,1,4,-1,-1,-1,"12,95 €",,False
+Vino blanco,Abadal Picapoll,2021,Bodegas Abadal,Pla de Bages,España,Picapoll,,4.63636,5,11,6,-1,-1,-1,"11,25 €",,False
+Vino blanco,Itsasmendi,2021,Bodega Itsasmendi,Bizkaiko Txakolina,España,Hondarribi zuri,,4.2,5,5,6,-1,-1,-1,"10,95 €",,False
+Vino blanco,Fusta Nova Blanc,2019,Vicente Gandía,Valencia,España,Moscatel de Alejandría / Macabeo / Chardonnay,,4.0,5,1,1,-1,-1,-1,"5,52 €","6,50 €",True
+Vino blanco,El Transistor Verdejo,2021,Compañía de Vinos de Telmo Rodríguez,Rueda,España,Verdejo,,4.0,5,3,6,92,-1,-1,"19,90 €",,False
+Vino blanco,Paco & Lola Prime,2019,Bodegas y Viñedos Paco & Lola,Rías Baixas,España,Albariño,,5.0,5,2,6,-1,-1,-1,"15,80 €",,False
+Vino blanco,Txakoli Rezabal,2021,Rezabal,Getariako Txakolina,España,Hondarribi zuri,,4.35294,5,17,10,-1,-1,-1,"10,50 €",,False
+Vino blanco,Terras Gauda La Mar,2020,Bodegas Terras Gauda,Rías Baixas,España,Caiño blanco / Albariño / Loureiro,,4.0,5,1,7,-1,-1,92,"24,50 €",,False
+Vino blanco,Finca Calvestra,2020,Bodega Mustiguillo,El Terrerazo,España,Merseguera,ECO,5.0,5,3,10,92,-1,-1,"17,90 €",,False
+Vino blanco,Gorka Izagirre Txacoli Blanco,2021,Gorka Izagirre,Bizkaiko Txakolina,España,Hondarribi zuri / Hondarribi zerratia,,4.66667,5,3,6,-1,-1,-1,"9,50 €",,False
+Vino blanco,Quintaluna,2020,Ossian Vides y Vinos,Rueda,España,Verdejo,,4.25,5,16,12,-1,-1,-1,"14,60 €",,False
+Vino blanco,Enate Gewürztraminer,2021,Enate,Somontano,España,Gewürztraminer,,4.77778,5,9,14,-1,-1,-1,"10,90 €",,False
+Vino blanco,Més Ritme Blanc,2019,Ritme Celler,Priorat,España,Garnacha blanca / Macabeo,,4.75,5,4,7,-1,-1,-1,"16,50 €",,False
+Vino blanco,Tentenublo Blanco,2020,Tentenublo Wines,Rioja,España,Malvasía / Viura,,0.0,5,0,1,92,-1,-1,"14,30 €",,False
+Vino blanco,Tricó Claudia,2017,Compañía de Vinos Tricó,Rías Baixas,España,Albariño,,3.5,5,2,5,94,-1,-1,"21,95 €",,False
+Vino blanco,Jordan Inspector Peringuey Chenin Blanc,2021,Jordan,Stellenbosch,Sudáfrica,Chenin Blanc,,4.0,5,2,3,-1,-1,-1,"15,95 €",,False
+Vino blanco,Finca Olivardots Groc d'Àmfora,2021,Vinyes Olivardots,Empordà,España,Garnacha blanca / Garnacha gris / Macabeo,,4.6,5,5,7,91,-1,91,"10,90 €",,False
+Vino blanco,Izadi Blanco Selección,2020,Bodegas Izadi,Rioja,España,Viura / Malvasía / Garnacha blanca / Maturana blanca / Tempranillo blanco / Torrontés,,3.83333,5,6,8,-1,-1,-1,"11,75 €",,False
+Vino blanco,Mar & Cel Lácrima Baccus Blanc de Blancs,2021,Caves Lavernoya,Penedès,España,Macabeo / Xarel·lo / Chardonnay,,4.81818,5,11,8,-1,-1,-1,"5,20 €",,False
+Vino blanco,Weinbach Cuvée Théo Riesling,2019,Domaine Weinbach,Alsace,Francia,Riesling,ECO,4.5,5,4,2,-1,-1,-1,"32,90 €",,False
+Vino blanco,Campillo Blanco F.B.,2020,Bodegas Campillo,Rioja,España,Viura,,4.8,5,5,3,-1,-1,-1,"7,90 €",,False
+Vino blanco,Dos Claveles,2021,Toro Albalá,Montilla-Moriles,España,Pedro ximénez,,4.6,5,5,2,-1,-1,-1,"11,95 €",,False
+Vino blanco,Feudi di San Gregorio Fiano di Avellino,2021,Feudi di San Gregorio,Fiano di Avellino,Italia,Fiano,,3.8,5,5,9,-1,-1,-1,"11,30 €",,False
+Vino blanco,Eduardo Peña,2021,Eduardo Peña,Ribeiro,España,Treixadura / Albariño / Godello / Lado / Loureiro,,4.75,5,4,5,-1,-1,-1,"16,50 €",,False
+Vino blanco,Tres Olmos Verdejo Classic,2021,Bodegas Garciarevalo,Rueda,España,Verdejo,,4.0,5,1,0,-1,-1,-1,"7,50 €",,False
+Vino blanco,Domaine Serge Laloue Sancerre Cuvee Silex,2020,Domaine Serge Laloue Sancerre,Sancerre,Francia,Sauvignon blanc,,5.0,5,1,2,-1,-1,-1,"23,95 €",,False
+Vino blanco,El Paseante La Charla,2021,Vinos del Paseante,Rueda,España,Verdejo,,1.0,5,1,1,-1,-1,-1,"7,80 €",,False
+Vino blanco,Ekam,2020,Castell d'Encús,Costers del Segre,España,Riesling / Albariño,,4.11111,5,9,9,93,-1,-1,"23,40 €",,False
+Vino blanco,Francis Ford Coppola Diamond Chardonnay,2019,Francis Ford Coppola Winery,California,Estados Unidos,Chardonnay,,4.33333,5,6,1,-1,-1,-1,"18,60 €",,False
+Vino blanco,Errazuriz Aconcagua Costa Sauvignon Blanc,2018,Errázuriz,Valle del Aconcagua,Chile,Sauvignon blanc,,4.0,5,1,10,-1,-1,92,"16,90 €",,False
+Vino blanco,Taille Aux Loups Remus,2017,Domaine de la Taille Aux Loups,Montlouis-sur-Loire,Francia,Chenin Blanc,,3.0,5,1,9,-1,-1,-1,"23,80 €",,False
+Vino blanco,Regina Viarum Godello,2021,Bodegas Regina Viarum,Ribeira Sacra,España,Godello,,0.0,5,0,5,-1,-1,-1,"12,50 €",,False
+Vino blanco,Blanc dels Aspres Criança,2020,Vinyes dels Aspres,Empordà,España,Garnacha blanca,,4.5,5,2,1,-1,-1,-1,"16,50 €",,False
+Vino blanco,Horizonte de Exopto Blanco,2021,Bodegas Exopto,Rioja,España,Viura / Malvasía / Garnacha blanca,,4.5,5,2,3,-1,-1,-1,"13,90 €",,False
+Vino blanco,Palacio de Bornos La Caprichosa,2021,Palacio de Bornos,Rueda,España,Verdejo,,5.0,5,1,2,-1,-1,-1,"8,80 €",,False
+Vino blanco,Abel Mendoza Viura,2020,Abel Mendoza Monge,Rioja,España,Viura,,4.5,5,4,12,-1,-1,-1,"26,75 €",,False
+Vino blanco,Taille aux Loups Clos Mosny,2019,Domaine de la Taille Aux Loups,Montlouis-sur-Loire,Francia,Chenin Blanc,,0.0,5,0,3,-1,-1,-1,"32,50 €",,False
+Vino blanco,Clos Lentiscus Perill Blanc Àmfora,2020,Clos Lentiscus,Penedès,España,Xarel·lo,,4.33333,5,3,3,-1,-1,-1,"16,50 €",,False
+Vino blanco,Santa Digna Sauvignon Blanc,2022,Miguel Torres Chile,Valle Central,Chile,Sauvignon blanc,,5.0,5,1,1,-1,-1,-1,"9,95 €",,False
+Vino blanco,Antonio Barbadillo Castillo de San Diego,2021,Bodegas Barbadillo,Cádiz,España,Palomino fino,,4.63158,5,19,9,-1,-1,-1,"5,55 €",,False
+Vino blanco,Analivia Verdejo,2021,Pagos del Rey,Rueda,España,Verdejo,,4.4,5,5,0,-1,-1,-1,"5,90 €",,False
+Vino blanco,Mía Freixenet Blanco,2021,Freixenet,Penedès,España,Macabeo / Parellada / Xarel·lo / Moscatel de Alejandría,,4.58824,5,17,7,-1,-1,-1,"4,95 €",,False
+Vino blanco,Poesia Garnacha Blanca,2020,Vins Padró,Catalunya,España,Garnacha blanca,,4.0,5,7,3,-1,-1,-1,"3,90 €",,False
+Vino blanco,Còsmic Connexió Còsmica,2020,Còsmic Vinyaters,Sin indicación geográfica,España,Xarel·lo,ECO,0.0,5,0,3,-1,-1,-1,"13,50 €",,False
+Vino blanco,Trisquel Sauvignon Blanc,2021,Viña Aresti,Valle de Leyda,Chile,Sauvignon blanc,,0.0,5,0,2,-1,-1,-1,"14,50 €",,False
+Vino blanco,Dominio de Tares Godello,2021,Dominio de Tares,Bierzo,España,Godello,,4.0,5,4,7,-1,-1,-1,"15,25 €",,False
+Vino blanco,Markus Molitor Alte Reben Mosel,2020,Markus Molitor,Mosel,Alemania,Riesling,,4.66667,5,3,11,-1,-1,-1,"23,75 €",,False
+Vino blanco,Domaine Lafage Côté Est,2021,Domaine Lafage,Côtes Catalanes,Francia,Garnacha blanca / Chardonnay,,5.0,5,1,1,-1,-1,-1,"9,50 €",,False
+Vino blanco,Domaine Sol Payré Ivresse des Sens Blanc,2020,Domaine Sol Payré,Côtes Catalanes,Francia,Viognier / Roussanne,,0.0,5,0,1,-1,-1,-1,"9,22 €","10,85 €",True
+Vino blanco,Viña Costeira Colección 68,2020,Viña Costeira,Ribeiro,España,Treixadura / Albariño / Godello,,4.0,5,4,4,-1,-1,-1,"9,75 €",,False
+Vino blanco,Finca La Colina Verdejo,2021,Vinos Sanz,Rueda,España,Verdejo,,4.25,5,8,3,-1,-1,-1,"10,90 €",,False
+Vino blanco,Menade Sauvignon Blanc,2021,Bodegas Menade,Rueda,España,Sauvignon blanc,ECO,3.66667,5,3,1,-1,-1,-1,"11,95 €",,False
+Vino blanco,Fan D. Oro,2021,Bodegas Arzuaga Navarro,Castilla,España,Chardonnay,,4.0,5,1,3,-1,-1,-1,"13,95 €",,False
+Vino blanco,Planeta Eruzione 1614 Carricante,2019,Planeta,Sicilia,Italia,Carricante,,4.2,5,5,15,-1,-1,-1,"24,90 €",,False
+Vino blanco,Pinord Mireia,2021,Bodegas Pinord,Penedès,España,Gewürztraminer / Sauvignon blanc / Moscatel de Alejandría,,4.0,5,1,3,-1,-1,-1,"9,40 €",,False
+Vino blanco,Xión,2021,Attis Bodegas y Viñedos,Rías Baixas,España,Albariño,,4.4,5,5,2,-1,-1,-1,"11,60 €",,False
+Vino blanco,Celeste Verdejo,2021,Pago del Cielo-Torres,Rueda,España,Verdejo,,0.0,5,0,6,-1,-1,-1,"7,70 €",,False
+Vino blanco,Can Rich Blanco,2021,Can Rich,Ibiza,España,Chardonnay / Malvasía,ECO,3.6,5,5,1,-1,-1,-1,"9,90 €",,False
+Vino blanco,Savina,2021,Bodega Terramoll,Formentera,España,Viognier / Malvasía / Moscatel de grano menudo / Garnacha blanca,,4.66667,5,3,0,-1,-1,-1,"20,95 €",,False
+Vino blanco,Valcerracin Verdejo,2021,Pagos de Valcerracín,Rueda,España,Verdejo,,5.0,5,1,0,-1,-1,-1,"8,70 €",,False
+Vino blanco,El Coto Verdejo,2021,El Coto de Rioja,Rioja,España,Verdejo,,3.8,5,5,6,-1,-1,-1,"6,15 €",,False
+Vino blanco,Nebla Verdejo,2021,Vicente Gandía,Castilla y León,España,Verdejo,,5.0,5,3,3,-1,-1,-1,"7,15 €",,False
+Vino blanco,Tarima Mediterráneo,2021,Bodegas Volver,Alicante,España,Merseguera / Moscatel de Alejandría,,4.5,5,8,10,-1,-1,-1,"6,50 €",,False
+Vino blanco,PradoRey Blanco,2020,Bodegas Pradorey,Castilla y León,España,Verdejo,,4.5,5,2,0,-1,-1,-1,"8,95 €",,False
+Vino blanco,Loess Verdejo,2021,Loess,Rueda,España,Verdejo,,5.0,5,3,5,-1,-1,-1,"8,95 €",,False
+Vino blanco,Bibi Graetz Toscana Bianco Casamatta,2020,Testamatta di Bibi Graetz,Toscana,Italia,Vermentino / Trebbiano / Moscato bianco,,4.33333,5,6,2,-1,-1,-1,"16,60 €",,False
+Vino blanco,Marqués de Cáceres Verdejo,2021,Marqués de Cáceres,Rueda,España,Verdejo,,4.0,5,3,5,-1,-1,-1,"5,90 €",,False
+Vino blanco,Faustino Art Collection Chardonnay,2021,Bodegas Faustino,Rioja,España,Chardonnay,,4.0,5,1,1,-1,-1,92,"8,25 €",,False
+Vino blanco,Niepoort Redoma Branco,2021,Niepoort Vinhos,Douro,Portugal,Rabigato / Códega / Donzelinho / Viosinho / Arinto,,5.0,5,2,3,-1,-1,-1,"22,40 €",,False
+Vino blanco,Sangarida Godello,2021,Attis Bodegas y Viñedos,Bierzo,España,Godello,,0.0,5,0,0,-1,-1,-1,"11,60 €",,False
+Vino blanco,Finca Río Negro Gewürztraminer,2021,Finca Río Negro,Castilla,España,Gewürztraminer,,0.0,5,0,5,-1,-1,-1,"13,95 €",,False
+Vino blanco,Bermejo Diego Seco Ecológico,2020,Bodega Los Bermejos,Lanzarote,España,Vijariego blanco,ECO,5.0,5,3,1,-1,-1,-1,"18,50 €",,False
+Vino blanco,Habla del Mar,-1,Bodegas Habla,Sin indicación geográfica,España,,,4.33333,5,3,4,-1,-1,-1,"18,50 €",,False
+Vino blanco,Eduardo Bravo,2021,Pazo de Lalón,Ribeiro,España,Treixadura / Albariño / Loureiro,,0.0,5,0,0,-1,-1,-1,"9,95 €",,False
+Vino blanco,Fransola,2021,Familia Torres,Penedès,España,Sauvignon blanc / Parellada,,4.0,5,2,1,-1,-1,-1,"27,50 €",,False
+Vino blanco,Jaspi Blanc,2020,Coca i Fitó,Terra Alta,España,Garnacha blanca / Macabeo,,5.0,5,1,1,-1,-1,-1,"9,00 €",,False
+Vino blanco,Kumeu River Maté's Vineyard Chardonnay,2021,Kumeu River,Auckland,Nueva Zelanda,Chardonnay,,4.0,5,1,2,-1,-1,-1,"82,90 €",,False
+Vino blanco,Quíbia,2021,Ànima Negra Viticultors,Illes Balears,España,Callet / Pensal blanca / Giró ros,,0.0,5,0,5,90,-1,-1,"14,25 €",,False
+Vino blanco,Monopole Clásico,2018,Compañía Vinícola del Norte de España - CVNE,Rioja,España,Viura / Palomino fino,,3.83333,5,6,5,-1,90,94,"20,95 €",,False
+Vino blanco,Domaine de l'Ecu Granite,2021,Domaine de l'Écu,Muscadet-Sèvre-et-Maine,Francia,Muscadet,ECO,4.0,5,1,7,-1,-1,-1,"16,95 €",,False
+Vino blanco,Vora la Mar,2021,Wineissocial,Alella,España,Xarel·lo,ECO,4.0,5,3,5,-1,-1,-1,"12,50 €",,False
+Vino blanco,Ameztoi Primus,2019,Ameztoi,Getariako Txakolina,España,Hondarribi zuri,,0.0,5,0,2,-1,-1,-1,"12,40 €",,False
+Vino blanco,El Hombre Bala Albillo Real,2021,Comando G Viticultores,Vinos de Madrid,España,Albillo,,4.66667,5,3,9,-1,-1,-1,"26,90 €",,False
+Vino blanco,José Pariente Verdejo Fermentado en Barrica,2020,Bodegas José Pariente ,Rueda,España,Verdejo,,4.18182,5,11,7,-1,-1,-1,"16,90 €",,False
+Vino blanco,Viña Pomal Blanco,2021,Bodegas Bilbaínas,Rioja,España,Viura / Malvasía,,4.33333,5,3,3,-1,-1,-1,"6,95 €",,False
+Vino blanco,Sumarroca Muscat,2021,Sumarroca,Penedès,España,Moscatel de grano menudo,,0.0,5,0,1,-1,-1,-1,"9,95 €",,False
+Vino blanco,Páramos de Nicasia Blanco,2018,Máquina y Tabla,Rueda,España,Verdejo,,3.75,5,4,1,-1,-1,-1,"9,27 €","10,90 €",True
+Vino blanco,Sumarroca Blanc de Blancs,2021,Sumarroca,Penedès,España,Xarel·lo / Macabeo / Parellada,,4.0,5,5,4,-1,-1,-1,"6,30 €",,False
+Vino blanco,Perelada Finca La Garriga Blanc,2020,Perelada,Empordà,España,Chardonnay / Cariñena blanca,,5.0,5,1,4,-1,-1,-1,"17,90 €",,False
+Vino blanco,Viore Blanco,2020,Bodegas Riojanas,Toro,España,Verdejo,,0.0,5,0,1,-1,-1,90,"4,80 €",,False
+Vino blanco,Viñaverde,2021,Pérez Barquero,Montilla-Moriles,España,Pedro ximénez / Moscatel de Alejandría / Torrontés / Verdejo,,4.5,5,4,0,-1,-1,-1,"5,20 €",,False
+Vino blanco,Domaine des Nugues Beaujolais Villages Blanc,2020,Domaine des Nugues,Beaujolais-Villages,Francia,Chardonnay,,0.0,5,0,0,-1,-1,-1,"10,90 €",,False
+Vino blanco,Léon Beyer Gewürztraminer,2019,Léon Beyer,Alsace,Francia,Gewürztraminer,,0.0,5,0,3,-1,-1,-1,"19,95 €",,False
+Vino blanco,Coto de Gomariz,2021,Coto de Gomariz,Ribeiro,España,Treixadura / Godello / Loureiro / Albariño,,3.85714,5,7,11,-1,-1,-1,"12,50 €",,False
+Vino blanco,Atlantis Txakoli de Álava Hondarrabi Zuri,2021,Castillo de Maetierra,Arabako Txakolina,España,Hondarribi zuri,,4.22222,5,9,6,-1,-1,-1,"10,15 €",,False
+Vino blanco,Les Cousins L'Antagonique,2017,Les Cousins Marc & Adrià,Priorat,España,Garnacha / Cariñena / Garnacha blanca / Macabeo / Trepat / Escanyavella,,4.4,5,5,1,-1,-1,-1,"13,15 €",,False
+Vino blanco,Llavors Blanc,2019,La Vinyeta,Empordà,España,Macabeo / Xarel·lo,,0.0,5,0,1,-1,-1,-1,"8,46 €","9,95 €",True
+Vino blanco,M'acabeu la Paciència,2018,Masetplana,Empordà,España,Macabeo,,0.0,5,0,0,-1,-1,-1,"6,38 €","7,50 €",True
+Vino blanco,Nutt Xarel·lo Eco,2021,Mas Bertran Viticultors,Montsant,España,Xarel·lo,ECO,3.0,5,1,0,-1,-1,-1,"8,95 €",,False
+Vino blanco,Taleia Brisat,2018,Castell d'Encús,Costers del Segre,España,Sauvignon blanc / Sémillon,,0.0,5,0,13,93,-1,-1,"23,40 €",,False
+Vino blanco,Terroir al Límit Terra de Cuques Blanc,2021,Terroir al Límit,Priorat,España,Moscatel de Alejandría / Pedro ximénez,,5.0,5,4,9,93,-1,94,"29,90 €",,False
+Vino blanco,Cantayano,2021,Isaac Cantalapiedra,Castilla y León,España,Verdejo,ECO,4.0,5,2,2,-1,-1,-1,"10,95 €",,False
+Vino blanco,Casal de Armán Blanco,2021,Bodegas Casal de Armán,Ribeiro,España,Treixadura / Godello / Albariño,,4.0,5,4,4,-1,-1,-1,"12,95 €",,False
+Vino blanco,Pazo Cilleiro,2021,Bodegas Muriel,Rías Baixas,España,Albariño,,4.66667,5,3,4,-1,-1,-1,"9,30 €",,False
+Vino blanco,Libalis Muscat,2021,Castillo de Maetierra,Valles de Sadacia,España,Moscatel de grano menudo / Viura / Malvasía,,4.77778,5,9,8,-1,-1,-1,"7,50 €",,False
+Vino blanco,Mas Tinell Eliane,2022,Heretat Mas Tinell,Penedès,España,Chardonnay,ECO,0.0,5,0,0,-1,-1,-1,"9,95 €",,False
+Vino blanco,Baluarte Muscat,2021,Bodegas Gran Feudo,Navarra,España,Moscatel de grano menudo,,0.0,5,0,1,-1,-1,-1,"6,30 €",,False
+Vino blanco,Trevejos La Jirafa Afrutada,2021,Altos de Tr3vejos,Abona,España,Listán blanco / Moscatel de Alejandría,,5.0,5,1,1,-1,-1,-1,"12,95 €",,False
+Vino blanco,Marqués de Riscal Limousin,2021,"Marqués de Riscal, Herederos",Rueda,España,Verdejo,,4.0,5,1,4,-1,-1,-1,"16,50 €",,False
+Vino blanco,Augustus Chardonnay,2021,Celler Avgvstvs Forvm,Penedès,España,Chardonnay,ECO,4.2,5,5,6,-1,-1,-1,"20,50 €",,False
+Vino blanco,Viore Verdejo Sobre Lías,2021,Bodegas Riojanas,Rueda,España,Verdejo,,0.0,5,0,0,-1,-1,91,"11,80 €",,False
+Vino blanco,QX Quatre Xarel·los,2021,Mas Candí ,Penedès,España,Xarel·lo,,4.8,5,5,4,-1,-1,-1,"16,50 €",,False
+Vino blanco,Enate Bocetos Gewürztraminer,2017,Enate,Somontano,España,Gewürztraminer,,0.0,5,0,3,-1,-1,-1,"13,50 €",,False
+Vino blanco,Maruxa Godello,2021,Virxe de Galir,Valdeorras,España,Godello,,3.0,5,3,2,90,-1,-1,"9,50 €",,False
+Vino blanco,Bach Frizzante Moscato,-1,Masia Bach,Catalunya,España,Moscatel de Alejandría,,4.18182,5,11,2,-1,-1,-1,"5,75 €",,False
+Vino blanco,Matelot,2019,Bodega y Viñedos Uribes Madero,Pago Calzadilla,España,Garnacha blanca,,0.0,5,0,2,-1,-1,-1,"10,95 €",,False
+Vino blanco,Ktima Gerovassiliou Malagousia,2021,Ktima Gerovassiliou,Epanomi,Grecia,Malagousia ,,0.0,5,0,1,-1,-1,-1,"26,50 €",,False
+Vino blanco,In-vita Blanco,2021,Bodegas Señorío de Líbano,Alella,España,Pansa blanca / Sauvignon blanc,,4.33333,5,3,3,-1,-1,-1,"6,95 €",,False
+Vino blanco,Pardevalles Albarín Blanco,2021,Viñedos y Bodega Pardevalles,León,España,Albarín,,0.0,5,0,6,-1,-1,-1,"8,95 €",,False
+Vino blanco,Ónra Blanc,2020,Celler Lagravera,Costers del Segre,España,Garnacha blanca / Sauvignon blanc,ECO,0.0,5,0,2,-1,-1,-1,"10,85 €",,False
+Vino blanco,Pepe Cabanas,2018,Bodegas Castellun Augusti,Barbanza e Iria,España,Albariño,,0.0,5,0,1,-1,-1,-1,"10,50 €",,False
+Vino blanco,Cora de Loxarel,2021,Loxarel Vitivinicultors,Penedès,España,Moscatel de Alejandría / Xarel·lo,ECO,4.75,5,4,4,-1,-1,-1,"8,80 €",,False
+Vino blanco,Montespina Sauvignon,2021,Bodegas Fuentespina,Rueda,España,Sauvignon,,0.0,5,0,0,-1,-1,-1,"6,75 €",,False
+Vino blanco,Yellow Tail Chardonnay,2021,Yellow Tail,Sin indicación geográfica,Australia,Chardonnay,,0.0,5,0,2,-1,-1,-1,"7,95 €",,False
+Vino blanco,Mas Oller Mar Blanc,2019,Mas Oller,Empordà,España,Picapoll / Malvasía,,4.5,5,2,1,-1,-1,-1,"10,90 €",,False
+Vino blanco,Lafou Els Amelers,2021,Lafou Celler ,Terra Alta,España,Garnacha blanca,,4.5,5,6,6,-1,-1,-1,"14,80 €",,False
+Vino blanco,Pazo Baión,2021,Pazo Baión,Rías Baixas,España,Albariño,,4.4,5,5,5,-1,-1,-1,"17,90 €",,False
+Vino blanco,Zamò Pinot Grigio Ramato,2021,Le Vigne di Zamò,Friuli Colli Orientali,Italia,Pinot grigio,,4.6,5,5,4,-1,-1,-1,"14,98 €","16,65 €",True
+Vino blanco,Torre de Ermelo,2021,Bodega Altos de Torona,Rías Baixas,España,Albariño,,4.0,5,2,1,-1,-1,-1,"8,40 €",,False
+Vino blanco,Bardos Verdejo,2021,Bodega Bardos,Rueda,España,Verdejo,,4.33333,5,6,6,-1,-1,-1,"6,80 €",,False
+Vino blanco,Jaboulet Parallèle 45 Blanc,2019,Domaines Paul Jaboulet Aîné,Côtes du Rhône,Francia,Garnacha blanca / Marsanne / Viognier / Bourboulenc,,4.0,5,1,3,-1,-1,-1,"9,76 €","10,85 €",True
+Vino blanco,Jean Leon Vinya Gigi,2019,Jean Leon,Penedès,España,Chardonnay,ECO,5.0,5,2,3,-1,-1,-1,"23,95 €",,False
+Vino blanco,Solà Fred Blanc,2020,Celler Masroig,Montsant,España,Macabeo / Garnacha blanca,,4.0,5,1,1,-1,-1,-1,"7,50 €",,False
+Vino blanco,Sin Palabras,2021,Adegas CastroBrey,Rías Baixas,España,Albariño,,3.66667,5,3,0,-1,-1,-1,"12,50 €",,False
+Vino blanco,Casa Agrícola Blanco,2020,Pepe Mendoza Casa Agrícola,Alicante,España,Moscatel de Alejandría / Macabeo / Airén,ECO,0.0,5,0,6,-1,-1,-1,"10,03 €","11,80 €",True
+Vino blanco,Ipsis Blanc Flor,2020,Vins Padró,Tarragona,España,Macabeo / Xarel·lo / Moscatel de Alejandría,,0.0,5,0,1,-1,-1,-1,"4,95 €",,False
+Vino blanco,El Coto Blanco,2021,El Coto de Rioja,Rioja,España,Viura,,4.48649,5,37,13,-1,-1,-1,"5,40 €",,False
+Vino blanco,Dominio de Baco Verdejo,2021,Bodegas Baco,La Mancha,España,Verdejo,,0.0,5,0,1,-1,-1,-1,"4,95 €",,False
+Vino blanco,Laus Blanco,2021,Bodegas Laus,Somontano,España,Chardonnay,,5.0,5,1,3,-1,-1,-1,"5,55 €",,False
+Vino blanco,Ossian Verdling Trocken,2016,Ossian Vides y Vinos,Castilla y León,España,Verdejo,,4.5,5,2,0,-1,-1,-1,"20,90 €",,False
+Vino blanco,Gran Predicat Blanc,2018,Celler Grifoll Declara,Priorat,España,Garnacha blanca,,0.0,5,0,1,-1,-1,-1,"27,50 €",,False
+Vino blanco,Cérvoles Blanc,2020,Cérvoles Celler,Costers del Segre,España,Macabeo / Chardonnay,,5.0,5,2,1,-1,-1,-1,"22,95 €",,False
+Vino blanco,Habla de Ti,2021,Bodegas Habla,Sin indicación geográfica,España,Sauvignon blanc,,4.375,5,8,7,-1,-1,-1,"10,50 €",,False
+Vino blanco,Deseu,2021,Adegas Terrae,Ribeiro,España,Treixadura,,0.0,5,0,2,-1,-1,-1,"9,95 €",,False
+Vino blanco,Quinta de Couselo Selección,2015,Quinta de Couselo,Rías Baixas,España,Albariño / Caiño blanco / Loureiro,,0.0,5,0,5,-1,94,-1,"24,85 €",,False
+Vino blanco,Vie di Romans Sauvignon Vieris,2020,Vie di Romans,Friuli Isonzo,Italia,Sauvignon blanc,,4.66667,5,3,12,-1,-1,-1,"27,30 €",,False
+Vino blanco,Hunter's Sauvignon Blanc,2021,Hunter's,Marlborough,Nueva Zelanda,Sauvignon blanc,,3.5,5,2,1,-1,-1,-1,"19,35 €",,False
+Vino blanco,Laventura Malvasia,2019,MacRobert & Canals,Rioja,España,Malvasía,,4.0,5,2,1,-1,-1,-1,"15,73 €","18,50 €",True
+Vino blanco,Coca i Fitó d'Or,2017,Coca i Fitó,Terra Alta,España,Garnacha blanca / Macabeo,,4.66667,5,3,8,-1,-1,-1,"14,90 €",,False
+Vino blanco,Vie di Romans Flors di Uis,2017,Vie di Romans,Friuli Isonzo,Italia,Malvasia istriana / Friulano / Riesling,,5.0,5,2,6,-1,-1,-1,"26,10 €",,False
+Vino blanco,Terra00 Orange aShut,2019,Vins del Tros,Terra Alta,España,Garnacha blanca,ECO,5.0,5,1,11,-1,-1,-1,"17,50 €",,False
+Vino blanco,Weinbach Sylvaner Réserve,2019,Domaine Weinbach,Alsace,Francia,Silvaner,ECO,4.0,5,2,2,-1,-1,-1,"19,95 €",,False
+Vino blanco,Spy Valley Sauvignon Blanc,2021,Spy Valley,Marlborough,Nueva Zelanda,Sauvignon blanc,,4.33333,5,3,5,-1,-1,-1,"19,40 €",,False
+Vino blanco,Avancia Godello,2021,Bodegas Avanthia,Valdeorras,España,Godello,,4.66667,5,3,5,-1,-1,-1,"25,95 €",,False
+Vino blanco,Baigorri Blanco Fermentado en Barrica,2017,Bodegas Baigorri,Rioja,España,Viura / Malvasía,,3.75,5,4,4,-1,90,90,"14,50 €",,False
+Vino blanco,Quim Batlle Foranell Pansa Blanca,2017,Quim Batlle,Alella,España,Pansa blanca,ECO,0.0,5,0,1,-1,-1,-1,"13,95 €",,False
+Vino blanco,Godelia Godello,2021,Bodegas Godelia,Bierzo,España,Godello / Doña blanca,,4.0,5,2,3,-1,-1,-1,"10,95 €",,False
+Vino blanco,Pazo Barrantes,2019,Pazo de Barrantes,Rías Baixas,España,Albariño,,4.28571,5,7,13,94,93,-1,"35,50 €",,False
+Vino blanco,Can Feixes Blanc Selecció,2021,Can Feixes,Penedès,España,Parellada / Macabeo / Chardonnay / Malvasía / Xarel·lo,ECO,4.2,5,5,2,90,-1,-1,"8,80 €",,False
+Vino blanco,El Quintà Bàrbara Forés,2020,Celler Bàrbara Forés ,Terra Alta,España,Garnacha blanca,,5.0,5,1,7,-1,-1,-1,"17,90 €",,False
+Vino blanco,Maestrante,2021,Bodegas Barbadillo,Cádiz,España,Palomino fino,,4.5,5,4,2,-1,-1,-1,"5,40 €",,False
+Vino blanco,Alútiz Blanco,2021,Bodegas Alútiz,Rioja,España,Viura / Tempranillo blanco / Verdejo,,3.5,5,4,2,-1,-1,-1,"5,60 €",,False
+Vino blanco,María de Molina Verdejo,2021,Bodegas Frutos Villar,Rueda,España,Verdejo,,5.0,5,1,0,-1,-1,-1,"5,95 €",,False
+Vino blanco,La Sonrisa de Tares,2021,Dominio de Tares,Bierzo,España,Godello,,4.66667,5,6,11,-1,-1,-1,"9,50 €",,False
+Vino blanco,Fresquito Vino de Tinaja,2020,Pérez Barquero,Montilla-Moriles,España,Pedro ximénez,,3.75,5,4,5,-1,-1,-1,"8,60 €",,False
+Vino blanco,El Enemigo Semillón,2020,Bodega Aleanna,Mendoza,Argentina,Sémillon,,0.0,5,0,2,-1,-1,94,"19,90 €",,False
+Vino blanco,Château Villa Bel-Air Blanc,2018,Famille J.M. Cazes,Graves,Francia,Sauvignon blanc / Sémillon,,0.0,5,0,1,91,-1,-1,"17,94 €",,False
+Vino blanco,Alba de Miros Verdejo,2021,Bodegas Peñafiel,Rueda,España,Verdejo,,4.0,5,2,2,-1,-1,-1,"9,75 €",,False
+Vino blanco,Fraga do Corvo Blanco,2021,Grandes Pagos Gallegos,Monterrei,España,Godello,,4.0,5,1,1,-1,-1,-1,"11,95 €",,False
+Vino blanco,Dr. Loosen Wehlener Sonnenuhr Kabinett,2021,Loosen Bros,Mosel,Alemania,Riesling,,2.0,5,1,3,-1,-1,-1,"21,90 €",,False
+Vino blanco,Rodrigo Méndez Cíes,2021,Bodegas y Viñedos Rodrigo Méndez,Rías Baixas,España,Albariño,,4.5,5,4,11,-1,-1,-1,"15,50 €",,False
+Vino blanco,Saint M Blanc,2019,Château Saint Maur,Côtes-de-Provence,Francia,Rolle,,0.0,5,0,0,-1,-1,-1,"16,90 €",,False
+Vino blanco,Flor de Édalo,-1,Bodegas Contreras Ruiz,Sin indicación geográfica,España,Zalema / Moscatel de Alejandría,,5.0,5,1,2,-1,-1,-1,"6,40 €",,False
+Vino blanco,Laureatus Lías,2013,Adega Laureatus,Rías Baixas,España,Albariño,,4.5,5,2,2,-1,-1,-1,"14,02 €","16,50 €",True
+Vino blanco,Lauwa Blanco,2019,Lauwa,Rioja,España,Tempranillo blanco,,0.0,5,0,0,-1,-1,-1,"6,75 €","7,95 €",True
+Vino blanco,Aura Verdejo Vendimia Nocturna,2021,Bodegas Aura,Rueda,España,Verdejo,,4.0,5,3,4,-1,-1,-1,"8,20 €",,False
+Vino blanco,La Val,2021,Bodegas La Val,Rías Baixas,España,Albariño,,5.0,5,1,3,-1,-1,90,"9,95 €",,False
+Vino blanco,Mas Comtal Pomell de Blancs,2020,Mas Comtal,Penedès,España,Chardonnay / Xarel·lo,ECO,5.0,5,1,0,-1,-1,-1,"8,40 €",,False
+Vino blanco,Viña Costeira,2021,Viña Costeira,Ribeiro,España,Treixadura / Torrontés / Albariño / Godello / Loureiro,,4.57143,5,7,3,-1,-1,-1,"6,85 €",,False
+Vino blanco,4 Monos Albillo,2019,4 Monos Viticultores,Vinos de Madrid,España,Albillo,,0.0,5,0,2,91,-1,-1,"20,50 €",,False
+Vino blanco,The Flower and the Bee Treixadura,2021,Coto de Gomariz,Ribeiro,España,Treixadura,,4.57143,5,7,9,-1,-1,-1,"9,40 €",,False
+Vino blanco,Llàgrimes de Tardor Blanc,2020,Agrícola Sant Josep,Terra Alta,España,Garnacha blanca,,4.2,5,5,2,-1,-1,-1,"10,85 €",,False
+Vino blanco,Jean Leon 3055 Chardonnay,2021,Jean Leon,Penedès,España,Chardonnay,ECO,4.71429,5,7,3,-1,-1,-1,"12,10 €",,False
+Vino blanco,Blanc Pescador,-1,Perelada,Sin indicación geográfica,España,Macabeo / Parellada / Xarel·lo,,4.39024,5,41,14,-1,-1,-1,"4,50 €",,False
+Vino blanco,Viñas del Vero Macabeo Chardonnay,2020,Viñas del Vero,Somontano,España,Macabeo / Chardonnay,,4.5,5,8,5,-1,-1,-1,"3,94 €","4,65 €",True
+Vino blanco,Castelo dos Condes,-1,Bodegas y Viñedos de Altura,Ribeiro,España,Palomino fino,,3.75,5,4,4,-1,-1,-1,"4,80 €",,False
+Vino blanco,Taanug Blanco,2019,Bodegas Pinord,Penedès,España,Macabeo / Parellada / Xarel·lo,,0.0,5,0,0,-1,-1,-1,"4,92 €","5,80 €",True
+Vino blanco,Agustí Torelló Mata Xic,2021,Cavas Agustí Torelló,Penedès,España,Xarel·lo,ECO,2.66667,5,3,0,-1,-1,-1,"6,70 €",,False
+Vino blanco,Planetes de Nin Blanc,2021,Família Nin-Ortiz,Priorat,España,Cariñena blanca,,5.0,5,2,11,-1,-1,-1,"33,90 €",,False
+Vino blanco,Mono Blanc Tintín,2020,La Vinyeta,Empordà,España,Malvasía,ECO,0.0,5,0,2,-1,-1,-1,"7,44 €","8,75 €",True
+Vino blanco,Enrique Mendoza Chardonnay Joven,2021,Enrique Mendoza Viticultor,Alicante,España,Chardonnay,,4.66667,5,3,4,-1,-1,-1,"8,55 €",,False
+Vino blanco,Dog Point Section 94,2019,Dog Point Vineyard,Marlborough,Nueva Zelanda,Sauvignon blanc,,0.0,5,0,1,-1,-1,95,"27,95 €",,False
+Vino blanco,Finca Luzón Colección Blanco,2020,Bodegas Luzón,Jumilla,España,Macabeo / Airén,,3.66667,5,3,5,-1,-1,-1,"5,78 €","6,80 €",True
+Vino blanco,Coto de Imaz Blanco Reserva,2018,El Coto de Rioja,Rioja,España,Chardonnay,,4.0,5,4,5,-1,-1,-1,"11,95 €",,False
+Vino blanco,Collepere Verdicchio di Matelica Grillì,2019,Collepere,Verdicchio di Matelica,Italia,Verdicchio,,3.4,5,5,16,-1,-1,-1,"15,90 €",,False
+Vino blanco,La Germana de Pascona,2019,Pascona,Montsant,España,Macabeo / Moscatel de grano menudo,,4.0,5,1,1,-1,-1,-1,"7,90 €",,False
+Vino blanco,La Petite Perrière Blanc,2021,Domaine Saget-Saget La Perrière,Sin indicación geográfica,Francia,Sauvignon blanc,,4.33333,5,6,1,-1,-1,-1,"9,60 €",,False
+Vino blanco,Marko Gure Arbasoak,2020,Oxer Bastegieta,Bizkaiko Txakolina,España,Hondarribi zerratia / Hondarribi zuri,,0.0,5,0,10,-1,-1,-1,"20,65 €",,False
+Vino blanco,Markus Molitor Haus Klosterberg Pinot Blanc,2019,Markus Molitor,Mosel,Alemania,Pinot blanc,,3.5,5,4,6,-1,-1,-1,"13,50 €",,False
+Vino blanco,Nadal X Xarel·lo Vermell ECO,2019,Caves Nadal,Penedès,España,Xarel·lo vermell,ECO,4.66667,5,3,1,-1,-1,-1,"11,80 €",,False
+Vino blanco,Navazos-Niepoort,2020,Equipo Navazos,Cádiz,España,Palomino fino,,3.85714,5,7,15,92,-1,-1,"19,75 €",,False
+Vino blanco,Carlo di Pradis Collio Ribolla Gialla,2020,Carlo di Pradis,Collio,Italia,Ribolla gialla,,0.0,5,0,0,-1,-1,-1,"14,60 €",,False
+Vino blanco,El Patito Feo Treixadura,2021,Pateiro Vinos de Guarda,Ribeiro,España,Treixadura,,5.0,5,2,6,-1,-1,-1,"17,50 €",,False
+Vino blanco,Blei Clos Martina,2016,Mas d'en Blei,Priorat,España,Garnacha blanca / Pedro ximénez / Pensal blanca,,4.33333,5,3,3,-1,-1,-1,"15,95 €",,False
+Vino blanco,Quinta de Couselo,2021,Quinta de Couselo,Rías Baixas,España,Albariño / Caiño blanco / Loureiro / Treixadura,,4.6,5,5,7,-1,-1,-1,"12,95 €",,False
+Vino blanco,Barzen Riesling Spätlese Trocken,2019,Weinhaus Alexander Barzen,Mosel,Alemania,Riesling,,4.0,5,1,4,-1,-1,-1,"16,50 €",,False
+Vino blanco,Salino,2018,Bodega Vinessens,Alicante,España,Malvasía,ECO,4.0,5,1,4,-1,-1,-1,"8,41 €","9,90 €",True
+Vino blanco,Sangarida La Guiana,2020,Attis Bodegas y Viñedos,Bierzo,España,Godello,,0.0,5,0,0,-1,-1,94,"31,10 €",,False
+Vino blanco,Auzells,2018,Tomàs Cusiné,Costers del Segre,España,Macabeo / Viognier / Sauvignon blanc / Chardonnay / Müller-Thurgau / Moscatel de grano menudo,,4.4,5,5,2,-1,-1,-1,"11,20 €",,False
+Vino blanco,Sommos Colección Gewürztraminer,2021,Bodega Sommos,Somontano,España,Gewürztraminer,,3.0,5,2,3,-1,-1,-1,"10,10 €",,False
+Vino blanco,Clos de Torribas Blanc,2020,Bodegas Pinord,Penedès,España,Gewürztraminer / Macabeo / Parellada / Xarel·lo,ECO,5.0,5,2,1,-1,-1,-1,"5,95 €",,False
+Vino blanco,Valtea,2021,Adegas Valtea,Rías Baixas,España,Albariño,,5.0,5,1,3,-1,-1,-1,"12,90 €",,False
+Vino blanco,Viladellops Xarel·lo,2021,Finca Viladellops,Penedès,España,Xarel·lo,ECO,0.0,5,0,0,-1,-1,-1,"7,50 €",,False
+Vino blanco,Portia Verdejo,2021,Bodegas Portia,Rueda,España,Verdejo,,5.0,5,1,1,-1,-1,-1,"7,90 €",,False
+Vino blanco,Morillon Blanc by Jeff Carrel,2021,Jeff Carrel,Sin indicación geográfica,Francia,Chardonnay,,5.0,5,1,2,-1,-1,-1,"12,50 €",,False
+Vino blanco,Yllera Verdejo Vendimia Nocturna,2021,Yllera,Rueda,España,Verdejo,,4.4,5,5,2,-1,-1,-1,"6,30 €",,False
+Vino blanco,El Paseante La Duda,2021,Vinos del Paseante,Monterrei,España,Godello,,5.0,5,1,1,-1,-1,-1,"10,95 €",,False
+Vino blanco,Finca Antigua Blanco,2021,Finca Antigua,La Mancha,España,Viura,,0.0,5,0,1,-1,-1,-1,"6,50 €",,False
+Vino blanco,Can Axartell Blanco,2021,Can Axartell,Mallorca,España,Malvasía / Premsal,ECO,3.0,5,1,1,-1,-1,-1,"12,95 €",,False
+Vino blanco,Sumarroca Temps de Flors,2022,Sumarroca,Penedès,España,Xarel·lo / Moscatel de grano menudo / Gewürztraminer,,5.0,5,1,1,-1,-1,-1,"8,95 €",,False
+Vino blanco,Bestué Chardonnay,2021,Otto Bestué,Somontano,España,Chardonnay,,5.0,5,1,3,-1,-1,-1,"7,60 €",,False
+Vino blanco,Kentia,2021,Orowines,Rías Baixas,España,Albariño,,3.66667,5,3,1,-1,-1,-1,"9,95 €",,False
+Vino blanco,Cala Marquesa,2021,Alegre Wines & Spirits,Terra Alta,España,Garnacha blanca,,0.0,5,0,1,-1,-1,-1,"8,30 €",,False
+Vino blanco,Lorenzo Cachazo Blanco,2021,Angel Lorenzo Cachazo,Rueda,España,Verdejo / Viura,,4.66667,5,3,3,-1,-1,-1,"6,30 €",,False
+Vino blanco,Calcari,2021,Parés Baltà,Penedès,España,Xarel·lo,ECO,5.0,5,2,5,-1,-1,-1,"11,50 €",,False
+Vino blanco,Colterenzio Moscato Giallo Sand,2020,Colterenzio,Alto Adige,Italia,Moscatel amarillo,,4.0,5,1,0,-1,-1,-1,"15,95 €",,False
+Vino blanco,Gran Viña Sol,2021,Propiedad Bodegas Torres,Penedès,España,Chardonnay / Parellada,,3.75,5,4,1,-1,-1,-1,"12,60 €",,False
+Vino blanco,Lagravera Ciclic Blanc,2019,Celler Lagravera,Costers del Segre,España,Garnacha blanca,ECO,0.0,5,0,3,-1,-1,-1,"20,50 €",,False
+Vino blanco,Cuatro Rayas Organic Verdejo,2021,Bodega Cuatro Rayas,Rueda,España,Verdejo,ECO,0.0,5,0,1,-1,-1,-1,"7,50 €",,False
+Vino blanco,Torelló Gran Crisalys,2018,Torelló,Penedès,España,Xarel·lo,ECO,3.0,5,1,0,-1,90,-1,"12,50 €",,False
+Vino blanco,Agnusdei,2021,Bodegas Vionta,Rías Baixas,España,Albariño,,4.0,5,1,2,-1,-1,-1,"8,95 €",,False
+Vino blanco,Agás do Tempo,2021,Bodegas el Paraguas,Ribeiro,España,Treixadura / Albariño / Torrontés / Loureiro,,4.0,5,1,5,-1,-1,-1,"13,90 €",,False
+Vino blanco,Blanc Pescador Verdejo,-1,Perelada,Sin indicación geográfica,España,Verdejo,,4.5,5,6,1,-1,-1,-1,"4,90 €",,False
+Vino blanco,Pinord Moscato Mediterráneo,-1,Bodegas Pinord,Penedès,España,Moscatel de Alejandría,,4.0,5,1,1,-1,-1,-1,"5,90 €",,False
+Vino blanco,Emina Verdejo,2021,Bodegas Emina,Rueda,España,Verdejo,,4.25,5,4,2,-1,-1,-1,"5,95 €",,False
+Vino blanco,Montecillo Singladuras Albariño,2021,Bodegas Montecillo,Rías Baixas,España,Albariño,,0.0,5,0,0,-1,-1,-1,"8,95 €",,False
+Vino blanco,Llopart Vitis,2021,Cavas Llopart,Penedès,España,Xarel·lo / Subirat parent / Moscatel de Alejandría,ECO,0.0,5,0,2,-1,-1,-1,"9,50 €",,False
+Vino blanco,Pita Verderrubí Verdejo Ecológico,2020,Viñedos Verderrubí,Rueda,España,Verdejo,ECO,0.0,5,0,2,-1,-1,-1,"8,40 €",,False
+Vino blanco,Mirlo Blanco,2021,Alegre Wines & Spirits,Rueda,España,Verdejo,,4.0,5,1,4,-1,-1,-1,"13,85 €",,False
+Vino blanco,Verdeo,2021,Propiedad Bodegas Torres,Rueda,España,Verdejo,,4.5,5,6,4,-1,-1,-1,"7,70 €",,False
+Vino blanco,Ponte da Boga Blanco Lexitimo,2020,Adega Ponte da Boga,Ribeira Sacra,España,Blanca del país,,0.0,5,0,2,-1,91,-1,"16,66 €","19,60 €",True
+Vino blanco,Tocat de l'Ala Blanc,2021,Coca i Fitó & Roig Parals,Empordà,España,Garnacha blanca / Macabeo,,2.0,5,1,0,-1,-1,-1,"10,50 €",,False
+Vino blanco,Rodríguez de Vera Chardonnay,2019,Bodega Rodríguez de Vera,Almansa,España,Chardonnay,ECO,0.0,5,0,4,-1,-1,-1,"11,85 €",,False
+Vino blanco,Captura de Luz,2021,Wineissocial,Rías Baixas,España,Albariño,,4.5,5,2,1,-1,-1,-1,"11,95 €",,False
+Vino blanco,Blanc Bàrbara Forés,2021,Celler Bàrbara Forés ,Terra Alta,España,Garnacha blanca / Viognier,,3.0,5,4,4,-1,-1,-1,"8,95 €",,False
+Vino blanco,Cuqueira Blanco,2021,Bodegas Cunqueiro,Ribeiro,España,Treixadura / Torrontés,,4.0,5,1,2,-1,-1,-1,"6,80 €",,False
+Vino blanco,Nivarius Finca la Nevera,2016,Bodegas Nivarius,Rioja,España,Maturana blanca,,0.0,5,0,0,91,94,-1,"29,40 €",,False
+Vino blanco,Edetària Selecció Blanc,2019,Edetària,Terra Alta,España,Garnacha blanca,,4.66667,5,3,5,-1,-1,-1,"23,80 €",,False
+Vino blanco,Valmiñor,2019,Adegas Valmiñor,Rías Baixas,España,Albariño,,5.0,5,2,0,-1,-1,-1,"11,95 €",,False
+Vino blanco,Pita Dominio de Verderrubí,2020,Viñedos Verderrubí,Rueda,España,Verdejo,ECO,4.0,5,1,1,-1,-1,-1,"9,00 €",,False
+Vino blanco,Barbazul Blanco,2021,Huerta de Albalá,Cádiz,España,Chardonnay,,4.14286,5,7,4,-1,-1,-1,"8,95 €",,False
+Vino blanco,Weinbach Pinot Blanc Réserve,2020,Domaine Weinbach,Alsace,Francia,Pinot blanc,ECO,4.0,5,1,3,-1,-1,-1,"26,90 €",,False
+Vino blanco,Waltraud,2019,Familia Torres,Penedès,España,Riesling,,4.5,5,2,5,-1,91,-1,"20,90 €",,False
+Vino blanco,Maison Les Alexandrins Terrasses Blanc,2019,Maison les Alexandrins,Côtes du Rhône,Francia,Viognier / Marsanne / Garnacha blanca,,0.0,5,0,1,-1,-1,-1,"9,90 €",,False
+Vino blanco,Hacienda Real Airén,2021,Bodegas Baco,Castilla,España,Airén,,0.0,5,0,0,-1,-1,-1,"5,95 €",,False
+Vino blanco,Protocolo Blanco,2021,Dominio de Eguren,Castilla,España,Macabeo / Airén,ECO,3.75,5,4,0,-1,-1,-1,"4,20 €",,False
+Vino blanco,Renovatium White,2021,Terravineas Winery and Vineyards,Valencia,España,Moscatel de Alejandría,,4.0,5,6,4,-1,-1,-1,"5,55 €",,False
+Vino blanco,Colegiata Blanco,2021,Bodegas Fariña,Toro,España,Malvasía,,4.125,5,8,7,-1,-1,-1,"5,75 €",,False
+Vino blanco,Pinord Reynal Blanc,-1,Bodegas Pinord,Penedès,España,Macabeo / Parellada / Xarel·lo,,5.0,5,2,1,-1,-1,-1,"5,55 €",,False
+Vino blanco,UBE Miraflores,2021,Bodega Cota 45,Sin indicación geográfica,España,Palomino fino,,5.0,5,1,6,-1,-1,-1,"18,95 €",,False
+Vino blanco,Tenuta Bellafonte Trebbiano Spoletino Arneto,2017,Tenuta Bellafonte,Umbria,Italia,Trebbiano spoletino,,0.0,5,0,2,-1,-1,-1,"21,30 €",,False
+Vino blanco,Anais Xarel·lo,2021,U Més U,Penedès,España,Xarel·lo,ECO,0.0,5,0,2,-1,-1,-1,"7,60 €",,False
+Vino blanco,Terraprima Blanc,2021,Can Ràfols dels Caus,Penedès,España,Xarel·lo / Macabeo / Moscatel de grano menudo,,4.66667,5,3,0,90,-1,-1,"10,95 €",,False
+Vino blanco,Sons de Prades,2018,Familia Torres,Conca de Barberà,España,Chardonnay,,3.0,5,1,1,-1,-1,-1,"27,95 €",,False
+Vino blanco,42 Zura de Gorka Izagirre,2019,Gorka Izagirre,Bizkaiko Txakolina,España,Hondarribi zerratia,,5.0,5,1,3,-1,-1,-1,"23,50 €",,False
+Vino blanco,Olga Albariño,2021,Teijido Viñedos y Bodega,Rías Baixas,España,Albariño,,5.0,5,2,4,-1,-1,-1,"12,75 €",,False
+Vino blanco,Javier Sanz Verdejo,2021,Javier Sanz Viticultor,Rueda,España,Verdejo,,4.4,5,5,6,-1,-1,-1,"9,95 €",,False
+Vino blanco,Raimat 100,2016,Raimat,Costers del Segre,España,Chardonnay / Xarel·lo,,0.0,5,0,0,-1,-1,-1,"34,50 €",,False
+Vino blanco,La Raia Gavi,2019,La Raia,Gavi,Italia,Cortese,ECO,4.0,5,1,2,-1,-1,-1,"12,64 €","14,05 €",True
+Vino blanco,Martín Códax Lías,2020,Bodegas Martín Códax,Rías Baixas,España,Albariño,,4.5,5,2,5,-1,-1,-1,"18,50 €",,False
+Vino blanco,Trevejos Bambú Blanco,2020,Altos de Tr3vejos,Abona,España,Listán blanco / Albillo / Verdello,,0.0,5,0,1,-1,-1,-1,"7,78 €","9,15 €",True
+Vino blanco,Adhuc Tempus Ribeiro,2021,Vinos Adhuc Tempus,Ribeiro,España,Palomino fino / Treixadura / Torrontés,,0.0,5,0,0,-1,-1,-1,"6,75 €",,False
+Vino blanco,Blanco Hornillos de Callejuela,2021,Callejuela,Sin indicación geográfica,España,Palomino fino,,5.0,5,1,3,90,-1,-1,"8,25 €",,False
+Vino blanco,Atlantis Albariño,2021,Castillo de Maetierra,Rías Baixas,España,Albariño,,3.66667,5,6,5,-1,-1,-1,"12,50 €",,False
+Vino blanco,Villa Lanata Langhe Chardonnay,2019,Villa Lanata,Langhe,Italia,Chardonnay,,3.5,5,2,1,-1,-1,91,"9,50 €",,False
+Vino blanco,Château Pique-Perlou L'As de Pique,2020,Château Pique-Perlou,Minervois,Francia,Garnacha blanca,,0.0,5,0,2,-1,-1,-1,"8,20 €",,False
+Vino blanco,Valtravieso Nogara Verdejo,2021,Bodegas y Viñedos Valtravieso,Rueda,España,Verdejo,,5.0,5,2,1,-1,-1,-1,"8,65 €",,False
+Vino blanco,Leo Torrontés,2019,Casa Bianchi - Leo,Mendoza,Argentina,Torrontés,,4.33333,5,3,1,-1,-1,-1,"11,75 €",,False
+Vino blanco,Les Brugueres Blanc,2021,La Conreria de Scala Dei,Priorat,España,Garnacha blanca,,4.58333,5,12,14,91,-1,93,"17,50 €",,False
+Vino blanco,Dominio Do Bibei Lalume,2018,Dominio do Bibei,Ribeiro,España,Treixadura,,4.0,5,1,7,-1,-1,-1,"17,90 €",,False
+Vino blanco,Chapoutier Chante-Alouette,2018,M. Chapoutier,Hermitage,Francia,Marsanne,,5.0,5,1,2,-1,-1,-1,"74,20 €",,False
+Vino blanco,Maravides Chardonnay,2019,Viñedos Balmoral,Sin indicación geográfica,España,Chardonnay,,0.0,5,0,0,-1,-1,-1,"6,75 €","7,95 €",True
+Vino blanco,Marqués de Cáceres Blanco,2021,Marqués de Cáceres,Rioja,España,Viura,,4.57143,5,21,5,-1,-1,-1,"5,40 €",,False
+Vino blanco,Pago de Valdoneje Godello,2021,Vinos Valtuille,Bierzo,España,Godello,,3.0,5,1,2,-1,-1,-1,"12,90 €",,False
+Vino blanco,Pauline Cuvée de Prestige Sancerre Blanc,2018,Domaine Éric Louis,Sancerre,Francia,Sauvignon blanc,,0.0,5,0,1,-1,-1,-1,"28,70 €",,False
+Vino blanco,Pelleriti Reserve Chardonnay,2016,Marcelo Pelleriti Wines,Valle de Uco,Argentina,Chardonnay,,2.0,5,1,1,-1,-1,-1,"14,36 €","16,90 €",True
+Vino blanco,Estancia Piedra Verdejo,2020,Bodega Estancia Piedra,Rueda,España,Verdejo,,4.5,5,2,0,-1,-1,-1,"7,50 €",,False
+Vino blanco,Bro Valero Fermentado en Barrica,2018,Bro Valero Bodegas y Viñedos,La Mancha,España,Macabeo / Chardonnay,ECO,0.0,5,0,0,-1,-1,-1,"8,40 €",,False
+Vino blanco,Gini Soave Classico,2019,Azienda Agricola Gini,Soave DOC,Italia,Garganega,ECO,0.0,5,0,3,-1,-1,-1,"12,41 €","14,60 €",True
+Vino blanco,Botijo Blanco Garnacha Blanca,2021,Bodegas Frontonio,Valdejalón,España,Garnacha blanca / Macabeo,,4.0,5,2,3,-1,-1,-1,"9,50 €",,False
+Vino blanco,Protos Verdejo Reserva,2019,Bodegas Protos,Rueda,España,Verdejo,,4.42857,5,7,1,-1,-1,-1,"18,95 €",,False
+Vino blanco,Quinta do Ameal Loureiro,2019,Quinta Do Ameal,Vinho Verde,Portugal,Loureiro / Arinto,,4.0,5,2,4,-1,-1,-1,"15,50 €",,False
+Vino blanco,Rovellats Blanc Primavera,2020,Rovellats,Penedès,España,Xarel·lo / Chardonnay / Macabeo,,0.0,5,0,0,-1,-1,-1,"6,50 €",,False
+Vino blanco,Barzen Riesling Trocken,2019,Weinhaus Alexander Barzen,Mosel,Alemania,Riesling,,4.16667,5,6,2,-1,-1,-1,"12,60 €",,False
+Vino blanco,Barbadillo Vi,-1,Bodegas Barbadillo,Sin indicación geográfica,España,Moscatel de Alejandría,,4.0,5,1,3,-1,-1,-1,"7,95 €",,False
+Vino blanco,Sapientia Verdejo Ecológico,2021,Lagar de Moha,Rueda,España,Verdejo,ECO,4.66667,5,3,3,-1,-1,-1,"9,90 €",,False
+Vino blanco,Selma de Nin,2018,Família Nin-Ortiz,Sin indicación geográfica,España,Roussanne / Marsanne / Parellada montonega / Chenin Blanc,,0.0,5,0,3,93,-1,-1,"63,95 €",,False
+Vino blanco,Stallmann-Hiestand Grauer Burgunder Trocken,2020,Weingut Stallmann-Hiestand,Rheinhessen,Alemania,Pinot gris,,3.0,5,2,3,-1,-1,-1,"11,35 €",,False
+Vino blanco,Steinmetz Brauneberger Riesling,2020,Günther Steinmetz,Mosel,Alemania,Riesling,,5.0,5,1,4,-1,-1,-1,"16,70 €",,False
+Vino blanco,Te Mata Cape Crest Sauvignon Blanc,2020,Te Mata Estate Winery,Hawkes Bay,Nueva Zelanda,Sauvignon blanc / Sémillon / Sauvignon gris,,4.5,5,2,1,-1,-1,-1,"23,50 €",,False
+Vino blanco,Terra00 Chenin Blanc Lo Natural,2018,Vins del Tros,Terra Alta,España,Chenin Blanc,ECO,0.0,5,0,6,-1,-1,-1,"13,25 €",,False
+Vino blanco,Terroir al Límit Sense Fronteres Brisat,2021,Terroir al Límit,Montsant,España,Garnacha blanca / Macabeo,,3.5,5,2,2,-1,-1,-1,"20,50 €",,False
+Vino blanco,Tianna VéloBlanc Ecològic,2021,Tianna Negre - Ses Nines,Binissalem-Mallorca,España,Mantonegro / Premsal,ECO,4.0,5,1,0,-1,-1,-1,"12,90 €",,False
+Vino blanco,Tierra Savia Mirlo Barrica,2019,Bodegas Tierra Savia,Sin indicación geográfica,España,Viognier,ECO,0.0,5,0,1,-1,-1,-1,"12,60 €",,False
+Vino blanco,Adernats Parabòlic Blanc,2020,Adernats,Tarragona,España,Macabeo / Xarel·lo,,0.0,5,0,0,-1,-1,-1,"5,60 €",,False
+Vino blanco,Barahonda Blanco Organic,2020,Barahonda,Yecla,España,Verdejo / Sauvignon blanc,ECO,3.66667,5,3,9,-1,-1,-1,"4,46 €","5,25 €",True
+Vino blanco,El Circo Malabarista,2021,Grandes Vinos,Cariñena,España,Macabeo,,4.4,5,5,2,-1,-1,-1,"3,90 €",,False
+Vino blanco,Mountain Blanco,2019,Compañía de Vinos de Telmo Rodríguez,Sierras de Málaga,España,Moscatel de Alejandría,,4.25,5,4,7,-1,-1,-1,"14,80 €",,False
+Vino blanco,Morgenhof Sauvignonn Blanc,2020,Morgenhof,Stellenbosch,Sudáfrica,Sauvignon blanc,,0.0,5,0,1,-1,-1,-1,"19,30 €",,False
+Vino blanco,Casta Diva Cosecha Dorada,2021,Bodegas Gutiérrez de la Vega,Sin indicación geográfica,España,Moscatel de Alejandría,,4.0,5,2,2,91,-1,-1,"10,30 €",,False
+Vino blanco,Guitián Godello sobre Lías,2021,Bodegas La Tapada,Valdeorras,España,Godello,,4.14286,5,7,9,-1,-1,-1,"17,90 €",,False
+Vino blanco,Montes Obarenes,2019,Gómez Cruzado,Rioja,España,Viura / Tempranillo blanco,,5.0,5,1,8,-1,-1,-1,"43,95 €",,False
+Vino blanco,Monte Real Tempranillo Blanco,2020,Bodegas Riojanas,Rioja,España,Tempranillo blanco,,0.0,5,0,1,-1,91,-1,"14,90 €",,False
+Vino blanco,Gargalo Godello,2020,Gargalo,Monterrei,España,Godello,,4.5,5,2,5,-1,-1,-1,"11,95 €",,False
+Vino blanco,A.J Adam Goldtröpfchen Trocken,2014,Weingut A. J. Adam,Mosel,Alemania,Riesling,,0.0,5,0,2,-1,-1,-1,"43,69 €","51,40 €",True
+Vino blanco,Prieto Pariente Viognier,2020,Bodegas Prieto Pariente,Castilla y León,España,Viognier,,0.0,5,0,1,-1,-1,-1,"15,95 €",,False
+Vino blanco,Blanco Nieva Sauvignon,2021,Viñedos de Nieva,Rueda,España,Sauvignon blanc,,3.66667,5,3,3,-1,-1,-1,"7,95 €",,False
+Vino blanco,Prohom Experientia Blanc,2021,Celler Coma d'en Bonet,Terra Alta,España,Garnacha blanca / Viognier,ECO,0.0,5,0,1,-1,-1,-1,"10,95 €",,False
+Vino blanco,La Chablisienne Premier Cru Fourchaume,2019,La Chablisienne,Chablis 1r Cru,Francia,Chardonnay,,0.0,5,0,4,-1,-1,-1,"49,90 €",,False
+Vino blanco,G22 de Gorka Izagirre,2020,Gorka Izagirre,Bizkaiko Txakolina,España,Hondarribi zerratia,,0.0,5,0,7,-1,-1,-1,"14,40 €",,False
+Vino blanco,Mondo,2020,Isaac Cantalapiedra,Castilla y León,España,Verdejo,ECO,0.0,5,0,3,-1,-1,-1,"18,95 €",,False
+Vino blanco,Quim Batlle Foranell Garnacha Blanca,2015,Quim Batlle,Alella,España,Garnacha blanca,ECO,0.0,5,0,1,-1,-1,-1,"13,95 €",,False
+Vino blanco,Lis Neris Picol,2019,Lis Neris,Friuli,Italia,Sauvignon,,4.33333,5,3,0,-1,-1,-1,"24,85 €",,False
+Vino blanco,Clot dels Oms Gewürztraminer,2021,Finca Ca N'Estella ,Penedès,España,Gewürztraminer,,0.0,5,0,1,-1,-1,-1,"9,70 €",,False
+Vino blanco,Coret Blanc de Cal Bessó,2019,Celler Cal Bessó,Montsant,España,Garnacha blanca,,0.0,5,0,0,-1,-1,-1,"10,85 €",,False
+Vino blanco,Abadía Retuerta Le Domaine,2020,Abadía Retuerta,Castilla y León,España,Sauvignon blanc / Verdejo,,4.25,5,4,6,-1,-1,93,"35,50 €",,False
+Vino blanco,Michel Lynch Reserve Blanc,2019,Famille J.M. Cazes,Graves,Francia,Sauvignon blanc / Sémillon,,0.0,5,0,1,-1,-1,-1,"17,35 €",,False
+Vino blanco,Més Que Paraules Blanc,2021,Més Que Paraules,Catalunya,España,Sauvignon blanc / Chardonnay / Picapoll,,0.0,5,0,0,-1,-1,-1,"9,90 €",,False
+Vino blanco,Borsao Blanco Selección,2021,Bodegas Borsao,Campo de Borja,España,Chardonnay / Macabeo,,0.0,5,0,2,-1,-1,-1,"4,80 €",,False
+Vino blanco,Príncipe de Viana Chardonnay Barrica,2020,Bodegas Prí­ncipe de Viana,Navarra,España,Chardonnay,,4.13333,5,15,4,-1,-1,-1,"5,95 €",,False
+Vino blanco,Beso de Vino Garnacha Blanca,2020,Grandes Vinos,Cariñena,España,Macabeo / Chardonnay,,4.0,5,1,1,-1,-1,-1,"4,50 €",,False
+Vino blanco,Benanti Etna Bianco,2021,Cantina Benanti,Etna,Italia,Carricante,,5.0,5,1,3,-1,-1,-1,"21,80 €",,False
+Vino blanco,Con Un Par Albariño,2021,Vicente Gandía,Rías Baixas,España,Albariño,,0.0,5,0,2,-1,-1,-1,"9,75 €",,False
+Vino blanco,Castillo de Monjardín Chardonnay Reserva,2017,Bodegas Castillo de Monjardín,Navarra,España,Chardonnay,,2.0,5,1,1,-1,-1,-1,"15,80 €",,False
+Vino blanco,De Ladoucette Pouilly-Fumé,2019,Baron De Ladoucette,Pouilly-Fumé,Francia,Sauvignon blanc,,4.75,5,4,6,-1,-1,-1,"33,95 €",,False
+Vino blanco,Materne & Schmitt Wunschkind,2020,Weingut Materne & Schmitt,Mosel,Alemania,Riesling,,3.0,5,1,2,-1,-1,-1,"17,50 €",,False
+Vino blanco,Battenfeld-Spanier Eisquell Riesling Trocken,2021,Weingut Battenfeld-Spanier,Rheinhessen,Alemania,Riesling,ECO,4.0,5,1,2,-1,-1,-1,"16,50 €",,False
+Vino blanco,Batič Rebula,2018,Bodega Batič,Vipavska dolina,Eslovenia,Ribolla gialla,ECO,0.0,5,0,2,-1,-1,-1,"19,90 €",,False
+Vino blanco,Matassa Blanc,2021,Matassa,Côtes Catalanes,Francia,Garnacha gris / Macabeo,,0.0,5,0,2,-1,-1,-1,"34,50 €",,False
+Vino blanco,La Val sobre Lías,2015,Bodegas La Val,Rías Baixas,España,Albariño,,0.0,5,0,1,-1,94,-1,"31,50 €",,False
+Vino blanco,Rover Blanco,2020,Bodega la Nave,Sin indicación geográfica,España,Moscatel de grano menudo,ECO,0.0,5,0,2,-1,-1,-1,"12,10 €",,False
+Vino blanco,Barzen Riesling Kabinett,2020,Weinhaus Alexander Barzen,Mosel,Alemania,Riesling,,3.0,5,1,1,-1,-1,-1,"14,60 €",,False
+Vino blanco,Castillo de Monte la Reina Verdejo,2020,Bodegas Monte La Reina,Toro,España,Verdejo,,5.0,5,1,0,-1,-1,-1,"5,90 €","6,95 €",True
+Vino blanco,Saint Clair Pioneer Block 1 Sauvignon Blanc,2021,Saint Clair,Marlborough,Nueva Zelanda,Sauvignon blanc,,0.0,5,0,0,-1,-1,-1,"31,45 €",,False
+Vino blanco,Font de la Figuera Blanc,2020,Clos Figueras,Priorat,España,Viognier / Garnacha blanca / Chenin Blanc,,5.0,5,1,1,-1,-1,92,"29,50 €",,False
+Vino blanco,Lagrave-Martillac Blanc,2020,Château Latour-Martillac,Pessac-Léognan,Francia,Sémillon / Sauvignon blanc,,4.0,5,1,2,-1,-1,-1,"21,10 €",,False
+Vino blanco,De Muller Chardonnay,2020,De Muller,Tarragona,España,Chardonnay,,4.66667,5,3,8,-1,-1,-1,"9,50 €",,False
+Vino blanco,Aires de Vendimia Godello Barrica,2016,José Antonio García Viticultor,Bierzo,España,Godello,,0.0,5,0,2,-1,-1,-1,"43,69 €","51,40 €",True
+Vino blanco,Samuel Billaud 1er Cru Les Vaillons V. Vignes,2020,Domaine Samuel Billaud,Chablis 1r Cru,Francia,Chardonnay,,4.0,5,1,5,92,-1,-1,"54,50 €",,False
+Vino blanco,Samuel Billaud Mont de Milieu,2020,Domaine Samuel Billaud,Chablis,Francia,Chardonnay,,4.0,5,1,11,-1,-1,-1,"59,50 €",,False
+Vino blanco,AA Tallarol Natural,2021,Alta Alella,Alella,España,Xarel·lo,ECO,4.0,5,1,7,-1,-1,-1,"12,90 €",,False
+Vino blanco,Heredad Matarile Chardonnay Gewürztraminer,2018,Bodegas Carlos Valero,Somontano,España,Chardonnay / Gewürztraminer,,0.0,5,0,0,-1,-1,-1,"5,90 €","6,95 €",True
+Vino blanco,Fontaleoni Vernaccia Casanuova,2019,Fontaleoni,Vernaccia di San Gimignano,Italia,Vernaccia di San Gimignano,,3.5,5,2,0,-1,-1,-1,"12,00 €",,False
+Vino blanco,Coca i Fitó Blanc,2019,Coca i Fitó,Montsant,España,Garnacha blanca / Macabeo,ECO,0.0,5,0,1,-1,-1,-1,"11,50 €",,False
+Vino blanco,Barco del Corneta El Judas,2019,Barco del Corneta,Castilla y León,España,Viura,,0.0,5,0,1,-1,-1,-1,"27,25 €",,False
+Vino blanco,Sicus Xarel·lo Brisat,2018,Sicus Celler,Sin indicación geográfica,España,Xarel·lo,ECO,5.0,5,1,6,-1,-1,-1,"17,50 €",,False
+Vino blanco,Finca Viñoa,2021,Finca Viñoa,Ribeiro,España,Albariño / Godello / Loureiro / Treixadura,,4.5,5,2,3,-1,-1,-1,"12,80 €",,False
+Vino blanco,Mas Alta Els Pics Blanc,2020,Bodegas Mas Alta,Priorat,España,Garnacha blanca / Macabeo,,0.0,5,0,3,-1,-1,-1,"17,65 €",,False
+Vino blanco,Sierra Cantabria Organza,2019,Viñedos Sierra Cantabria,Rioja,España,Viura / Malvasía / Garnacha blanca,,0.0,5,0,2,-1,-1,-1,"17,90 €",,False
+Vino blanco,Celler Aixalà Endevinalla,2018,Celler Aixalà Alcait,Priorat,España,Garnacha blanca,ECO,4.0,5,1,0,-1,-1,-1,"11,95 €",,False
+Vino blanco,Holass Tokaj,2018,Holass,Tokaj-Hegyalja,Hungría,Furmint / Hárslevelü,,0.0,5,0,1,-1,-1,-1,"22,95 €",,False
+Vino blanco,Finca Racons,2017,Tomàs Cusiné,Costers del Segre,España,Macabeo,,5.0,5,1,2,-1,-1,-1,"24,50 €",,False
+Vino blanco,Marramiero Trebbiano d'Abruzzo Anima,2020,Cantina Marramiero,Trebbiano d'Abruzzo,Italia,Trebbiano d'Abruzzo,,4.0,5,1,5,-1,-1,-1,"12,75 €",,False
+Vino blanco,Augustus Microvinificacions Macabeu,2016,Celler Avgvstvs Forvm,Penedès,España,Macabeo,,5.0,5,2,1,-1,-1,-1,"12,80 €",,False
+Vino blanco,Condes De Albarei  Áine,2016,Adega Condes de Albarei,Rías Baixas,España,Albariño,,0.0,5,0,2,-1,90,-1,"25,25 €",,False
+Vino blanco,Josmeyer Grand Cru Hengst Gewürztraminer,2011,Josmeyer,Alsace Grand Cru,Francia,Gewürztraminer,ECO,0.0,5,0,2,90,-1,-1,"47,95 €",,False
+Vino blanco,Finca La Emperatriz Viñedo Singular Blanco,2017,Viñedos Hermanos Hernáiz,Rioja,España,Viura,,0.0,5,0,4,93,93,-1,"34,90 €",,False
+Vino blanco,Finca Garabato,2017,Adegas Valtea,Rías Baixas,España,Albariño,,0.0,5,0,1,-1,-1,-1,"16,32 €","19,20 €",True
+Vino blanco,Stallmann-Hiestand Kreuz Riesling,2019,Weingut Stallmann-Hiestand,Rheinhessen,Alemania,Riesling,,5.0,5,1,3,-1,-1,-1,"16,15 €",,False
+Vino blanco,Stallmann-Hiestand Riesling Spätlese Trocken,2020,Weingut Stallmann-Hiestand,Rheinhessen,Alemania,Riesling,,3.28571,5,7,3,-1,-1,-1,"11,35 €",,False
+Vino blanco,Stallmann-Hiestand Sauvignon Blanc Trocken,2020,Weingut Stallmann-Hiestand,Rheinhessen,Alemania,Sauvignon blanc,,0.0,5,0,1,-1,-1,-1,"12,95 €",,False
+Vino blanco,Cirelli Trebbiano d'Abruzzo,2020,Cirelli,Trebbiano d'Abruzzo,Italia,Trebbiano d'Abruzzo,ECO,5.0,5,1,5,-1,-1,-1,"12,35 €",,False
+Vino blanco,Suañé Reserva Blanco,2017,Bodega Alonso & Pedrajo,Rioja,España,Viura / Sauvignon blanc,,3.0,5,1,2,93,-1,-1,"25,60 €",,False
+Vino blanco,Attis Sitta Doliola,2018,Attis Bodegas y Viñedos,Sin indicación geográfica,España,Albariño,,0.0,5,0,1,-1,-1,95,"38,70 €",,False
+Vino blanco,Suertes del Marqués Vidonia,2021,Bodega Suertes del Marqués,Valle de La Orotava,España,Listán blanco,,4.83333,5,6,2,-1,-1,-1,"39,30 €",,False
+Vino blanco,Sumarroca  2CV,2021,Sumarroca,Penedès,España,Xarel·lo vermell,ECO,2.5,5,2,2,-1,-1,-1,"13,60 €",,False
+Vino blanco,Ximénez-Spínola Fermentación Lenta,2019,Bodegas Ximénez-Spínola,Jerez-Manzanilla,España,Pedro ximénez,,5.0,5,2,11,-1,-1,-1,"29,90 €",,False
+Vino blanco,Atrium Chardonnay,2021,Propiedad Bodegas Torres,Penedès,España,Chardonnay / Parellada,ECO,4.125,5,8,1,-1,-1,-1,"9,50 €",,False
+Vino blanco,Ilusionista Verdejo,2021,Bodegas y Viñedos de Altura,Rueda,España,Verdejo,,4.0,5,3,5,-1,-1,-1,"6,72 €","7,90 €",True
+Vino blanco,Mar de Envero Volandia Godello,2019,Mar de Envero,Ribeira Sacra,España,Godello,,0.0,5,0,1,-1,-1,-1,"18,80 €",,False
+Vino blanco,Collbaix Singular Blanc,2016,Celler El Molí,Pla de Bages,España,Macabeo / Picapoll,ECO,0.0,5,0,1,-1,-1,-1,"22,06 €","25,95 €",True
+Vino blanco,Marcel Deiss Gewürztraminer,2018,Domaine Marcel Deiss,Alsace,Francia,Gewürztraminer,ECO,4.66667,5,3,4,-1,-1,-1,"28,80 €",,False
+Vino blanco,Feudi di San Gregorio Greco di Tufo Cutizzi,2020,Feudi di San Gregorio,Greco di Tufo,Italia,Greco,,4.36364,5,11,20,92,-1,-1,"16,15 €",,False
+Vino blanco,Doix Murmuri,2020,Celler Mas Doix,Priorat,España,Garnacha blanca / Macabeo,,4.5,5,2,5,-1,-1,-1,"21,95 €",,False
+Vino blanco,Ismael Gozalo Microbio La Banda del Argilico,2021,Microbio Wines,Sin indicación geográfica,España,Verdejo,,4.5,5,4,3,-1,-1,-1,"16,50 €",,False
+Vino blanco,Larchago Blanco,2019,Bodegas Familia Chávarri,Rioja,España,Viura,,0.0,5,0,0,-1,-1,-1,"6,38 €","7,50 €",True
+Vino blanco,Doll Diví Xarel·lo Macerat ECO,-1,Vitalpe,Sin indicación geográfica,España,Xarel·lo,ECO,5.0,5,1,2,-1,-1,-1,"8,30 €",,False
+Vino blanco,Terroir al Límit Pedra de Guix,2019,Terroir al Límit,Priorat,España,Pedro ximénez / Garnacha blanca / Macabeo,,4.75,5,4,6,94,94,-1,"61,50 €",,False
+Vino blanco,Joseph Gsell Gewurztraminer,2020,Domaine Joseph Gsell,Alsace,Francia,Gewürztraminer,ECO,0.0,5,0,3,-1,-1,-1,"11,75 €",,False
+Vino blanco,L'Archetipo Greco Bianco,2019,L'Archetipo,Salento,Italia,Greco,ECO,4.0,5,2,3,-1,-1,-1,"13,55 €",,False
+Vino blanco,Le Soula Terroir d'Altitude Blanc,2015,Domaine Le Soula,Côtes Catalanes,Francia,Sauvignon blanc / Vermentino / Grenache / Macabeo / Marsanne / Roussanne,,0.0,5,0,0,-1,-1,-1,"27,95 €",,False
+Vino blanco,Fento Blanco,2021,Fento Wines,Rías Baixas,España,Treixadura / Loureiro / Albariño / Godello,,5.0,5,1,2,-1,-1,-1,"13,50 €",,False
+Vino blanco,Chapoutier Invitare Condrieu,2020,M. Chapoutier,Condrieu,Francia,Viognier,,0.0,5,0,3,-1,-1,-1,"43,35 €",,False
+Vino blanco,Domaine de Montine Viognier,2021,Domaine de Montine,Grignan les Adhémar,Francia,Viognier,,0.0,5,0,3,-1,-1,-1,"15,80 €",,False
+Vino blanco,Comte Lafond,2021,Baron De Ladoucette,Sancerre,Francia,Sauvignon blanc,,0.0,5,0,7,-1,-1,-1,"33,60 €",,False
+Vino blanco,Maison Les Alexandrins Le Cabanon Blanc,2021,Maison les Alexandrins,Sin indicación geográfica,Francia,Viognier,,5.0,5,1,3,-1,-1,-1,"10,45 €",,False
+Vino blanco,Tr3smano Albillo Mayor,2019,Lagar Tr3smano,Ribera del Duero,España,Albillo,,0.0,5,0,0,-1,-1,-1,"41,90 €",,False
+Vino blanco,Ivori Blanc Jove,2020,Alella Vinícola,Alella,España,Pansa blanca,,0.0,5,0,0,-1,-1,-1,"11,80 €",,False
+Vino blanco,Jordi Miró Garnacha Blanca,2020,Celler Jordi Miró,Terra Alta,España,Garnacha blanca,,4.0,5,3,3,-1,-1,-1,"7,50 €",,False
+Vino blanco,Tramin Sauvignon,2021,Cantina Tramin,Alto Adige,Italia,Sauvignon,,4.0,5,1,0,-1,-1,-1,"13,10 €",,False
+Vino blanco,Come Pulpo y Bebe Vino,2020,Castillo de Maetierra,Rioja,España,Albariño,,3.66667,5,6,2,-1,-1,-1,"6,20 €",,False
+Vino blanco,L'Enclòs de Peralba Vi Fi de Masia Blanc,2020,L'Enclòs de Peralba,Sin indicación geográfica,España,Garnacha blanca / Malvasía,,0.0,5,0,3,-1,-1,-1,"14,40 €",,False
+Vino blanco,Familia Pacheco Blanco,2020,Bodegas Viña Elena,Jumilla,España,Airén,,0.0,5,0,2,-1,-1,-1,"4,95 €",,False
+Vino tinto,Ultreia Saint Jacques,2020,Raúl Pérez Viticultor,Bierzo,España,Mencía,,4.2071,5,169,223,94,-1,-1,"11,50 €",,False
+Vino tinto,La Montesa,2019,Bodegas Palacios Remondo,Rioja,España,Garnacha,ECO,4.26277,5,274,306,93,93,-1,"13,60 €",,False
+Vino tinto,Viña Tondonia Reserva,2009,Bodegas R. López de Heredia ,Rioja,España,Tempranillo / Garnacha / Graciano / Mazuelo,,4.42105,5,152,228,93,93,-1,"18,95 €",,False
+Vino tinto,Pago de Valdoneje Mencía,2020,Vinos Valtuille,Bierzo,España,Mencía,,4.125,5,80,113,92,-1,92,"7,30 €",,False
+Vino tinto,Viña Ardanza Reserva,2015,La Rioja Alta,Rioja,España,Tempranillo / Garnacha,,4.60302,5,199,166,94,94,-1,"24,50 €",,False
+Vino tinto,Aalto,2020,Aalto,Ribera del Duero,España,Tempranillo,,4.79439,5,107,109,-1,-1,93,"35,90 €",,False
+Vino tinto,Lindes de Remelluri Viñedos de Labastida,2019,Granja Ntra. Sra de Remelluri,Rioja,España,Tempranillo / Garnacha / Graciano,,4.40351,5,114,202,93,-1,93,"15,50 €",,False
+Vino tinto,El Molar,2020,Casa Castillo,Jumilla,España,Garnacha,ECO,4.12195,5,41,69,95,94,-1,"15,50 €",,False
+Vino tinto,Lindes de Remelluri Viñedos de San Vicente,2018,Granja Ntra. Sra de Remelluri,Rioja,España,Tempranillo / Garnacha / Graciano,,4.37037,5,54,115,94,92,-1,"15,50 €",,False
+Vino tinto,Les Cousins L'Inconscient,2021,Les Cousins Marc & Adrià,Priorat,España,Cariñena / Garnacha / Cabernet sauvignon / Merlot / Syrah,,4.37179,5,78,70,-1,-1,-1,"10,50 €",,False
+Vino tinto,El Linze,2020,Bodegas El Linze,Castilla,España,Tinto Velasco / Syrah,,4.6087,5,23,34,-1,-1,-1,"18,50 €",,False
+Vino tinto,Pétalos del Bierzo,2020,Descendientes de J. Palacios,Bierzo,España,Mencía / Alicante bouschet,,4.21918,5,73,110,93,-1,92,"16,50 €",,False
+Vino tinto,Juan Gil Etiqueta Plata,2020,Bodegas Juan Gil,Jumilla,España,Monastrell,ECO,4.42177,5,147,134,-1,-1,-1,"11,50 €",,False
+Vino tinto,Ramón Bilbao Crianza,2018,Bodegas Ramón Bilbao,Rioja,España,Tempranillo,,4.31959,5,97,52,-1,-1,-1,"9,20 €",,False
+Vino tinto,Pago de los Capellanes Crianza,2020,Pago de los Capellanes,Ribera del Duero,España,Tempranillo,,4.57143,5,42,66,-1,-1,-1,"24,30 €",,False
+Vino tinto,Abadía Retuerta Selección Especial,2018,Abadía Retuerta,Castilla y León,España,Tempranillo / Cabernet sauvignon / Syrah,,4.62903,5,62,70,93,94,-1,"28,85 €",,False
+Vino tinto,Viña Zorzal Garnacha,2021,Viña Zorzal,Navarra,España,Garnacha,,4.15385,5,52,95,-1,-1,-1,"6,75 €",,False
+Vino tinto,El Castro de Valtuille Mencía Joven,2021,Bodegas y Viñedos Castro Ventosa,Bierzo,España,Mencía,,3.98387,5,62,56,92,-1,-1,"6,40 €",,False
+Vino tinto,Rafael Cambra Casa Sosegada,2020,Bodega Rafael Cambra,Valencia,España,Monastrell / Arcos / Forcayat del arco / Bonicaire / Rojal,,4.0,5,1,31,95,-1,-1,"16,50 €",,False
+Vino tinto,Pago de los Capellanes Roble,2021,Pago de los Capellanes,Ribera del Duero,España,Tempranillo,,4.29825,5,57,75,-1,-1,-1,"13,75 €",,False
+Vino tinto,Marqués de Riscal Reserva,2018,"Marqués de Riscal, Herederos",Rioja,España,Tempranillo / Graciano,,4.33803,5,71,67,-1,-1,-1,"15,60 €",,False
+Vino tinto,Emilio Moro Finca Resalso,2021,Emilio Moro,Ribera del Duero,España,Tempranillo,,4.29508,5,61,45,-1,-1,-1,"8,75 €",,False
+Vino tinto,Marqués de Murrieta Reserva,2018,Marqués de Murrieta,Rioja,España,Tempranillo / Mazuelo / Graciano / Garnacha,,4.42593,5,54,106,94,-1,94,"46,00 €",,False
+Vino tinto,Dido La Universal,2020,"Venus ""La Universal""",Montsant,España,Garnacha / Syrah / Cabernet sauvignon / Cariñena / Merlot,ECO,4.33333,5,30,79,93,-1,-1,"15,20 €",,False
+Vino tinto,El Coto Crianza,2018,El Coto de Rioja,Rioja,España,Tempranillo,,4.53731,5,134,63,-1,-1,-1,"6,75 €",,False
+Vino tinto,Finca Luna Beberide,2020,Bodegas y Viñedos Luna Beberide,Bierzo,España,Mencía,,3.92308,5,13,22,93,-1,-1,"8,95 €",,False
+Vino tinto,Perelada 5 Fincas Reserva,2017,Perelada,Empordà,España,Merlot / Garnacha / Cabernet sauvignon / Syrah / Tempranillo / Cabernet franc,,4.51064,5,47,46,-1,-1,-1,"12,45 €",,False
+Vino tinto,Hacienda López de Haro Crianza,2019,Hacienda López de Haro,Rioja,España,Tempranillo / Garnacha / Graciano,,4.21212,5,66,30,-1,-1,-1,"7,20 €",,False
+Vino tinto,Depaula Monastrell,2021,Bodegas y Viñedos Ponce,Manchuela,España,Monastrell,,4.17647,5,17,18,92,-1,-1,"7,90 €",,False
+Vino tinto,Mauro,2020,Bodegas Mauro,Castilla y León,España,Tempranillo / Syrah / Cabernet sauvignon,,4.6129,5,31,37,-1,-1,-1,"32,20 €",,False
+Vino tinto,Juan Gil Etiqueta Azul,2020,Bodegas Juan Gil,Jumilla,España,Monastrell / Syrah / Cabernet sauvignon,,4.83333,5,18,20,-1,-1,-1,"22,95 €",,False
+Vino tinto,La Celestina,2018,Atalayas de Golbán,Ribera del Duero,España,Tempranillo,,4.2,5,30,46,91,91,-1,"10,85 €",,False
+Vino tinto,Muga Crianza,2019,Bodegas Muga,Rioja,España,Tempranillo / Garnacha / Mazuelo / Graciano,,4.52459,5,61,57,-1,-1,-1,"17,30 €",,False
+Vino tinto,Condado de Haza Crianza,2019,Condado de Haza,Ribera del Duero,España,Tempranillo,,4.26923,5,52,22,-1,-1,93,"11,95 €",,False
+Vino tinto,Protos Reserva,2015,Bodegas Protos,Ribera del Duero,España,Tempranillo,,4.68421,5,19,33,-1,93,91,"26,00 €",,False
+Vino tinto,Cims de Porrera Vi de Vila,2017,Cims de Porrera,Priorat,España,Cariñena / Garnacha,,4.28571,5,21,46,-1,-1,-1,"16,95 €",,False
+Vino tinto,Almirez,2020,Teso La Monja,Toro,España,Tinta de Toro,,4.33333,5,39,61,-1,-1,-1,"18,20 €",,False
+Vino tinto,Valtravieso Finca Santa María,2020,Bodegas y Viñedos Valtravieso,Ribera del Duero,España,Tempranillo / Cabernet sauvignon / Merlot,,4.30769,5,13,35,-1,-1,-1,"9,10 €",,False
+Vino tinto,Cune Reserva,2018,Compañía Vinícola del Norte de España - CVNE,Rioja,España,Tempranillo / Mazuelo / Garnacha / Graciano,,4.57143,5,21,45,90,-1,-1,"10,90 €",,False
+Vino tinto,Habla del Silencio,2021,Bodegas Habla,Extremadura,España,Syrah / Cabernet sauvignon / Tempranillo,,4.46667,5,60,39,-1,-1,-1,"10,90 €",,False
+Vino tinto,Coto de Imaz Reserva,2018,El Coto de Rioja,Rioja,España,Tempranillo,,4.37209,5,86,62,-1,-1,92,"10,85 €",,False
+Vino tinto,Matarromera Crianza,2018,Matarromera,Ribera del Duero,España,Tempranillo,,4.41667,5,24,32,-1,91,-1,"21,95 €",,False
+Vino tinto,Antídoto,2020,Bodega Antídoto,Ribera del Duero,España,Tempranillo,,4.10345,5,29,41,93,-1,-1,"15,75 €",,False
+Vino tinto,Il Poggione Brunello di Montalcino,2017,Tenuta Il Poggione,Brunello di Montalcino,Italia,Sangiovese,,4.41379,5,58,70,94,-1,91,"45,30 €",,False
+Vino tinto,Pruno,2020,Finca Villacreces,Ribera del Duero,España,Tempranillo / Cabernet sauvignon,,4.16352,5,159,125,-1,-1,-1,"11,85 €",,False
+Vino tinto,El Enemigo Malbec,2019,Bodega Aleanna,Mendoza,Argentina,Malbec / Cabernet franc / Petit verdot,,4.41379,5,29,34,-1,-1,-1,"22,00 €",,False
+Vino tinto,Camins del Priorat,2021,Álvaro Palacios,Priorat,España,Garnacha / Cabernet sauvignon / Cariñena / Syrah / Merlot,,4.46667,5,45,69,91,-1,92,"21,60 €",,False
+Vino tinto,Artuke Pies Negros,2020,"Artuke, Bodegas y Viñedos",Rioja,España,Tempranillo / Graciano,,4.33333,5,15,11,92,92,-1,"13,50 €",,False
+Vino tinto,Parada de Atauta,2019,Dominio de Atauta,Ribera del Duero,España,Tempranillo,ECO,4.5,5,18,67,-1,-1,92,"17,90 €",,False
+Vino tinto,Matsu El Pícaro,2021,Matsu,Toro,España,Tinta de Toro,,4.32258,5,31,10,-1,-1,-1,"8,20 €",,False
+Vino tinto,San Román,2019,San Román Bodegas y Viñedos,Toro,España,Tinta de Toro,,4.55172,5,29,55,-1,-1,-1,"28,70 €",,False
+Vino tinto,Viña Pomal Crianza Centenario,2019,Bodegas Bilbaínas,Rioja,España,Tempranillo,,3.8,5,10,15,90,-1,-1,"8,45 €",,False
+Vino tinto,Catena La Consulta Malbec,2019,Bodega Catena Zapata,Valle de Uco,Argentina,Malbec,,4.31579,5,19,44,92,-1,93,"14,05 €",,False
+Vino tinto,Casa Castillo La Tendida,2020,Casa Castillo,Jumilla,España,Monastrell / Garnacha,ECO,0.0,5,0,13,93,93,-1,"12,25 €",,False
+Vino tinto,Maduresa,2020,Celler del Roure,Valencia,España,Monastrell / Cariñena / Mandó,ECO,4.0,5,3,30,95,92,-1,"18,90 €",,False
+Vino tinto,Angiuli Puglia Primitivo Maccone,2021,Angiuli Donato,Puglia,Italia,Primitivo,,4.6,5,45,43,-1,-1,-1,"14,60 €",,False
+Vino tinto,Remelluri Reserva,2014,Granja Ntra. Sra de Remelluri,Rioja,España,Tempranillo / Garnacha / Graciano / Viura / Malvasía,ECO,4.5,5,42,95,93,93,-1,"22,95 €",,False
+Vino tinto,Carmelo Rodero 9 Meses,2021,Bodegas Rodero,Ribera del Duero,España,Tempranillo,,4.40625,5,32,26,-1,-1,-1,"13,50 €",,False
+Vino tinto,Protos Crianza,2018,Bodegas Protos,Ribera del Duero,España,Tempranillo,,4.36111,5,36,35,-1,-1,-1,"17,50 €",,False
+Vino tinto,Protos 27,2019,Bodegas Protos,Ribera del Duero,España,Tempranillo,,4.48276,5,29,51,-1,-1,-1,"24,95 €",,False
+Vino tinto,Luis Cañas Reserva,2016,Bodegas Luis Cañas,Rioja,España,Tempranillo / Graciano,,4.48276,5,29,26,-1,-1,-1,"17,25 €",,False
+Vino tinto,Ànima Negra ÀN/2,2020,Ànima Negra Viticultors,Mallorca,España,Callet / Fogoneu / Cabernet sauvignon,,4.53571,5,28,27,91,-1,-1,"19,60 €",,False
+Vino tinto,Catena Malbec,2019,Bodega Catena Zapata,Mendoza,Argentina,Malbec,,4.53659,5,41,42,92,-1,-1,"13,90 €",,False
+Vino tinto,Malleolus,2019,Emilio Moro,Ribera del Duero,España,Tempranillo,,4.61538,5,26,32,-1,-1,-1,"63,95 €",,False
+Vino tinto,Vermell,2020,Celler del Roure,Valencia,España,Monastrell / Garnacha / Mandó,,4.19444,5,36,35,92,-1,-1,"7,95 €",,False
+Vino tinto,Enate Crianza,2018,Enate,Somontano,España,Tempranillo / Cabernet sauvignon,,4.43478,5,23,16,-1,-1,-1,"9,50 €",,False
+Vino tinto,Dominio del Águila Reserva,2019,Dominio del Águila,Ribera del Duero,España,Tempranillo / Garnacha / Bobal / Albillo,ECO,4.88889,5,18,67,-1,-1,-1,"67,80 €",,False
+Vino tinto,Safrà,2021,Celler del Roure,Valencia,España,Mandó / Arcos,ECO,4.0,5,39,87,-1,-1,-1,"12,50 €",,False
+Vino tinto,Museum Reserva,2016,Finca Museum Viñedos y Bodegas,Cigales,España,Tempranillo,,4.51351,5,37,29,-1,92,-1,"13,50 €",,False
+Vino tinto,Cune Crianza,2018,Compañía Vinícola del Norte de España - CVNE,Rioja,España,Tempranillo / Garnacha / Mazuelo,,4.13095,5,84,27,-1,-1,-1,"5,60 €",,False
+Vino tinto,Juan Gil Etiqueta Amarilla,2021,Bodegas Juan Gil,Jumilla,España,Monastrell,,4.30435,5,46,22,-1,-1,-1,"5,95 €",,False
+Vino tinto,Luna Beberide Mencía,2021,Bodegas y Viñedos Luna Beberide,Bierzo,España,Mencía,,4.05882,5,34,33,91,-1,-1,"5,95 €",,False
+Vino tinto,Laurel,2020,Clos i Terrasses,Priorat,España,Garnacha / Syrah / Cabernet sauvignon,,4.54545,5,22,37,96,-1,-1,"46,65 €",,False
+Vino tinto,Enrique Mendoza Finca Xaconero,2018,Enrique Mendoza Viticultor,Alicante,España,Monastrell / Syrah / Garnacha,,0.0,5,0,8,92,-1,-1,"11,75 €",,False
+Vino tinto,Coromina,2019,Empordàlia,Empordà,España,Garnacha / Cariñena,,5.0,5,2,2,-1,-1,-1,"10,95 €",,False
+Vino tinto,Sexto Elemento,2019,Bodega Sexto Elemento,Valencia,España,Bobal,,4.92857,5,14,12,-1,-1,-1,"20,95 €",,False
+Vino tinto,Clos Montblanc Pinot Noir Únic,2020,Clos Montblanc,Conca de Barberà,España,Pinot noir,,4.33333,5,6,4,-1,-1,-1,"11,95 €",,False
+Vino tinto,Alaya Tierra,2020,Bodegas Atalaya,Almansa,España,Garnacha tintorera,,4.89655,5,29,26,92,-1,-1,"22,95 €",,False
+Vino tinto,Furvus,2020,Vinyes Domènech,Montsant,España,Garnacha peluda / Merlot,,4.61538,5,13,13,-1,-1,-1,"18,50 €",,False
+Vino tinto,Corimbo,2018,Bodegas La Horra,Ribera del Duero,España,Tempranillo,,4.28571,5,21,36,-1,-1,93,"19,90 €",,False
+Vino tinto,Muriel Fincas de la Villa Crianza,2019,Bodegas Muriel,Rioja,España,Tempranillo,,4.11765,5,17,8,-1,-1,-1,"6,50 €",,False
+Vino tinto,Barón de Ley Gran Reserva,2016,Barón de Ley,Rioja,España,Tempranillo,,4.71429,5,7,12,-1,-1,91,"18,90 €",,False
+Vino tinto,Pícaro del Águila Tinto,2020,Dominio del Águila,Ribera del Duero,España,Tempranillo / Garnacha / Bobal,ECO,4.35714,5,28,47,-1,-1,-1,"24,60 €",,False
+Vino tinto,GR-174 Casa Gran del Siurana,2021,Casa Gran del Siurana,Priorat,España,Garnacha / Cariñena / Cabernet sauvignon / Merlot / Syrah,,4.30769,5,26,18,-1,-1,-1,"12,60 €",,False
+Vino tinto,Ramón Bilbao Reserva,2015,Bodegas Ramón Bilbao,Rioja,España,Tempranillo / Mazuelo / Graciano,,4.51613,5,31,29,-1,92,-1,"14,90 €",,False
+Vino tinto,El Vínculo Crianza,2018,El Vínculo,La Mancha,España,Tempranillo,,4.36842,5,19,8,-1,-1,-1,"10,95 €",,False
+Vino tinto,Ribas Negre,2020,Bodega Ribas,Mallorca,España,Mantonegro / Merlot / Syrah / Cabernet sauvignon,ECO,4.73333,5,15,19,-1,-1,-1,"13,75 €",,False
+Vino tinto,Bosque de Matasnos Etiqueta Blanca,2019,Bosque de Matasnos,Ribera del Duero,España,Tempranillo / Merlot / Malbec,,4.9,5,10,12,-1,-1,-1,"27,95 €",,False
+Vino tinto,Planetes de Nin Clàssic,2020,Família Nin-Ortiz,Priorat,España,Garnacha / Cariñena,ECO,3.83333,5,6,19,96,-1,-1,"35,90 €",,False
+Vino tinto,Evodia,2020,Bodegas San Alejandro,Calatayud,España,Garnacha,,4.35294,5,17,10,91,-1,-1,"6,70 €",,False
+Vino tinto,Pujanza Hado,2019,Bodegas y Viñedos Pujanza,Rioja,España,Tempranillo,,4.36364,5,11,13,91,-1,-1,"12,50 €",,False
+Vino tinto,Arzuaga Reserva,2018,Bodegas Arzuaga Navarro,Ribera del Duero,España,Tempranillo / Cabernet sauvignon / Merlot,,4.77778,5,9,20,-1,-1,-1,"36,95 €",,False
+Vino tinto,Ritme,2019,Ritme Celler,Priorat,España,Cariñena / Garnacha peluda / Garnacha,,4.66667,5,15,26,-1,-1,-1,"13,95 €",,False
+Vino tinto,Paixar,2020,Bodegas y Viñedos Luna Beberide,Bierzo,España,Mencía,,3.94737,5,19,107,96,-1,-1,"31,90 €",,False
+Vino tinto,Rafael Cambra Soplo,2020,Bodega Rafael Cambra,Valencia,España,Garnacha,,4.08333,5,36,29,91,-1,-1,"5,95 €",,False
+Vino tinto,Campo Viejo Tempranillo,-1,Bodegas Campo Viejo,Rioja,España,Tempranillo,,4.375,5,32,12,-1,-1,-1,"4,30 €",,False
+Vino tinto,Hacienda Solano Selección,2020,Hacienda Solano,Ribera del Duero,España,Tempranillo,,4.1875,5,16,38,-1,92,-1,"12,50 €",,False
+Vino tinto,Cal Pla Negre,2019,Celler Cal Pla,Priorat,España,Garnacha / Cariñena,,4.34615,5,26,17,-1,-1,-1,"10,95 €",,False
+Vino tinto,Dominio de Atauta,2019,Dominio de Atauta,Ribera del Duero,España,Tempranillo,,4.4375,5,16,45,-1,-1,94,"25,95 €",,False
+Vino tinto,Románico,2020,Teso La Monja,Toro,España,Tinta de Toro,,4.15789,5,19,13,-1,-1,-1,"10,15 €",,False
+Vino tinto,Coto de Hayas Garnacha Centenaria,2020,Bodegas Aragonesas,Campo de Borja,España,Garnacha,,4.45455,5,11,10,90,-1,-1,"10,85 €",,False
+Vino tinto,Cune Imperial Reserva,2017,Compañía Vinícola del Norte de España - CVNE,Rioja,España,Tempranillo / Graciano / Mazuelo,,4.125,5,8,15,-1,-1,-1,"28,25 €",,False
+Vino tinto,Les Argelieres Pinot Noir,2021,LGI Wines,Pays d'Oc,Francia,Pinot noir,,3.9,5,10,16,-1,-1,-1,"7,95 €",,False
+Vino tinto,Viña Bosconia Reserva,2011,Bodegas R. López de Heredia ,Rioja,España,Tempranillo / Garnacha / Mazuelo / Graciano,,4.3,5,30,58,92,-1,95,"23,90 €",,False
+Vino tinto,Cutio Garnacha,2019,Mas de Mancuso,Cariñena,España,Garnacha / Cariñena,,3.5,5,2,10,92,-1,-1,"8,45 €",,False
+Vino tinto,Taberner,2017,Huerta de Albalá,Cádiz,España,Syrah / Merlot / Cabernet sauvignon,,4.52632,5,19,14,-1,-1,-1,"21,95 €",,False
+Vino tinto,Due Palme Primitivo di Manduria SanGaetano,2021,Due Palme,Primitivo di Manduria,Italia,Primitivo,,4.88889,5,9,9,-1,-1,-1,"10,45 €",,False
+Vino tinto,Serras del Priorat,2021,Clos Figueras,Priorat,España,Garnacha / Cariñena / Syrah / Cabernet sauvignon,,4.57143,5,7,6,91,-1,-1,"20,50 €",,False
+Vino tinto,Matarromera Reserva,2017,Matarromera,Ribera del Duero,España,Tempranillo,,4.45455,5,11,13,-1,-1,-1,"37,50 €",,False
+Vino tinto,Suertes del Marqués 7 Fuentes,2019,Bodega Suertes del Marqués,Valle de La Orotava,España,Listán negro / Castellana negra,,3.89474,5,19,28,93,-1,-1,"12,50 €",,False
+Vino tinto,Pegaso Zeta,2021,Compañía de Vinos de Telmo Rodríguez,Cebreros,España,Garnacha,,3.66667,5,3,35,-1,-1,-1,"15,90 €",,False
+Vino tinto,La Forcallà de Antonia,2019,Bodega Rafael Cambra,Valencia,España,Forcayat del arco,,4.0,5,4,12,-1,-1,-1,"11,95 €",,False
+Vino tinto,Les Clivelles de Torroja Vi de Vila,2020,Celler Aixalà Alcait,Priorat,España,Cariñena,ECO,4.8,5,10,13,-1,-1,-1,"16,00 €",,False
+Vino tinto,Tinto Figuero 12 Meses,2019,Bodegas y Viñedos García Figuero,Ribera del Duero,España,Tempranillo,,4.8,5,10,15,-1,-1,-1,"16,50 €",,False
+Vino tinto,Mestizaje,2020,Bodega Mustiguillo,El Terrerazo,España,Bobal / Merlot / Cabernet sauvignon / Garnacha / Tempranillo,ECO,4.20833,5,24,24,91,-1,-1,"9,95 €",,False
+Vino tinto,Quadis Crianza,2020,Bodegas Barbadillo,Cádiz,España,Tempranillo / Syrah / Petit verdot / Tintilla de Rota,,4.55556,5,9,10,-1,-1,-1,"9,90 €",,False
+Vino tinto,Tomás Postigo 5º Año,2017,Bodega Tomás Postigo,Ribera del Duero,España,Tempranillo / Cabernet sauvignon / Merlot,,5.0,5,2,13,-1,-1,-1,"48,50 €",,False
+Vino tinto,PradoRey Origen Roble,2021,Bodegas Pradorey,Ribera del Duero,España,Tempranillo / Cabernet sauvignon / Merlot,,4.25,5,20,20,-1,-1,-1,"7,50 €",,False
+Vino tinto,Ederra Crianza,2018,Bodegas Bilbaínas,Rioja,España,Tempranillo,,3.81818,5,11,9,-1,-1,-1,"5,40 €",,False
+Vino tinto,Tarima Monastrell,2021,Bodegas Volver,Alicante,España,Monastrell,,4.23333,5,60,16,-1,-1,-1,"5,90 €",,False
+Vino tinto,Macán,2016,Benjamin de Rothschild - Vega Sicilia,Rioja,España,Tempranillo,,4.5,5,4,10,94,95,-1,"169,50 €",,False
+Vino tinto,Hacienda López de Haro Reserva,2016,Hacienda López de Haro,Rioja,España,Tempranillo / Graciano,,4.23529,5,51,23,-1,-1,-1,"10,60 €",,False
+Vino tinto,Lan Crianza,2018,Bodegas Lan,Rioja,España,Tempranillo / Mazuelo,,4.21053,5,19,6,-1,-1,-1,"7,95 €",,False
+Vino tinto,Marqués de Cáceres Reserva,2017,Marqués de Cáceres,Rioja,España,Tempranillo / Garnacha / Graciano,,4.52941,5,17,32,-1,-1,91,"12,40 €",,False
+Vino tinto,Ferrer Bobet Vinyes Velles,2018,Ferrer Bobet,Priorat,España,Cariñena / Garnacha,,4.65,5,20,37,93,-1,95,"36,60 €",,False
+Vino tinto,Godina,2020,Bodegas Morca,Campo de Borja,España,Garnacha,,5.0,5,4,2,-1,-1,-1,"18,10 €",,False
+Vino tinto,Portia Roble,2020,Bodegas Portia,Ribera del Duero,España,Tempranillo,,4.0,5,2,11,-1,-1,-1,"7,85 €",,False
+Vino tinto,Lan Reserva,2016,Bodegas Lan,Rioja,España,Tempranillo / Mazuelo,,4.33333,5,21,14,-1,-1,-1,"12,95 €",,False
+Vino tinto,Edulis Crianza,2018,Bodegas Altanza,Rioja,España,Tempranillo,,4.4,5,15,20,-1,90,90,"7,60 €",,False
+Vino tinto,Valduero Una Cepa,2017,Bodegas Valduero,Ribera del Duero,España,Tempranillo,,5.0,5,5,18,-1,-1,-1,"31,30 €",,False
+Vino tinto,Viña Real Crianza,2018,Viña Real,Rioja,España,Tempranillo / Garnacha / Mazuelo / Graciano,,4.05769,5,52,33,-1,-1,-1,"8,20 €",,False
+Vino tinto,Artigas,2019,Bodegas Mas Alta,Priorat,España,Garnacha / Cariñena / Cabernet sauvignon,,4.5,5,8,11,92,-1,-1,"22,95 €",,False
+Vino tinto,Sierra Cantabria Selección,2020,Sierra Cantabria,Rioja,España,Tempranillo,,4.25,5,4,5,-1,-1,-1,"6,95 €",,False
+Vino tinto,Clos Martinet,2019,Mas Martinet Viticultors,Priorat,España,Garnacha / Cariñena / Syrah / Cabernet sauvignon / Merlot,ECO,4.66667,5,12,28,95,-1,-1,"58,95 €",,False
+Vino tinto,Orube Crianza,2018,Solar Viejo,Rioja,España,Tempranillo / Garnacha / Graciano,,4.77778,5,9,7,-1,-1,-1,"9,50 €",,False
+Vino tinto,Madremía,2018,Bodegas Divina Proporción,Toro,España,Tinta de Toro,,4.30435,5,23,15,-1,-1,-1,"10,95 €",,False
+Vino tinto,Campo Viejo Gran Reserva,2015,Bodegas Campo Viejo,Rioja,España,Tempranillo / Graciano / Mazuelo,,4.5,5,6,6,-1,-1,-1,"13,50 €",,False
+Vino tinto,El Puntido,2019,Viñedos de Páganos,Rioja,España,Tempranillo,,4.73333,5,15,11,93,-1,-1,"37,95 €",,False
+Vino tinto,Coca i Fitó Maragda,2016,Coca i Fitó,Montsant,España,Garnacha / Cariñena / Syrah,,4.5,5,4,8,-1,-1,-1,"15,00 €",,False
+Vino tinto,Lalama,2019,Dominio do Bibei,Ribeira Sacra,España,Mencía / Garnacha tintorera / Mouratón / Sousón / Brancellao,,4.375,5,24,25,-1,-1,-1,"19,60 €",,False
+Vino tinto,Castillo Ygay Gran Reserva Especial,2011,Marqués de Murrieta,Rioja,España,Tempranillo / Mazuelo,,4.61538,5,13,27,97,-1,98,"210,00 €",,False
+Vino tinto,Bach Viña Extrísima Tinto,2021,Masia Bach,Catalunya,España,Cabernet sauvignon / Merlot / Tempranillo,,4.61538,5,13,4,-1,-1,-1,"4,60 €",,False
+Vino tinto,Pata Negra Roble,2021,García-Carrión,Toro,España,Tinta de Toro,,4.6,5,5,5,-1,-1,-1,"5,95 €",,False
+Vino tinto,Honoro Vera Monastrell Organic,2020,Bodegas Juan Gil,Jumilla,España,Monastrell,,4.42424,5,33,21,90,-1,-1,"5,75 €",,False
+Vino tinto,Muriel Fincas De La Villa Reserva,2016,Bodegas Muriel,Rioja,España,Tempranillo,,4.28571,5,14,10,-1,-1,92,"9,50 €",,False
+Vino tinto,Coto de Imaz Gran Reserva,2015,El Coto de Rioja,Rioja,España,Tempranillo,,4.52941,5,17,20,-1,-1,-1,"18,50 €",,False
+Vino tinto,Jaspi Negre,2018,Coca i Fitó,Montsant,España,Garnacha / Cariñena / Cabernet sauvignon / Syrah,,4.2,5,10,11,-1,-1,-1,"9,95 €",,False
+Vino tinto,El Pedal Maturana Ed. Limitada,2020,Viñedos Hermanos Hernáiz,Rioja,España,Maturana tinta,,0.0,5,0,0,-1,-1,-1,"8,00 €",,False
+Vino tinto,Flor de Morca,2021,Bodegas Morca,Campo de Borja,España,Garnacha,,4.5,5,2,8,-1,-1,-1,"7,95 €",,False
+Vino tinto,Cair Cuvée,2019,Dominio de Cair,Ribera del Duero,España,Tempranillo / Merlot,,4.6,5,5,5,-1,-1,-1,"11,40 €",,False
+Vino tinto,Pinna Fidelis Roble,2020,Pinna Fidelis,Ribera del Duero,España,Tempranillo,,4.38462,5,13,9,-1,-1,-1,"8,55 €",,False
+Vino tinto,Regina Viarum Mencía,2021,Bodegas Regina Viarum,Ribeira Sacra,España,Mencía,,5.0,5,1,6,-1,-1,-1,"9,50 €",,False
+Vino tinto,Vizcarra Senda del Oro,2020,Bodegas Vizcarra,Ribera del Duero,España,Tempranillo,,4.2069,5,29,9,-1,-1,-1,"9,20 €",,False
+Vino tinto,Viña Pomal Reserva Centenario,2016,Bodegas Bilbaínas,Rioja,España,Tempranillo,,4.13636,5,22,18,91,-1,-1,"13,95 €",,False
+Vino tinto,Habla La Tierra,2020,Bodegas Habla,Extremadura,España,Tempranillo / Cabernet sauvignon,,3.88235,5,17,4,-1,-1,-1,"7,25 €",,False
+Vino tinto,Dog Point Pinot Noir,2019,Dog Point Vineyard,Marlborough,Nueva Zelanda,Pinot noir,,5.0,5,1,2,-1,-1,93,"23,95 €",,False
+Vino tinto,Samsara Priorat,2018,Coca i Fitó,Priorat,España,Garnacha / Cariñena / Syrah / Cabernet sauvignon,,3.33333,5,3,8,-1,-1,-1,"14,90 €",,False
+Vino tinto,Vallegarcía Syrah,2020,Pago de Vallegarcía,Vallegarcía,España,Syrah,,4.5,5,2,9,91,-1,-1,"23,00 €",,False
+Vino tinto,Viña Zorzal Malayeto,2020,Viña Zorzal,Navarra,España,Garnacha,,3.93333,5,45,77,-1,-1,-1,"14,40 €",,False
+Vino tinto,Almodí,2021,Altavins,Terra Alta,España,Garnacha peluda,,4.6,5,5,6,-1,-1,-1,"9,30 €",,False
+Vino tinto,Dominio del Bendito El Primer Paso,2020,Dominio del Bendito,Toro,España,Tinta de Toro,,4.22222,5,9,6,-1,-1,-1,"13,90 €",,False
+Vino tinto,Viña De Moya Tinto Roble,2019,Bodega Luzdivina Amigo,Bierzo,España,Mencía,,4.0,5,4,3,90,-1,92,"7,90 €",,False
+Vino tinto,Alamos Cabernet Sauvignon,2021,Bodega Alamos,Mendoza,Argentina,Cabernet sauvignon,,4.25,5,4,1,-1,-1,-1,"8,95 €",,False
+Vino tinto,El Escocés Volante El Puño,2019,El Escocés Volante,Calatayud,España,Garnacha,,3.66667,5,3,11,94,-1,-1,"19,90 €",,False
+Vino tinto,Viña Norte Maceración Carbónica,2021,Bodegas Insulares de Tenerife,Tacoronte - Acentejo,España,Listán negro / Negramoll,,5.0,5,2,3,-1,-1,-1,"12,45 €",,False
+Vino tinto,Akutain Reserva,2014,Bodega Akutain,Rioja,España,Tempranillo,,5.0,5,1,12,92,-1,-1,"27,70 €",,False
+Vino tinto,Enate Cabernet Sauvignon Merlot,2019,Enate,Somontano,España,Cabernet sauvignon / Merlot,,4.28571,5,14,9,-1,-1,-1,"7,50 €",,False
+Vino tinto,Luzón Sin Sulfitos,2021,Bodegas Luzón,Jumilla,España,Monastrell,ECO,5.0,5,2,2,-1,-1,-1,"5,95 €",,False
+Vino tinto,El Paseante El Pispa,2020,Vinos del Paseante,Montsant,España,Garnacha,,4.5,5,6,12,-1,-1,-1,"9,35 €",,False
+Vino tinto,Sió,2019,Bodega Ribas,Mallorca,España,Mantonegro / Syrah / Cabernet sauvignon / Merlot,ECO,4.625,5,16,22,-1,-1,-1,"23,35 €",,False
+Vino tinto,12 Lunas,2019,El Grillo y la Luna,Somontano,España,Tempranillo / Merlot / Cabernet sauvignon,,4.27273,5,11,4,-1,-1,-1,"9,50 €",,False
+Vino tinto,Campillo Crianza,2018,Bodegas Campillo,Rioja,España,Tempranillo,,4.25,5,4,4,-1,-1,-1,"10,95 €",,False
+Vino tinto,Terrazas de los Andes Malbec,2020,Terrazas de los Andes,Mendoza,Argentina,Malbec,,4.5,5,4,11,-1,-1,-1,"17,00 €",,False
+Vino tinto,Enrique Mendoza Pinot Noir,2021,Enrique Mendoza Viticultor,Alicante,España,Pinot noir,,4.0,5,11,9,-1,-1,-1,"9,50 €",,False
+Vino tinto,Fèlsina Chianti Classico Riserva,2019,Fèlsina,Chianti Classico,Italia,Sangiovese,,4.42857,5,21,58,-1,-1,94,"25,20 €",,False
+Vino tinto,Oliver Conti Indispensable Negre,2020,Oliver Conti,Empordà,España,Garnacha / Samsó / Cabernet sauvignon,,5.0,5,1,4,-1,-1,-1,"6,30 €",,False
+Vino tinto,Convento Oreja Crianza,2019,Bodegas Convento de Oreja,Ribera del Duero,España,Tempranillo,,5.0,5,1,2,-1,-1,-1,"15,00 €",,False
+Vino tinto,Sincronia Negre,2020,Mesquida Mora,Mallorca,España,Callet / Mantonegro / Syrah / Merlot,ECO,4.5,5,2,4,90,-1,-1,"10,95 €",,False
+Vino tinto,Casar de Burbia Mencía,2018,Bodega Casar de Burbia,Bierzo,España,Mencía,ECO,4.04762,5,21,7,-1,90,91,"11,80 €",,False
+Vino tinto,Tocat de l'Ala,2018,Coca i Fitó & Roig Parals,Empordà,España,Garnacha / Cariñena / Syrah,,4.57143,5,7,10,-1,91,-1,"11,50 €",,False
+Vino tinto,Dehesa de los Canónigos Crianza 15 Meses,2019,Dehesa de los Canónigos,Ribera del Duero,España,Tempranillo / Cabernet sauvignon / Albillo,,4.77778,5,9,9,-1,-1,-1,"19,95 €",,False
+Vino tinto,Ysios,2016,Bodegas Ysios,Rioja,España,Tempranillo,,4.28571,5,7,7,-1,-1,-1,"30,00 €",,False
+Vino tinto,Bruto,2019,Bodegas Juan Gil,Jumilla,España,Monastrell,,4.33333,5,3,8,92,-1,-1,"35,95 €",,False
+Vino tinto,Portia Crianza,2019,Bodegas Portia,Ribera del Duero,España,Tempranillo,,4.66667,5,3,4,-1,-1,-1,"10,95 €",,False
+Vino tinto,Venta La Ossa Syrah,2019,Bodegas Mano a Mano,Castilla,España,Syrah,,4.625,5,8,6,-1,-1,-1,"12,95 €",,False
+Vino tinto,Baltasar Gracián Viñas Viejas El Héroe,2020,Bodegas San Alejandro,Calatayud,España,Garnacha,,4.2,5,5,6,90,-1,-1,"9,75 €",,False
+Vino tinto,Catena Alta Malbec,2018,Bodega Catena Zapata,Mendoza,Argentina,Malbec,,4.88889,5,9,13,-1,-1,-1,"35,50 €",,False
+Vino tinto,Viore 5 Meses Barrica,2018,Bodegas Riojanas,Toro,España,Tinta de Toro,,4.6,5,10,3,-1,-1,-1,"5,55 €",,False
+Vino tinto,Monte Toro 3 Añada Selección,2021,Bodegas Ramón Ramos,Toro,España,Tinta de Toro,,4.25,5,8,4,-1,-1,-1,"4,95 €",,False
+Vino tinto,Glárima Tinto,2021,Bodega Sommos,Somontano,España,Merlot / Tempranillo / Syrah / Cabernet sauvignon,,4.07692,5,13,7,-1,-1,-1,"4,50 €",,False
+Vino tinto,René Barbier Roble,2020,René Barbier,Penedès,España,Tempranillo / Garnacha / Torrontés,,4.5,5,10,6,-1,-1,-1,"4,10 €",,False
+Vino tinto,Príncipe de Viana Crianza,2018,Bodegas Prí­ncipe de Viana,Navarra,España,Tempranillo / Merlot / Cabernet sauvignon,,4.16667,5,6,4,-1,-1,-1,"4,95 €",,False
+Vino tinto,Tempus,2018,Altavins,Terra Alta,España,Syrah / Garnacha / Cariñena / Merlot,,4.5,5,6,10,-1,-1,-1,"12,80 €",,False
+Vino tinto,Queiron Mi Lugar,2018,Bodegas Queiron,Rioja,España,Tempranillo / Garnacha,,0.0,5,0,4,-1,-1,-1,"23,40 €",,False
+Vino tinto,Izadi Larrosa Negra,2020,Bodegas Izadi,Rioja,España,Garnacha,,4.4,5,5,25,91,-1,93,"8,55 €",,False
+Vino tinto,Pilgrim Mencía,2020,Bodegas Godelia,Bierzo,España,Mencía,,4.625,5,8,11,-1,-1,-1,"7,45 €",,False
+Vino tinto,Vi-Ve Maceración Carbónica,2021,Bodegas Valdelana,Rioja,España,Tempranillo / Viura,,0.0,5,0,0,-1,-1,-1,"6,95 €",,False
+Vino tinto,Ulls Negres,2020,Celler Oliveda,Empordà,España,Garnacha,,4.0,5,1,0,-1,-1,-1,"8,95 €",,False
+Vino tinto,Algueira Mencía,2021,Adega Algueira,Ribeira Sacra,España,Mencía,,3.875,5,8,10,-1,-1,-1,"11,95 €",,False
+Vino tinto,Avan Oak,2021,Bodegas y Viñedos Juan Manuel Burgos,Ribera del Duero,España,Tempranillo,,4.5,5,6,3,-1,-1,-1,"6,70 €",,False
+Vino tinto,Martina Negre,2021,Celler Sabaté,Priorat,España,Cariñena,,4.0,5,5,3,-1,-1,-1,"9,30 €",,False
+Vino tinto,Torres Purgatori,2020,Familia Torres,Costers del Segre,España,Cariñena / Garnacha / Syrah,,5.0,5,1,6,92,-1,-1,"32,60 €",,False
+Vino tinto,Château de Goëlane Chœur de l'Aube,2016,Château de Goëlane,Bordeaux-Supérieur,Francia,Merlot / Cabernet sauvignon,,0.0,5,0,2,-1,-1,-1,"10,45 €",,False
+Vino tinto,Protos Gran Reserva,2015,Bodegas Protos,Ribera del Duero,España,Tempranillo,,4.9,5,10,9,-1,-1,-1,"42,80 €",,False
+Vino tinto,Lanzaga,2018,Compañía de Vinos de Telmo Rodríguez,Rioja,España,Tempranillo / Graciano / Garnacha,ECO,4.0,5,4,22,95,-1,-1,"24,95 €",,False
+Vino tinto,La Celestina Vendimia Seleccionada,2016,Atalayas de Golbán,Ribera del Duero,España,Tempranillo,,4.25,5,4,10,91,-1,-1,"14,50 €",,False
+Vino tinto,Tentenublo Tinto,2019,Tentenublo Wines,Rioja,España,Tempranillo / Garnacha,,3.75,5,4,11,93,91,-1,"14,50 €",,False
+Vino tinto,Kimera,2019,LMT Wines - Luis Moya,Navarra,España,Garnacha,,4.0,5,1,4,-1,-1,-1,"13,00 €",,False
+Vino tinto,A Dos Manos,2018,A Pie de Tierra ,Méntrida,España,Garnacha,,0.0,5,0,3,92,92,-1,"11,95 €",,False
+Vino tinto,Los Cantos de Torremilanos,2020,Finca Torremilanos,Ribera del Duero,España,Tempranillo / Merlot,ECO,4.0,5,2,6,-1,-1,-1,"12,35 €",,False
+Vino tinto,Gotim Bru,2019,Castell del Remei,Costers del Segre,España,Tempranillo / Cabernet sauvignon / Merlot / Garnacha / Syrah,,4.13636,5,22,6,-1,-1,-1,"8,60 €",,False
+Vino tinto,Arienzo de Marqués de Riscal Crianza,2018,"Marqués de Riscal, Herederos",Rioja,España,Tempranillo / Mazuelo / Graciano,,4.25,5,8,3,-1,-1,-1,"8,55 €",,False
+Vino tinto,Agnvs Tempranillo,2020,Bodegas Valdelana,Rioja,España,Tempranillo / Graciano,,0.0,5,0,2,-1,-1,-1,"8,95 €",,False
+Vino tinto,Perelada 3 Fincas Crianza,2018,Perelada,Empordà,España,Garnacha / Merlot / Samsó / Syrah / Tempranillo / Cabernet sauvignon,,4.5,5,8,12,-1,-1,-1,"6,75 €",,False
+Vino tinto,Peique Tinto Mencía,2020,Bodegas Peique,Bierzo,España,Mencía,,4.125,5,8,8,-1,-1,-1,"5,95 €",,False
+Vino tinto,Adaras Calizo,2020,Bodegas Almanseñas,Almansa,España,Garnacha tintorera,ECO,3.82353,5,17,31,-1,-1,-1,"5,15 €",,False
+Vino tinto,Solabal Crianza,2018,Bodegas y Viñedos Solabal,Rioja,España,Tempranillo,,4.6875,5,16,12,-1,-1,-1,"8,95 €",,False
+Vino tinto,Trus Roble,2021,Bodegas Trus,Ribera del Duero,España,Tempranillo,,4.85714,5,7,11,-1,-1,-1,"9,50 €",,False
+Vino tinto,Viña Sastre Roble,2020,Viña Sastre,Ribera del Duero,España,Tempranillo,,4.125,5,8,3,-1,-1,-1,"10,50 €",,False
+Vino tinto,Puerta Vieja Crianza Selección,2019,Bodegas Riojanas,Rioja,España,Tempranillo,,4.54545,5,11,10,-1,-1,-1,"6,95 €",,False
+Vino tinto,Vol d'Ànima de Raimat Negre,2020,Raimat,Costers del Segre,España,Cabernet sauvignon / Tempranillo / Syrah,,4.66667,5,3,1,-1,-1,-1,"7,80 €",,False
+Vino tinto,4 Monos Cien Lanzas,2019,4 Monos Viticultores,Vinos de Madrid,España,Garnacha / Cariñena / Garnacha blanca,,4.0,5,1,0,-1,-1,-1,"20,50 €",,False
+Vino tinto,Can Blau,2019,Cellers Can Blau,Montsant,España,Cariñena / Syrah / Garnacha,,4.5,5,4,17,-1,-1,-1,"11,95 €",,False
+Vino tinto,Finca Moncloa,2018,Finca Moncloa,Cádiz,España,Syrah / Cabernet sauvignon / Tintilla de Rota / Petit verdot,,4.33333,5,15,6,-1,-1,-1,"15,50 €",,False
+Vino tinto,Roda,2018,Bodegas Roda,Rioja,España,Tempranillo / Graciano / Garnacha,,4.57143,5,14,34,93,-1,-1,"27,50 €",,False
+Vino tinto,4 Monos GR10,2020,4 Monos Viticultores,Vinos de Madrid,España,Garnacha / Syrah / Cariñena,,3.75,5,4,9,-1,-1,-1,"13,90 €",,False
+Vino tinto,Vella Lola Negre,2019,Celler Viníric,Empordà,España,Garnacha / Syrah,,5.0,5,1,3,-1,-1,-1,"8,40 €",,False
+Vino tinto,Santa Digna Carmenère,2020,Miguel Torres Chile,Valle Central,Chile,Carmenère / Cabernet sauvignon,,4.0,5,3,2,-1,-1,-1,"12,50 €",,False
+Vino tinto,Vivanco Reserva,2015,Bodegas Vivanco,Rioja,España,Tempranillo / Graciano,,4.35,5,20,18,92,-1,-1,"13,70 €",,False
+Vino tinto,La Garnatxa Fosca del Priorat,2020,Proyecto Garnachas,Priorat,España,Garnacha,,3.85714,5,7,6,-1,-1,-1,"13,30 €",,False
+Vino tinto,Cuatro Pasos,2021,Bodega Cuatro Pasos,Bierzo,España,Mencía,,4.33333,5,9,5,-1,-1,-1,"7,45 €",,False
+Vino tinto,Maimó,2018,Josep Grau Viticultor,Montsant,España,Garnacha,ECO,5.0,5,2,3,-1,-1,-1,"26,90 €",,False
+Vino tinto,De Beroz Nuestro Roble,2020,Bodega de Beroz,Somontano,España,Cabernet sauvignon / Merlot / Tempranillo / Moristel,,4.21429,5,14,5,-1,-1,-1,"7,80 €",,False
+Vino tinto,Pagos de Valcerracin Crianza,2018,Pagos de Valcerracín,Ribera del Duero,España,Tempranillo,,4.0,5,2,3,-1,-1,-1,"15,00 €",,False
+Vino tinto,Chivite Colección 125 Reserva,2017,Chivite,Navarra,España,Tempranillo,,4.25,5,8,4,-1,-1,-1,"21,80 €",,False
+Vino tinto,Losada,2019,Losada Vinos de Finca,Bierzo,España,Mencía,,4.09091,5,11,9,-1,-1,-1,"11,80 €",,False
+Vino tinto,Faustino I Gran Reserva 75 Aniversario,2012,Bodegas Faustino,Rioja,España,Tempranillo,,5.0,5,3,5,-1,-1,-1,"27,90 €",,False
+Vino tinto,Planetes de Nin Garnatxes,2021,Família Nin-Ortiz,Priorat,España,Garnacha,,0.0,5,0,4,93,-1,-1,"29,40 €",,False
+Vino tinto,Domaine Jaume Côtes du Rhône Rouge,2020,Domaine Jaume,Côtes du Rhône,Francia,Grenache / Syrah,,0.0,5,0,3,-1,-1,-1,"8,95 €",,False
+Vino tinto,Protocolo Tinto,2020,Dominio de Eguren,Castilla,España,Tempranillo,ECO,3.8,5,10,3,-1,-1,-1,"4,20 €",,False
+Vino tinto,Lagunilla Crianza,2018,Bodegas Lagunilla,Rioja,España,Tempranillo / Garnacha,,4.0,5,3,3,-1,-1,-1,"6,35 €",,False
+Vino tinto,Roda I,2017,Bodegas Roda,Rioja,España,Tempranillo,,4.90476,5,21,22,91,-1,-1,"46,00 €",,False
+Vino tinto,Brutus Son Fortesa,2018,Bodega Ribas,Mallorca,España,Gargollassa / Syrah,ECO,5.0,5,2,4,-1,-1,-1,"20,10 €",,False
+Vino tinto,Monte Toro 5 Roble Francés,2019,Bodegas Ramón Ramos,Toro,España,Tinta de Toro,,3.5,5,2,3,-1,-1,-1,"8,20 €",,False
+Vino tinto,La Bruja de Rozas,2021,Comando G Viticultores,Vinos de Madrid,España,Garnacha,,4.21053,5,19,29,-1,-1,-1,"23,95 €",,False
+Vino tinto,Xabre,2020,Fento Wines,Ribeira Sacra,España,Mencía / Sousón / Garnacha / Juan García,,4.54545,5,11,8,-1,-1,-1,"15,95 €",,False
+Vino tinto,Mas d'en Compte Negre,2016,Celler Cal Pla,Priorat,España,Cariñena / Garnacha / Cabernet sauvignon,,4.44444,5,9,13,-1,-1,-1,"21,50 €",,False
+Vino tinto,Corriente,2020,Compañía de Vinos de Telmo Rodríguez,Rioja,España,Tempranillo / Garnacha / Graciano,ECO,2.875,5,8,20,-1,-1,-1,"11,60 €",,False
+Vino tinto,Carmelo Rodero Reserva,2016,Bodegas Rodero,Ribera del Duero,España,Tempranillo / Cabernet sauvignon,,4.75,5,4,9,-1,-1,-1,"69,90 €",,False
+Vino tinto,Dominio de Campo Viejo,2016,Bodegas Campo Viejo,Rioja,España,Tempranillo / Graciano / Mazuelo,,4.5,5,4,1,-1,-1,-1,"21,25 €","25,00 €",True
+Vino tinto,Mancuso Garnacha,2019,Mas de Mancuso,Cariñena,España,Garnacha,,0.0,5,0,3,93,-1,-1,"11,95 €",,False
+Vino tinto,Gran Enemigo Gualtallary Single Vineyard,2017,Bodega Aleanna,Mendoza,Argentina,Cabernet franc / Malbec,,4.7,5,20,17,98,-1,97,"98,80 €",,False
+Vino tinto,Costes du Château Féret-Lambert,2016,Château Féret-Lambert,Bordeaux,Francia,Merlot / Cabernet sauvignon,,4.5,5,2,6,-1,-1,-1,"9,30 €",,False
+Vino tinto,Treinta Mil Maravedíes,2019,Bodega Marañones,Vinos de Madrid,España,Garnacha / Morenillo,,4.2,5,5,12,-1,94,94,"12,95 €",,False
+Vino tinto,El Veïnat Garnacha,2021,Viñedos Singulares ,Montsant,España,Garnacha,,4.5,5,2,7,-1,-1,-1,"8,20 €",,False
+Vino tinto,Cantele Salento Rosso Amativo,2019,Cantele,Salento,Italia,Primitivo / Negroamaro,,4.66667,5,12,3,-1,-1,-1,"20,75 €",,False
+Vino tinto,Gran Enemigo,2018,Bodega Aleanna,Mendoza,Argentina,Cabernet franc / Cabernet sauvignon / Petit verdot / Malbec,,4.5,5,10,18,-1,-1,96,"69,50 €",,False
+Vino tinto,El Valao,2019,Vinos Valtuille,Bierzo,España,Mencía,,4.0,5,3,18,93,91,-1,"12,80 €",,False
+Vino tinto,Francis Ford Coppola Diamond Zinfandel,2018,Francis Ford Coppola Winery,California,Estados Unidos,Zinfandel / Petite syrah,,4.0,5,2,10,-1,-1,-1,"18,90 €",,False
+Vino tinto,Escondite del Ardacho El Abundillano,2020,Tentenublo Wines,Rioja,España,Garnacha / Tempranillo / Viura / Malvasía,,0.0,5,0,2,94,-1,-1,"31,70 €",,False
+Vino tinto,Señora de las Alturas,2020,Viña Zorzal,Navarra,España,Garnacha,,4.5,5,4,38,-1,-1,-1,"19,95 €",,False
+Vino tinto,Beronia Crianza,2019,Bodegas Beronia,Rioja,España,Tempranillo / Garnacha / Graciano,,4.26316,5,38,15,-1,-1,-1,"7,45 €",,False
+Vino tinto,Viña Herminia Reserva,2016,Viña Herminia,Rioja,España,Tempranillo / Garnacha / Graciano,,4.5,5,4,4,-1,-1,-1,"9,95 €",,False
+Vino tinto,Diaz Bayo 15 Meses Crianza,2020,Bodega Díaz Bayo,Ribera del Duero,España,Tempranillo,,4.25,5,4,6,-1,-1,-1,"11,95 €",,False
+Vino tinto,Vulcano Tinto de Lanzarote,2021,Bodega Vulcano,Lanzarote,España,Listán negro,,4.83333,5,6,5,-1,-1,-1,"20,90 €",,False
+Vino tinto,Sierra Cantabria Reserva,2015,Sierra Cantabria,Rioja,España,Tempranillo / Graciano,,4.5,5,2,2,91,-1,-1,"16,40 €",,False
+Vino tinto,Yellow Tail Shiraz,2021,Yellow Tail,Sin indicación geográfica,Australia,Syrah,,0.0,5,0,3,-1,-1,-1,"7,95 €",,False
+Vino tinto,Raíces Graciano,2017,Raíces Ibéricas - Master Winemakers,Sin indicación geográfica,España,Graciano,,3.0,5,1,1,-1,90,-1,"12,66 €","14,90 €",True
+Vino tinto,Alquez,2019,Sommos-Alianza de Garapiteros,Calatayud,España,Garnacha,,4.5,5,8,7,-1,-1,-1,"10,95 €",,False
+Vino tinto,Nit de les Garnatxes Llicorella,2021,Celler Capçanes,Montsant,España,Garnacha,,3.5,5,2,4,-1,-1,-1,"11,95 €",,False
+Vino tinto,Ferratus AO,2020,Bodegas Cuevas Jiménez,Ribera del Duero,España,Tempranillo,,4.125,5,8,4,-1,-1,-1,"9,95 €",,False
+Vino tinto,Bassus Pinot Noir,2020,Bodegas Hispano-Suizas,Utiel-Requena,España,Pinot noir,,4.375,5,8,12,-1,-1,-1,"23,50 €",,False
+Vino tinto,Cercium,2019,Mas Llunes,Empordà,España,Garnacha / Samsó / Syrah,,5.0,5,2,2,-1,-1,-1,"8,95 €",,False
+Vino tinto,Francis Ford Coppola Diamond Red Blend,2018,Francis Ford Coppola Winery,California,Estados Unidos,Cabernet sauvignon / Petite syrah / Merlot / Syrah / Zinfandel,,5.0,5,1,2,-1,-1,-1,"21,90 €",,False
+Vino tinto,Grand Veneur Les Champauvins,2020,Vignobles Alain Jaume,Côtes du Rhône,Francia,Garnacha / Syrah / Monastrell,ECO,4.0,5,2,8,-1,-1,92,"16,60 €",,False
+Vino tinto,Terra Remota Camino,2019,Terra Remota,Empordà,España,Syrah / Garnacha / Cabernet sauvignon / Tempranillo,ECO,4.75,5,8,5,-1,-1,-1,"17,40 €",,False
+Vino tinto,Terra d'Uro Finca La Rana,2019,Hacienda Terra d'Uro,Toro,España,Tinta de Toro,ECO,4.0,5,6,7,-1,-1,-1,"9,95 €",,False
+Vino tinto,Jesús Yllera,2016,Yllera,Ribera del Duero,España,Tempranillo / Cabernet sauvignon / Merlot,,4.0,5,1,6,93,-1,-1,"22,75 €",,False
+Vino tinto,Bosque de Matasnos Edición Limitada,2018,Bosque de Matasnos,Ribera del Duero,España,Tempranillo / Merlot,,4.0,5,1,2,-1,-1,-1,"39,95 €",,False
+Vino tinto,Albiker,2021,Bodegas Altún,Rioja,España,Tempranillo / Viura,,5.0,5,3,5,-1,-1,-1,"6,90 €",,False
+Vino tinto,Cims de Porrera Clàssic,2013,Cims de Porrera,Priorat,España,Cariñena,,4.66667,5,3,7,-1,-1,-1,"46,95 €",,False
+Vino tinto,Legaris Crianza,2019,Legaris,Ribera del Duero,España,Tempranillo / Cabernet sauvignon,,4.625,5,8,9,-1,-1,-1,"15,95 €",,False
+Vino tinto,Matsu El Recio,2020,Matsu,Toro,España,Tinta de Toro,,4.35,5,20,13,-1,-1,-1,"14,85 €",,False
+Vino tinto,Font de la Figuera,2019,Clos Figueras,Priorat,España,Garnacha / Syrah / Cariñena / Cabernet sauvignon,,4.75,5,4,3,91,-1,93,"33,50 €",,False
+Vino tinto,Viñas del Vero Roble,2021,Viñas del Vero,Somontano,España,Cabernet sauvignon / Merlot,,4.0,5,13,3,-1,-1,-1,"4,80 €",,False
+Vino tinto,Tunante de Azabache,2021,Fincas de Azabache,Rioja,España,Tempranillo,,4.33333,5,6,9,-1,-1,-1,"4,95 €",,False
+Vino tinto,Salinas Mo Monastrell,2018,Bodegas Sierra Salinas,Alicante,España,Monastrell / Cabernet sauvignon / Alicante bouschet,,4.2,5,15,11,-1,-1,-1,"5,80 €",,False
+Vino tinto,Viña Ijalba Tempranillo,2021,Viña Ijalba,Rioja,España,Tempranillo,ECO,4.0,5,3,2,-1,-1,-1,"5,90 €",,False
+Vino tinto,22 Pies Crianza,2018,Locos del Vino,Rioja,España,Tempranillo,,4.0,5,2,2,-1,-1,-1,"7,95 €",,False
+Vino tinto,Més Que Paraules Negre,2020,Més Que Paraules,Catalunya,España,Syrah / Cabernet sauvignon / Merlot / Sumoll,,3.25,5,4,1,-1,-1,-1,"9,90 €",,False
+Vino tinto,Alberto Longo Puglia Primitivo,2019,Alberto Longo,Puglia,Italia,Primitivo,,0.0,5,0,0,-1,-1,-1,"14,25 €",,False
+Vino tinto,Raimat El Silenci del Molí,2018,Raimat,Costers del Segre,España,Cabernet sauvignon,,4.75,5,4,5,-1,-1,-1,"10,95 €",,False
+Vino tinto,Olivares Tinto Roble,2020,Bodegas Olivares,Jumilla,España,Monastrell / Garnacha / Syrah,,4.0,5,1,3,90,-1,-1,"6,95 €",,False
+Vino tinto,Borsao Zarihs,2018,Bodegas Borsao,Campo de Borja,España,Syrah,,4.14286,5,7,2,-1,-1,-1,"14,65 €",,False
+Vino tinto,Atteca,2019,Bodegas Ateca,Calatayud,España,Garnacha,,4.42857,5,7,8,-1,93,-1,"12,50 €",,False
+Vino tinto,Las Pizarras Fabla # 506,2021,Raíces Ibéricas - Master Winemakers,Calatayud,España,Garnacha / Syrah,,3.0,5,1,0,-1,-1,-1,"7,95 €",,False
+Vino tinto,Luzón Colección Crianza,2018,Bodegas Luzón,Jumilla,España,Monastrell / Garnacha tintorera,,4.5,5,2,6,-1,-1,-1,"11,95 €",,False
+Vino tinto,Dehesa Gago,2021,Compañía de Vinos de Telmo Rodríguez,Toro,España,Tinta de Toro,,4.1,5,10,10,-1,-1,-1,"8,95 €",,False
+Vino tinto,Azpilicueta Origen,2019,Bodegas Campo Viejo,Rioja,España,Tempranillo,,4.5,5,4,3,-1,-1,-1,"10,95 €",,False
+Vino tinto,Muriel Fincas de la Villa Gran Reserva,2011,Bodegas Muriel,Rioja,España,Tempranillo,,4.66667,5,9,6,-1,-1,-1,"15,50 €",,False
+Vino tinto,Miraculus Reserva,2015,Viña Santa Marina,Extremadura,España,Cabernet sauvignon / Merlot / Syrah / Cabernet franc / Petit verdot,,0.0,5,0,1,-1,-1,-1,"16,96 €","19,95 €",True
+Vino tinto,Luzón Colección Joven Monastrell,2020,Bodegas Luzón,Jumilla,España,Monastrell,,4.0,5,4,6,-1,-1,93,"6,80 €",,False
+Vino tinto,Les Alcusses,2018,Celler del Roure,Valencia,España,Monastrell / Syrah / Merlot / Cabernet sauvignon / Tempranillo,,4.03333,5,30,5,92,-1,-1,"10,50 €",,False
+Vino tinto,Clos Montblanc Syrah Únic,2019,Clos Montblanc,Conca de Barberà,España,Syrah,,4.5,5,2,1,-1,-1,-1,"10,50 €",,False
+Vino tinto,Finca Viladellops Negre,2019,Finca Viladellops,Penedès,España,Garnacha / Syrah,ECO,5.0,5,1,0,-1,-1,-1,"14,50 €",,False
+Vino tinto,Viñas del Vero Crianza,2018,Viñas del Vero,Somontano,España,Tempranillo / Cabernet sauvignon,,4.0,5,8,2,-1,-1,-1,"7,10 €",,False
+Vino tinto,Taanug Cabernet + Merlot,2021,Bodegas Pinord,Penedès,España,Cabernet sauvignon / Merlot,,5.0,5,1,2,-1,-1,-1,"7,60 €",,False
+Vino tinto,Emilio Moro La Felisa,2021,Emilio Moro,Ribera del Duero,España,Tempranillo,ECO,4.0,5,5,12,-1,-1,-1,"25,95 €",,False
+Vino tinto,La Guinardera Vi de Vila de Gratallops,2017,Celler Balaguer i Cabré,Priorat,España,Garnacha,,4.33333,5,3,8,-1,-1,-1,"18,50 €",,False
+Vino tinto,La Florens,2020,Josep Grau Viticultor,Montsant,España,Garnacha,ECO,5.0,5,4,12,94,-1,93,"23,95 €",,False
+Vino tinto,Añares Crianza,2019,Bodegas Olarra,Rioja,España,Tempranillo / Garnacha / Mazuelo / Graciano,,3.6,5,5,8,-1,-1,-1,"6,90 €",,False
+Vino tinto,Cabrida,2019,Celler Capçanes,Montsant,España,Garnacha,,3.0,5,1,1,-1,-1,-1,"36,60 €",,False
+Vino tinto,Tardencuba Autor,2018,Tardencuba,Toro,España,Tinta de Toro,,4.77778,5,9,2,-1,-1,-1,"14,90 €",,False
+Vino tinto,Parotet,2017,Celler del Roure,Valencia,España,Mandó / Arcos,,4.0,5,5,19,93,-1,-1,"16,90 €",,False
+Vino tinto,Planeta Etna Rosso,2020,Planeta,Etna,Italia,Nerello mascalese,,4.0,5,6,22,-1,-1,-1,"18,76 €",,False
+Vino tinto,El Inquilino Garnacha,2019,Viña Zorzal,Rioja,España,Garnacha,,0.0,5,0,1,-1,-1,-1,"9,50 €",,False
+Vino tinto,Valduero 2 Maderas,2018,Bodegas Valduero,Ribera del Duero,España,Tempranillo,,4.5,5,4,8,-1,-1,-1,"23,80 €",,False
+Vino tinto,Tridente Tempranillo,2019,Bodegas Tridente,Castilla y León,España,Tempranillo,,3.0,5,2,2,-1,-1,-1,"11,95 €",,False
+Vino tinto,Château de la Dauphine,2017,Château de la Dauphine,Fronsac,Francia,Merlot / Cabernet franc,,5.0,5,1,1,90,-1,-1,"21,80 €",,False
+Vino tinto,Terroir Històric Negre,2019,Terroir al Límit,Priorat,España,Garnacha / Cariñena,,4.75,5,4,31,92,-1,93,"18,50 €",,False
+Vino tinto,Lafou El Sender,2019,Lafou Celler ,Terra Alta,España,Garnacha / Syrah / Morenillo,,4.25,5,8,5,91,-1,-1,"11,40 €",,False
+Vino tinto,Naluar,2020,Erre Vinos,Ribera del Duero,España,Tempranillo,,5.0,5,3,5,-1,-1,-1,"18,00 €",,False
+Vino tinto,Gotes del Montsant,2018,Alfredo Arribas,Montsant,España,Cariñena / Garnacha,,3.0,5,1,4,-1,-1,-1,"11,86 €","13,95 €",True
+Vino tinto,Cruor,2018,Casa Gran del Siurana,Priorat,España,Samsó / Garnacha / Syrah,,4.5,5,6,2,-1,-1,-1,"19,95 €",,False
+Vino tinto,Chapoutier Les Meysonniers Rouge,2020,M. Chapoutier,Crozes-Hermitage,Francia,Syrah,,4.0,5,2,3,-1,-1,90,"19,90 €",,False
+Vino tinto,Gresa,2015,Vinyes Olivardots,Empordà,España,Garnacha / Cariñena / Syrah / Cabernet sauvignon,,4.25,5,4,3,-1,-1,-1,"23,90 €",,False
+Vino tinto,The Flower and the Bee Sousón,2018,Coto de Gomariz,Ribeiro,España,Sousón,,3.33333,5,3,3,-1,-1,-1,"8,25 €","9,70 €",True
+Vino tinto,D'Iatra Gratallops Vi de Vila,2015,Cal Batllet,Priorat,España,Cariñena / Garnacha / Cabernet sauvignon / Merlot / Syrah,ECO,4.625,5,8,9,-1,-1,-1,"14,23 €","16,75 €",True
+Vino tinto,La Maldita Revolution,2019,Bodegas La Maldita,Rioja,España,Garnacha,,3.8,5,10,44,-1,-1,-1,"11,85 €",,False
+Vino tinto,Château Lalande-Borie,2017,Château Lalande-Borie,Saint-Julien,Francia,Merlot / Cabernet franc / Cabernet sauvignon,,4.0,5,1,2,-1,-1,-1,"32,40 €",,False
+Vino tinto,Viña Herminia Crianza,2018,Viña Herminia,Rioja,España,Tempranillo / Garnacha,,4.0,5,2,0,-1,-1,-1,"6,95 €",,False
+Vino tinto,Boada Roble,2018,Yllera,Ribera del Duero,España,Tempranillo,,0.0,5,0,1,-1,-1,-1,"7,80 €",,False
+Vino tinto,Yllera Crianza 12 Meses,2019,Yllera,Castilla y León,España,Tempranillo,,4.25,5,20,17,-1,-1,-1,"7,20 €",,False
+Vino tinto,Cantos de Valpiedra,2018,Finca Valpiedra,Rioja,España,Tempranillo,,4.0,5,5,4,91,-1,91,"9,50 €",,False
+Vino tinto,Dominio de Tares Cepas Viejas,2018,Dominio de Tares,Bierzo,España,Mencía,,4.0625,5,16,12,-1,-1,-1,"14,90 €",,False
+Vino tinto,El Circo Acróbata,2021,Grandes Vinos,Cariñena,España,Garnacha,,4.5,5,4,6,-1,-1,-1,"3,90 €",,False
+Vino tinto,Angelitos Negros,2020,Casa Maguila,Toro,España,Tinta de Toro,,4.5,5,2,6,-1,-1,-1,"9,95 €",,False
+Vino tinto,Orben,2019,Bodegas Orben,Rioja,España,Tempranillo / Graciano,,4.2,5,10,11,-1,-1,93,"22,95 €",,False
+Vino tinto,Encomienda de la Vega,2020,Bodegas Divina Proporción,Toro,España,Tinta de Toro,,4.0,5,6,1,-1,-1,-1,"6,50 €",,False
+Vino tinto,Viña Ijalba Crianza,2019,Viña Ijalba,Rioja,España,Tempranillo / Graciano,ECO,4.33333,5,3,8,-1,-1,-1,"9,95 €",,False
+Vino tinto,Allende,2014,Finca Allende,Rioja,España,Tempranillo,,4.88889,5,9,6,90,-1,-1,"20,80 €",,False
+Vino tinto,Alicante Bouschet by Tarima,2018,Bodegas Volver,Alicante,España,Alicante bouschet / Monastrell,,0.0,5,0,3,-1,-1,-1,"18,20 €",,False
+Vino tinto,Teófilo Reyes 15 Meses,2019,Bodegas Reyes,Ribera del Duero,España,Tempranillo,,4.0,5,4,3,-1,-1,-1,"15,80 €",,False
+Vino tinto,Petit Pittacum,2021,Viñedos y Bodegas Pittacum,Bierzo,España,Mencía,,4.36364,5,11,11,-1,-1,-1,"7,20 €",,False
+Vino tinto,La Garnacha Salvaje del Moncayo,2019,Proyecto Garnachas,Ribera del Queiles,España,Garnacha,,4.16667,5,6,8,-1,-1,-1,"8,20 €",,False
+Vino tinto,Viña Salceda Reserva,2017,Bodegas Viña Salceda,Rioja,España,Tempranillo / Graciano,,4.16667,5,6,5,-1,-1,-1,"13,50 €",,False
+Vino tinto,Casa Vella d'Espiells,2018,Juvé y Camps,Penedès,España,Cabernet sauvignon,,5.0,5,1,1,-1,-1,-1,"12,45 €",,False
+Vino tinto,Entrelobos,2020,Viñedos Singulares ,Ribera del Duero,España,Tempranillo,,3.0,5,1,1,-1,-1,-1,"8,65 €",,False
+Vino tinto,Ses Nines Negre,2020,Tianna Negre - Ses Nines,Mallorca,España,Mantonegro / Cabernet sauvignon / Callet,,4.375,5,8,3,-1,-1,-1,"10,90 €",,False
+Vino tinto,Carmelo Rodero Valtarreña,2019,Bodegas Rodero,Ribera del Duero,España,Tempranillo / Cabernet sauvignon,,3.66667,5,3,2,-1,-1,-1,"50,80 €",,False
+Vino tinto,Garum,2020,Bodegas Luis Pérez,Cádiz,España,Merlot / Syrah / Petit verdot / Tintilla de Rota,,4.25,5,16,14,-1,-1,-1,"12,75 €",,False
+Vino tinto,Taanug Tempranillo,2020,Bodegas Pinord,Penedès,España,Tempranillo,,5.0,5,1,0,-1,-1,-1,"6,90 €",,False
+Vino tinto,Montecillo Crianza,2018,Bodegas Montecillo,Rioja,España,Tempranillo / Garnacha,,4.0,5,1,0,-1,-1,-1,"7,95 €",,False
+Vino tinto,Mibal Joven,2021,Hornillos Ballesteros,Ribera del Duero,España,Tempranillo,,4.33333,5,3,3,-1,-1,-1,"6,75 €",,False
+Vino tinto,Ninín,2019,Bodegas Izquierdo ,Ribera del Duero,España,Tempranillo,,0.0,5,0,0,-1,-1,-1,"9,60 €",,False
+Vino tinto,Cérvoles Garnatxa,2019,Cérvoles Celler,Costers del Segre,España,Garnacha,,4.33333,5,3,5,-1,-1,-1,"14,65 €",,False
+Vino tinto,Borsao Crianza,2017,Bodegas Borsao,Campo de Borja,España,Garnacha / Tempranillo / Merlot,,4.42857,5,7,4,-1,-1,-1,"9,95 €",,False
+Vino tinto,Hombros,2019,Bodega Casar de Burbia,Bierzo,España,Mencía,ECO,4.5,5,8,9,91,92,-1,"16,50 €",,False
+Vino tinto,Honoro Vera Rioja,2020,Bodegas Juan Gil,Rioja,España,Tempranillo,,3.72727,5,11,6,-1,-1,-1,"5,95 €",,False
+Vino tinto,Borsao Tinto Selección,2021,Bodegas Borsao,Campo de Borja,España,Garnacha / Syrah / Tempranillo,,4.13043,5,23,9,-1,-1,-1,"4,95 €",,False
+Vino tinto,Boada Reserva,2012,Yllera,Ribera del Duero,España,Tempranillo,,5.0,5,3,5,-1,-1,-1,"15,95 €",,False
+Vino tinto,Hacienda Monasterio Reserva,2018,Bodegas Hacienda Monasterio,Ribera del Duero,España,Tempranillo / Cabernet sauvignon,ECO,4.5,5,4,32,-1,-1,-1,"60,00 €",,False
+Vino tinto,Sericis Bobal,2018,Bodegas Murviedro,Utiel-Requena,España,Bobal,,0.0,5,0,3,-1,-1,-1,"10,50 €",,False
+Vino tinto,Azpilicueta Crianza,2019,Bodegas Campo Viejo,Rioja,España,Tempranillo / Graciano / Mazuelo,,4.28571,5,35,9,-1,-1,-1,"8,80 €",,False
+Vino tinto,Tierra Savia Piu Ánfora,2020,Bodegas Tierra Savia,Sin indicación geográfica,España,Tempranillo / Garnacha,ECO,0.0,5,0,1,-1,-1,-1,"16,20 €",,False
+Vino tinto,Francis Ford Coppola Diamond Claret,2018,Francis Ford Coppola Winery,California,Estados Unidos,Cabernet sauvignon / Petit verdot / Cabernet franc / Merlot,,5.0,5,1,6,-1,-1,-1,"24,50 €",,False
+Vino tinto,La Tarara,2018,Bodega Obalo,Rioja,España,Tempranillo,,3.66667,5,3,2,-1,-1,-1,"9,50 €",,False
+Vino tinto,Viña Arnáiz Crianza,2019,García-Carrión,Ribera del Duero,España,Tempranillo,,3.5,5,4,3,-1,-1,-1,"9,50 €",,False
+Vino tinto,Nekeas Los Olivos Reserva,2016,Bodegas Nekeas,Navarra,España,Cabernet sauvignon / Merlot,,0.0,5,0,5,-1,-1,-1,"10,90 €",,False
+Vino tinto,Penfolds Koonunga Hill Shiraz-Cabernet,2019,Penfolds,Sin indicación geográfica,Australia,Syrah / Cabernet sauvignon,,4.2,5,10,17,-1,-1,-1,"14,90 €",,False
+Vino tinto,L'Efecte Volador,2021,Josep Grau Viticultor,Montsant,España,Garnacha / Cariñena,,3.75,5,4,1,-1,-1,-1,"8,95 €",,False
+Vino tinto,Abadal Mandó,2018,Bodegas Abadal,Pla de Bages,España,Mandó,,0.0,5,0,6,-1,91,-1,"14,25 €",,False
+Vino tinto,Campo Viejo Vendimia Seleccionada,2019,Bodegas Campo Viejo,Rioja,España,Tempranillo,,4.4,5,15,4,-1,-1,-1,"6,20 €",,False
+Vino tinto,Estancia Piedra Roble,2020,Bodega Estancia Piedra,Toro,España,Tempranillo / Garnacha,,0.0,5,0,2,-1,-1,-1,"8,70 €",,False
+Vino tinto,Marqués de Burgos Crianza,2018,Bodegas Lan,Ribera del Duero,España,Tempranillo,,5.0,5,1,1,-1,-1,-1,"11,95 €",,False
+Vino tinto,Solà Fred Negre,2020,Celler Masroig,Montsant,España,Samsó,,4.2,5,5,1,-1,-1,-1,"6,95 €",,False
+Vino tinto,Jordi Miró Serendipity Double Mass,2020,Celler Jordi Miró,Terra Alta,España,Garnacha,,4.0,5,1,0,-1,-1,-1,"9,95 €",,False
+Vino tinto,Vespres,2020,Josep Grau Viticultor,Montsant,España,Garnacha / Merlot,,4.0,5,2,3,91,-1,92,"15,00 €",,False
+Vino tinto,Gratavinum 2·pi·r,2021,Gratavinum,Priorat,España,Garnacha / Cariñena / Cabernet sauvignon / Syrah,,4.5,5,4,1,-1,-1,-1,"23,80 €",,False
+Vino tinto,Cair Selección La Aguilera,2016,Dominio de Cair,Ribera del Duero,España,Tempranillo,,0.0,5,0,6,-1,-1,-1,"17,90 €",,False
+Vino tinto,Petit Almodí Negre,2021,Altavins,Terra Alta,España,Garnacha / Cariñena / Syrah,,4.6,5,10,11,-1,-1,-1,"5,70 €",,False
+Vino tinto,Hacienda López de Haro Tempranillo,2020,Hacienda López de Haro,Rioja,España,Tempranillo,,4.36364,5,11,4,-1,-1,-1,"5,95 €",,False
+Vino tinto,Viore Tinto,2020,Bodegas Riojanas,Toro,España,Tinta de Toro,,4.5,5,2,1,-1,-1,-1,"4,95 €",,False
+Vino tinto,Pinord NOX Tinto Misterio,2021,Bodegas Pinord,Penedès,España,Cabernet sauvignon / Merlot / Tempranillo,,4.66667,5,6,5,-1,-1,-1,"4,90 €",,False
+Vino tinto,El Pacto,2019,Hacienda López de Haro,Rioja,España,Tempranillo / Garnacha,,3.8,5,5,5,-1,-1,92,"12,50 €",,False
+Vino tinto,Pepe Yllera Roble,2019,Yllera,Ribera del Duero,España,Tempranillo / Cabernet sauvignon,,4.5,5,18,43,-1,-1,-1,"7,95 €",,False
+Vino tinto,Valderiz,2019,Bodegas y Viñedos Valderiz,Ribera del Duero,España,Tempranillo,,4.4,5,5,8,-1,-1,94,"21,90 €",,False
+Vino tinto,Larchago Crianza,2019,Bodegas Familia Chávarri,Rioja,España,Tempranillo,,4.0,5,1,4,-1,-1,92,"9,50 €",,False
+Vino tinto,12 Volts,2021,4 Kilos Vinícola,Mallorca,España,Callet / Fogoneu / Syrah / Cabernet sauvignon / Merlot,,4.55,5,20,18,-1,-1,-1,"17,30 €",,False
+Vino tinto,Bohórquez,2014,Bodegas Bohórquez,Ribera del Duero,España,Tempranillo / Cabernet sauvignon / Merlot,,4.5,5,4,7,-1,-1,-1,"21,65 €",,False
+Vino tinto,Château La Tour Figeac,2018,Château La Tour Figeac,Saint-Émilion Grand Cru,Francia,Merlot / Cabernet franc,,0.0,5,0,7,91,-1,-1,"52,90 €",,False
+Vino tinto,Calcarius Puglia Rosso Nù Litr,-1,Calcarius,Puglia,Italia,Negroamaro,ECO,4.47368,5,19,30,-1,-1,-1,"14,25 €",,False
+Vino tinto,Clos Petó,2021,Celler Francisco Castillo - Clos Dominic,Priorat,España,Cabernet sauvignon / Garnacha / Cariñena,,4.5,5,2,1,-1,-1,-1,"20,75 €",,False
+Vino tinto,El Grifo Tinto Ariana,2018,Bodegas El Grifo,Lanzarote,España,Listán negro / Syrah,,4.28571,5,7,5,-1,-1,-1,"23,95 €",,False
+Vino tinto,Pagos de Valcerracin Roble,2019,Pagos de Valcerracín,Ribera del Duero,España,Tempranillo,,4.0,5,3,6,-1,-1,-1,"8,95 €",,False
+Vino tinto,La Nieta,2020,Viñedos de Páganos,Rioja,España,Tempranillo,,4.57143,5,7,15,-1,-1,-1,"110,00 €",,False
+Vino tinto,Mengoba Mencía de Espanillo,2019,Bodegas y Viñedos Mengoba,Bierzo,España,Mencía,,3.85714,5,7,12,-1,-1,-1,"26,80 €",,False
+Vino tinto,Las Gundiñas,2019,La Vizcaína de Vinos,Bierzo,España,Mencía / Estaladiña / Sousón / Alicante bouschet,,3.66667,5,3,20,94,-1,-1,"21,90 €",,False
+Vino tinto,Castillo de Monte la Reina Cuvée Privée,2019,Bodegas Monte La Reina,Toro,España,Tempranillo,,4.33333,5,3,2,-1,-1,-1,"20,80 €",,False
+Vino tinto,Dits del Terra,2019,Terroir al Límit,Priorat,España,Cariñena,,5.0,5,1,10,95,95,-1,"59,45 €",,False
+Vino tinto,Castro Ventosa Valtuille Villegas,2019,Bodegas y Viñedos Castro Ventosa,Bierzo,España,Mencía,,5.0,5,1,9,96,-1,-1,"43,50 €",,False
+Vino tinto,Yaso,2018,Viñedos de Yaso,Toro,España,Tinta de Toro,,3.69565,5,23,3,-1,-1,-1,"8,46 €","9,95 €",True
+Vino tinto,Viña Zorzal Graciano,2020,Viña Zorzal,Navarra,España,Graciano,,4.18182,5,22,18,-1,-1,-1,"7,80 €",,False
+Vino tinto,Viña Almate,2019,Bodega Alfredo Maestro Tejero,Castilla y León,España,Tempranillo,,4.0,5,6,3,-1,-1,-1,"7,95 €",,False
+Vino tinto,Ostatu Crianza,2019,Bodegas Ostatu,Rioja,España,Tempranillo,,4.0,5,4,3,-1,-1,-1,"10,20 €",,False
+Vino tinto,El Escocés Volante La Multa Old Vine Garnacha,2020,El Escocés Volante,Calatayud,España,Garnacha,,3.5,5,6,5,-1,-1,-1,"6,50 €",,False
+Vino tinto,Solà 2 Classic,2017,Solà Classic,Priorat,España,Cariñena / Garnacha,ECO,4.66667,5,3,9,-1,-1,-1,"9,95 €",,False
+Vino tinto,Wrongo Dongo,2020,Bodegas Volver,Jumilla,España,Monastrell,,4.6,5,10,15,-1,-1,-1,"5,95 €",,False
+Vino tinto,Clos de l'Obac,2012,Costers del Siurana,Priorat,España,Garnacha / Cabernet sauvignon / Syrah / Merlot / Cariñena,,5.0,5,2,4,-1,-1,-1,"79,90 €",,False
+Vino tinto,Ramón Bilbao Gran Reserva,2014,Bodegas Ramón Bilbao,Rioja,España,Tempranillo / Graciano / Mazuelo,,4.8,5,5,14,-1,-1,-1,"22,95 €",,False
+Vino tinto,PradoRey Élite,2019,Bodegas Pradorey,Ribera del Duero,España,Tempranillo,,4.75,5,4,12,-1,-1,-1,"31,90 €",,False
+Vino tinto,Viña Ijalba Graciano,2019,Viña Ijalba,Rioja,España,Graciano,ECO,0.0,5,0,2,-1,-1,-1,"13,95 €",,False
+Vino tinto,Kenwood Jack London Zinfandel,2014,Kenwood Vineyards,Sonoma County,Estados Unidos,Zinfandel,,4.33333,5,3,6,-1,-1,-1,"25,00 €",,False
+Vino tinto,Chánselus Castes Tintas,2019,Bernardo Estévez,Ribeiro,España,Brancellao / Sousón / Caiño tinto / Trincadeira / Caiño longo / Mencía,,0.0,5,0,2,94,-1,-1,"33,70 €",,False
+Vino tinto,Conde Siruela Roble,2020,Bodegas Frutos Villar,Ribera del Duero,España,Tempranillo,,4.0,5,3,3,-1,-1,-1,"7,50 €",,False
+Vino tinto,Insensato Garnacha,2019,Bodegas D. Mateos,Rioja,España,Garnacha,,0.0,5,0,2,-1,-1,-1,"9,30 €","10,95 €",True
+Vino tinto,Marqués de Burgos Roble,2020,Bodegas Lan,Ribera del Duero,España,Tempranillo,,5.0,5,1,6,-1,-1,-1,"6,90 €",,False
+Vino tinto,Pinord Chateldon Reserva,2016,Bodegas Pinord,Penedès,España,Cabernet sauvignon,ECO,4.0,5,3,2,-1,-1,-1,"10,95 €",,False
+Vino tinto,J. Antonio Ponce Pino,2020,Bodegas y Viñedos Ponce,Manchuela,España,Bobal,,5.0,5,1,7,95,-1,-1,"24,50 €",,False
+Vino tinto,Miros de Ribera Crianza,2018,Bodegas Peñafiel,Ribera del Duero,España,Tempranillo,,3.5,5,2,3,-1,-1,92,"16,90 €",,False
+Vino tinto,AA Parvus Syrah,2018,Alta Alella,Alella,España,Syrah,ECO,3.66667,5,3,2,-1,-1,-1,"13,30 €",,False
+Vino tinto,Perrin Réserve Côtes du Rhône Rouge,2019,Famille Perrin,Côtes du Rhône,Francia,Garnacha / Monastrell / Syrah,,4.25,5,4,8,-1,-1,-1,"10,90 €",,False
+Vino tinto,Fournier Côtes de Morogues Rouge,2018,Domaine Fournier Père & Fils,Menetou-Salon,Francia,Pinot noir,,0.0,5,0,2,-1,-1,-1,"14,90 €",,False
+Vino tinto,Terra Danella,2018,Bodega Vinessens,Alicante,España,Monastrell / Tempranillo / Garnacha,,0.0,5,0,1,-1,-1,-1,"9,27 €","10,90 €",True
+Vino tinto,Merum Priorati El Cel,2018,Merum Priorati,Priorat,España,Garnacha / Syrah / Cariñena / Cabernet sauvignon,,5.0,5,2,7,-1,-1,-1,"67,46 €","71,00 €",True
+Vino tinto,Formiga de Vellut,2019,Domini de la Cartoixa,Priorat,España,Garnacha / Cariñena / Syrah,ECO,4.5,5,10,13,-1,-1,92,"16,90 €",,False
+Vino tinto,Arcane La Tempérance,-1,Xavier Vignon,Côtes-du-Rhône-Villages Cairanne,Francia,Grenache / Syrah,ECO,0.0,5,0,10,92,-1,-1,"23,05 €",,False
+Vino tinto,Suertes del Marqués Cruz Santa,2020,Bodega Suertes del Marqués,Valle de La Orotava,España,Vijariego negro,,0.0,5,0,8,95,-1,-1,"33,75 €",,False
+Vino tinto,Ganadero Tinto,2020,Canopy,Méntrida,España,Garnacha,,4.6,5,5,12,-1,-1,-1,"5,90 €",,False
+Vino tinto,Jardins Negre,2021,Perelada,Empordà,España,Monastrell / Garnacha / Merlot / Syrah / Cabernet sauvignon,,4.25,5,4,6,-1,-1,-1,"5,45 €",,False
+Vino tinto,Faustino VII CVC,-1,Bodegas Faustino,Rioja,España,Tempranillo,,4.33333,5,3,4,-1,-1,-1,"4,80 €",,False
+Vino tinto,Hello World Petit Verdot,2021,Finca La Estacada,Castilla,España,Petit verdot,,5.0,5,1,2,-1,-1,-1,"5,55 €",,False
+Vino tinto,La Mujer Cañón,2019,Comando G Viticultores,Vinos de Madrid,España,Garnacha,,4.5,5,2,8,93,-1,-1,"84,30 €",,False
+Vino tinto,Evodia Pizarras Antiguas,2016,Bodegas San Alejandro,Calatayud,España,Garnacha,,4.0,5,1,6,90,-1,-1,"10,16 €","11,95 €",True
+Vino tinto,Estay,2016,Dominio DosTares,Castilla y León,España,Prieto picudo,,4.0,5,1,4,-1,-1,-1,"7,61 €","8,95 €",True
+Vino tinto,Barbazul Tinto Roble,2020,Huerta de Albalá,Cádiz,España,Tintilla / Syrah / Merlot / Cabernet sauvignon,,4.375,5,24,12,-1,-1,-1,"8,95 €",,False
+Vino tinto,Bobos Finca Casa La Borracha,2020,Bodegas Hispano-Suizas,Utiel-Requena,España,Bobal,,4.4,5,5,7,-1,-1,-1,"24,50 €",,False
+Vino tinto,Botijo Rojo Garnacha,2020,Bodegas Frontonio,Valdejalón,España,Garnacha,ECO,3.16667,5,6,4,91,91,-1,"9,50 €",,False
+Vino tinto,Braunewell Spätburgunder Trocken,2018,Weingut Braunewell,Rheinhessen,Alemania,Pinot noir,,4.0,5,1,2,-1,-1,-1,"14,50 €",,False
+Vino tinto,Château de Carles,2019,Haut-Carles,Fronsac,Francia,Merlot / Cabernet franc / Malbec,,0.0,5,0,0,91,-1,-1,"21,95 €",,False
+Vino tinto,Coto de Hayas Viñas del Cierzo,2015,Bodegas Aragonesas,Campo de Borja,España,Garnacha / Tempranillo,,4.625,5,8,6,-1,-1,-1,"9,75 €",,False
+Vino tinto,Dehesa del Carrizal Cabernet Sauvignon,2018,Dehesa del Carrizal,Pago Dehesa del Carrizal,España,Cabernet sauvignon,,4.5,5,4,4,-1,-1,-1,"16,95 €",,False
+Vino tinto,Domaine de Montille Beaune 1er Cru les Sizies,2017,Domaine de Montille,Beaune,Francia,Pinot noir,,4.0,5,2,2,-1,-1,-1,"63,60 €",,False
+Vino tinto,El Bosque,2020,Viñedos Sierra Cantabria,Rioja,España,Tempranillo,,4.25,5,4,10,-1,-1,-1,"102,00 €",,False
+Vino tinto,Feudi di San Gregorio Primitivo di Manduria,2020,Feudi di San Gregorio,Primitivo di Manduria,Italia,Primitivo,,4.8,5,5,13,-1,-1,-1,"11,35 €",,False
+Vino tinto,Gran Colegiata Original,2016,Bodegas Fariña,Toro,España,Tinta de Toro,,4.0,5,1,7,-1,-1,-1,"17,75 €",,False
+Vino tinto,J. Antonio Ponce La Casilla Estrecha,2020,Bodegas y Viñedos Ponce,Manchuela,España,Bobal,,4.0,5,5,8,95,-1,-1,"23,50 €",,False
+Vino tinto,Lacima,2018,Dominio do Bibei,Ribeira Sacra,España,Mencía,,4.0,5,1,11,95,-1,-1,"35,50 €",,False
+Vino tinto,La Zorra Raro,2018,Vinos La Zorra,Sierra de Salamanca,España,Rufete,,3.2,5,5,8,-1,-1,-1,"11,18 €","13,15 €",True
+Vino tinto,Altanza Reserva,2015,Bodegas Altanza,Rioja,España,Tempranillo,,3.5,5,4,5,-1,91,-1,"13,50 €",,False
+Vino tinto,Marqués de Riscal,1911,"Marqués de Riscal, Herederos",Rioja,España,Tempranillo / Graciano / Mazuelo,,0.0,5,0,7,-1,-1,-1,"143,65 €","169,00 €",True
+Vino tinto,Petit Blei,2021,Mas d'en Blei,Priorat,España,Garnacha,,0.0,5,0,3,-1,-1,-1,"10,50 €",,False
+Vino tinto,Phincas,2019,Bhilar,Rioja,España,Tempranillo / Graciano / Garnacha / Viura,ECO,4.5,5,2,1,-1,-1,-1,"23,50 €",,False
+Vino tinto,Pittacum,2019,Viñedos y Bodegas Pittacum,Bierzo,España,Mencía,,4.3125,5,16,19,-1,92,-1,"11,50 €",,False
+Vino tinto,Raimat Abadia Ecológico,2020,Raimat,Costers del Segre,España,Cabernet sauvignon / Tempranillo,ECO,4.5,5,10,3,-1,-1,-1,"7,45 €",,False
+Vino tinto,Rendé Masdéu Manuela Ventosa,2017,Rendé Masdéu,Conca de Barberà,España,Cabernet sauvignon / Syrah,,5.0,5,1,0,-1,-1,-1,"17,76 €","20,90 €",True
+Vino tinto,Ipsis Crianza,2019,Vins Padró,Tarragona,España,Tempranillo / Merlot,,4.0,5,2,1,-1,-1,-1,"6,95 €",,False
+Vino tinto,De Sòl a Sol,2020,Wineissocial,Priorat,España,Garnacha / Samsó / Cabernet sauvignon / Merlot,,0.0,5,0,5,-1,-1,-1,"13,50 €",,False
+Vino tinto,Torremayor Crianza,2019,Viña Santa Marina,Extremadura,España,Tempranillo,,4.0,5,2,2,-1,-1,-1,"9,95 €",,False
+Vino tinto,Viña Pomal Ecológico,2019,Bodegas Bilbaínas,Rioja,España,Tempranillo,ECO,4.0,5,5,3,-1,-1,-1,"9,95 €",,False
+Vino tinto,Marqués de Tomares Crianza,2019,Marqués de Tomares,Rioja,España,Tempranillo / Graciano,,0.0,5,0,3,-1,-1,-1,"8,95 €",,False
+Vino tinto,Marqués de Carrión Reserva,2016,García-Carrión,Rioja,España,Tempranillo / Graciano / Mazuelo,,4.0,5,1,3,-1,-1,-1,"11,50 €",,False
+Vino tinto,Alma Serena Barrica,2021,Bodegas Peñafiel,Ribera del Duero,España,Tempranillo,,0.0,5,0,1,-1,-1,-1,"10,10 €",,False
+Vino tinto,Hermanos Lurton Tempranillo,2019,El Albar Lurton,Toro,España,Tempranillo,,4.0,5,4,2,-1,-1,-1,"7,85 €",,False
+Vino tinto,Murua Reserva,2014,Bodegas Murua,Rioja,España,Tempranillo / Graciano / Mazuelo,,4.77778,5,9,8,-1,-1,-1,"16,95 €",,False
+Vino tinto,Cerro Añón Reserva,2018,Bodegas Olarra,Rioja,España,Tempranillo / Mazuelo / Garnacha,,4.2,5,5,4,-1,-1,-1,"12,95 €",,False
+Vino tinto,Mar de Envero Volandia,2018,Mar de Envero,Ribeira Sacra,España,Mencía,,4.0,5,2,2,-1,-1,-1,"18,50 €",,False
+Vino tinto,Jan Petit,2019,Clos Pons,Costers del Segre,España,Garnacha / Syrah,,5.0,5,1,2,-1,-1,-1,"6,95 €",,False
+Vino tinto,Espelt Terres Negres,2019,Espelt Viticultors de l'Empordà,Empordà,España,Cariñena,,5.0,5,1,1,-1,-1,-1,"14,90 €",,False
+Vino tinto,Château de la Gardine Rasteau,2018,Château de la Gardine,Rasteau,Francia,Grenache / Syrah,,0.0,5,0,4,-1,-1,-1,"17,90 €",,False
+Vino tinto,Áster Crianza,2019,Áster,Ribera del Duero,España,Tempranillo,,4.4,5,5,8,-1,-1,-1,"17,50 €",,False
+Vino tinto,San Cobate,2018,San Cobate,Ribera del Duero,España,Tempranillo,,4.0,5,1,3,-1,-1,-1,"17,30 €",,False
+Vino tinto,Mas Comtal Negre d'Anyada,2019,Mas Comtal,Penedès,España,Garnacha / Merlot,ECO,0.0,5,0,0,-1,-1,-1,"8,40 €",,False
+Vino tinto,La Danza del Viento Parcela La Isilla,2019,4 Monos Viticultores,Vinos de Madrid,España,Garnacha,,0.0,5,0,5,-1,-1,-1,"33,95 €",,False
+Vino tinto,Valdueza,2018,Marqués de Valdueza,Extremadura,España,Merlot / Cabernet sauvignon / Syrah,,4.0,5,1,3,-1,-1,-1,"8,45 €",,False
+Vino tinto,Sierra Cantabria Crianza,2018,Sierra Cantabria,Rioja,España,Tempranillo / Garnacha / Graciano,,4.07692,5,13,7,-1,-1,-1,"10,50 €",,False
+Vino tinto,Coto de Hayas Tempranillo Cabernet Roble,2020,Bodegas Aragonesas,Campo de Borja,España,Tempranillo / Cabernet sauvignon,,4.07407,5,27,10,-1,-1,-1,"4,20 €",,False
+Vino tinto,Viña Paceta Crianza,2018,Bodegas Bilbaínas,Rioja,España,Tempranillo,,4.22222,5,9,4,-1,-1,-1,"5,75 €",,False
+Vino tinto,Emendis Cabró! Negre Selecció,2021,Emendis,Penedès,España,Tempranillo / Merlot / Cabernet sauvignon,,0.0,5,0,1,-1,-1,-1,"4,60 €",,False
+Vino tinto,Las Hermanas Joven,2020,Bodegas Luzón,Jumilla,España,Monastrell / Syrah,,4.15385,5,13,6,-1,-1,-1,"4,95 €",,False
